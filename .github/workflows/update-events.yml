@@ -1,0 +1,52 @@
+name: Update Her Match Events
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    # 11:17 UTC is 7:17 a.m. Toronto during daylight time.
+    # An off-hour minute can reduce peak-time scheduling delays.
+    - cron: "17 11 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-events:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Collect events and create newsletter draft
+        env:
+          ICS_URL: ${{ secrets.ICS_URL }}
+          SPORT: ${{ vars.SPORT }}
+          COMPETITION: ${{ vars.COMPETITION }}
+          DISPLAY_TIMEZONE: America/Toronto
+          DAYS_AHEAD: "14"
+        run: python main.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name "Her Match Automation"
+          git config user.email "actions@users.noreply.github.com"
+
+          git add data/events.csv data/changes.csv output/newsletter.md
+
+          if git diff --cached --quiet; then
+            echo "No event changes to commit."
+          else
+            git commit -m "Update Her Match events"
+            git push
+          fi
