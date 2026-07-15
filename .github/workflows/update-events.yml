@@ -39,14 +39,21 @@ jobs:
 
       - name: Commit updated data
         run: |
-          git config user.name "Her Match Automation"
-          git config user.email "actions@users.noreply.github.com"
+          git config --global user.name "Her Match Automation"
+          git config --global user.email "actions@users.noreply.github.com"
 
-          git add data/events.csv data/changes.csv output/newsletter.md
+          echo "Checking generated files..."
+          ls -la data || true
+          ls -la output || true
+
+          git add -f data/events.csv
+          git add -f data/changes.csv
+          git add -f output/newsletter.md
 
           if git diff --cached --quiet; then
             echo "No event changes to commit."
-          else
-            git commit -m "Update Her Match events"
-            git push
+            exit 0
           fi
+
+          git commit -m "Update Her Match events"
+          git push origin HEAD:main
