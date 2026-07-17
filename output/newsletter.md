@@ -2,12 +2,7 @@
 
 ## Women's sports coming up
 
-Events scheduled from July 16, 2026 through July 30, 2026.
-
-## Thursday, July 16
-
-- **7:00 PM · Soccer · Northern Super League**
-  Ottawa Rapid FC vs. Halifax Tides FC · TD Place
+Events scheduled from July 17, 2026 through July 31, 2026.
 
 ## Friday, July 17
 
