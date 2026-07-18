@@ -2,12 +2,7 @@
 
 ## Women's sports coming up
 
-Events scheduled from July 17, 2026 through July 31, 2026.
-
-## Friday, July 17
-
-- **9:00 PM · Soccer · Northern Super League**
-  Calgary Wild FC vs. Montreal Roses FC · McMahon Stadium
+Events scheduled from July 18, 2026 through August 01, 2026.
 
 ## Saturday, July 18
 
