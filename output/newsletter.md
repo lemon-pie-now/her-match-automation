@@ -2,12 +2,7 @@
 
 ## Women's sports coming up
 
-Events scheduled from July 18, 2026 through August 01, 2026.
-
-## Saturday, July 18
-
-- **4:00 PM · Soccer · Northern Super League**
-  AFC Toronto vs. Vancouver Rise FC · York Lions Stadium
+Events scheduled from July 19, 2026 through August 02, 2026.
 
 ## Wednesday, July 22
 
@@ -33,3 +28,8 @@ Events scheduled from July 18, 2026 through August 01, 2026.
 
 - **10:00 PM · Soccer · Northern Super League**
   Vancouver Rise FC vs. Montreal Roses FC · Swangard Stadium
+
+## Saturday, August 01
+
+- **4:00 PM · Soccer · Northern Super League**
+  Calgary Wild FC vs. AFC Toronto · McMahon Stadium
