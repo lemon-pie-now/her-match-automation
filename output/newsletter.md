@@ -2,7 +2,7 @@
 
 ## Women's sports coming up
 
-Events scheduled from July 20, 2026 through August 03, 2026.
+Events scheduled from July 21, 2026 through August 04, 2026.
 
 ## Wednesday, July 22
 
@@ -33,3 +33,8 @@ Events scheduled from July 20, 2026 through August 03, 2026.
 
 - **4:00 PM · Soccer · Northern Super League**
   Calgary Wild FC vs. AFC Toronto · McMahon Stadium
+
+## Monday, August 03
+
+- **2:00 PM · Soccer · Northern Super League**
+  Halifax Tides FC vs. Ottawa Rapid FC · Wanderers Grounds
