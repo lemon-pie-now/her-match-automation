@@ -2,7 +2,7 @@
 
 ## Women's sports coming up
 
-Events scheduled from July 21, 2026 through August 04, 2026.
+Events scheduled from July 22, 2026 through August 05, 2026.
 
 ## Wednesday, July 22
 
