@@ -2,12 +2,7 @@
 
 ## Women's sports coming up
 
-Events scheduled from July 22, 2026 through August 05, 2026.
-
-## Wednesday, July 22
-
-- **9:00 PM · Soccer · Northern Super League**
-  Calgary Wild FC vs. Ottawa Rapid FC · McMahon Stadium
+Events scheduled from July 23, 2026 through August 06, 2026.
 
 ## Thursday, July 23
 
