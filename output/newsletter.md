@@ -2,12 +2,7 @@
 
 ## Women's sports coming up
 
-Events scheduled from July 23, 2026 through August 06, 2026.
-
-## Thursday, July 23
-
-- **7:00 PM · Soccer · Northern Super League**
-  Montreal Roses FC vs. AFC Toronto · Stade Boréale
+Events scheduled from July 24, 2026 through August 07, 2026.
 
 ## Saturday, July 25
 
