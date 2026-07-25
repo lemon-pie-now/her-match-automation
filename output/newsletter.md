@@ -2,7 +2,7 @@
 
 ## Women's sports coming up
 
-Events scheduled from July 24, 2026 through August 07, 2026.
+Events scheduled from July 25, 2026 through August 08, 2026.
 
 ## Saturday, July 25
 
@@ -28,3 +28,8 @@ Events scheduled from July 24, 2026 through August 07, 2026.
 
 - **2:00 PM · Soccer · Northern Super League**
   Halifax Tides FC vs. Ottawa Rapid FC · Wanderers Grounds
+
+## Friday, August 07
+
+- **7:00 PM · Soccer · Northern Super League**
+  Montreal Roses FC vs. Halifax Tides FC · Stade Boréale
