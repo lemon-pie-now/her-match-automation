@@ -2,12 +2,7 @@
 
 ## Women's sports coming up
 
-Events scheduled from July 25, 2026 through August 08, 2026.
-
-## Saturday, July 25
-
-- **4:00 PM · Soccer · Northern Super League**
-  Vancouver Rise FC vs. Halifax Tides FC · Swangard Stadium
+Events scheduled from July 26, 2026 through August 09, 2026.
 
 ## Tuesday, July 28
 
@@ -33,3 +28,8 @@ Events scheduled from July 25, 2026 through August 08, 2026.
 
 - **7:00 PM · Soccer · Northern Super League**
   Montreal Roses FC vs. Halifax Tides FC · Stade Boréale
+
+## Saturday, August 08
+
+- **7:00 PM · Soccer · Northern Super League**
+  Vancouver Rise FC vs. Calgary Wild FC · Swangard Stadium
