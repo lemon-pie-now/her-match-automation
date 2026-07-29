@@ -2,12 +2,7 @@
 
 ## Women's sports coming up
 
-Events scheduled from July 28, 2026 through August 11, 2026.
-
-## Tuesday, July 28
-
-- **7:00 PM · Soccer · Northern Super League**
-  AFC Toronto vs. Calgary Wild FC · York Lions Stadium
+Events scheduled from July 29, 2026 through August 12, 2026.
 
 ## Wednesday, July 29
 
