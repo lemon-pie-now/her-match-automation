@@ -2,12 +2,7 @@
 
 ## Women's sports coming up
 
-Events scheduled from July 29, 2026 through August 12, 2026.
-
-## Wednesday, July 29
-
-- **10:00 PM · Soccer · Northern Super League**
-  Vancouver Rise FC vs. Montreal Roses FC · Swangard Stadium
+Events scheduled from July 30, 2026 through August 13, 2026.
 
 ## Saturday, August 01
 
