@@ -2,12 +2,7 @@
 
 ## Women's sports coming up
 
-Events scheduled from August 01, 2026 through August 15, 2026.
-
-## Saturday, August 01
-
-- **4:00 PM · Soccer · Northern Super League**
-  Calgary Wild FC vs. AFC Toronto · McMahon Stadium
+Events scheduled from August 02, 2026 through August 16, 2026.
 
 ## Monday, August 03
 
@@ -28,3 +23,11 @@ Events scheduled from August 01, 2026 through August 15, 2026.
 
 - **2:00 PM · Soccer · Northern Super League**
   Ottawa Rapid FC vs. AFC Toronto · TD Place
+
+## Saturday, August 15
+
+- **4:00 PM · Soccer · Northern Super League**
+  Calgary Wild FC vs. Ottawa Rapid FC · McMahon Stadium
+
+- **9:30 PM · Soccer · Northern Super League**
+  Vancouver Rise FC vs. Halifax Tides FC · Swangard Stadium
