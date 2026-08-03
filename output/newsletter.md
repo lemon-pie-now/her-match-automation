@@ -2,7 +2,7 @@
 
 ## Women's sports coming up
 
-Events scheduled from August 02, 2026 through August 16, 2026.
+Events scheduled from August 03, 2026 through August 17, 2026.
 
 ## Monday, August 03
 
@@ -31,3 +31,8 @@ Events scheduled from August 02, 2026 through August 16, 2026.
 
 - **9:30 PM · Soccer · Northern Super League**
   Vancouver Rise FC vs. Halifax Tides FC · Swangard Stadium
+
+## Sunday, August 16
+
+- **3:00 PM · Soccer · Northern Super League**
+  AFC Toronto vs. Montreal Roses FC · BMO Field
