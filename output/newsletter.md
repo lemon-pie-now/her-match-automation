@@ -2,12 +2,7 @@
 
 ## Women's sports coming up
 
-Events scheduled from August 03, 2026 through August 17, 2026.
-
-## Monday, August 03
-
-- **2:00 PM · Soccer · Northern Super League**
-  Halifax Tides FC vs. Ottawa Rapid FC · Wanderers Grounds
+Events scheduled from August 04, 2026 through August 18, 2026.
 
 ## Friday, August 07
 
