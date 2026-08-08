@@ -2,12 +2,7 @@
 
 ## Women's sports coming up
 
-Events scheduled from August 07, 2026 through August 21, 2026.
-
-## Friday, August 07
-
-- **7:00 PM · Soccer · Northern Super League**
-  Montreal Roses FC vs. Halifax Tides FC · Stade Boréale
+Events scheduled from August 08, 2026 through August 22, 2026.
 
 ## Saturday, August 08
 
