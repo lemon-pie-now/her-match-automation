@@ -2,12 +2,7 @@
 
 ## Women's sports coming up
 
-Events scheduled from August 08, 2026 through August 22, 2026.
-
-## Saturday, August 08
-
-- **7:00 PM · Soccer · Northern Super League**
-  Vancouver Rise FC vs. Calgary Wild FC · Swangard Stadium
+Events scheduled from August 09, 2026 through August 23, 2026.
 
 ## Sunday, August 09
 
@@ -26,3 +21,8 @@ Events scheduled from August 08, 2026 through August 22, 2026.
 
 - **3:00 PM · Soccer · Northern Super League**
   AFC Toronto vs. Montreal Roses FC · BMO Field
+
+## Saturday, August 22
+
+- **7:00 PM · Soccer · Northern Super League**
+  Ottawa Rapid FC vs. Vancouver Rise FC · TD Place
