@@ -55,3 +55,4 @@ detected_at_utc,event_id,title,competition,change_type,changed_fields
 2026-07-15T19:56:25.740647+00:00,dc3dd9e413a64a40f25519d4,Halifax Tides FC vs. AFC Toronto,Northern Super League,new_event,
 2026-07-15T19:56:25.740649+00:00,362008ed2b3999c82070367a,Welcome to the Northern Super League!,Northern Super League,new_event,
 2026-08-07T11:58:42.614885+00:00,8db6fc3b4289aceea85dccc2,Montreal Roses FC vs. Halifax Tides FC,Northern Super League,updated_event,location
+2026-08-20T11:44:29.889062+00:00,3fd6bb0916bf0093363f8cd8,2026 NSL Championship,Northern Super League,updated_event,description
