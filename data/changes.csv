@@ -312,3 +312,302 @@ detected_at_utc,event_id,title,competition,change_type,changed_fields
 2026-07-17T18:09:52.227270+00:00,63f97d0e5b16eaa13899cf74,,2026 Semi-Final A - Leg 2,Her Match Test League,removed_event,
 2026-07-17T18:09:52.227270+00:00,6d19ffc2e814498806dcbfc5,,2026 Semi-Final B - Leg 2,Her Match Test League,removed_event,
 2026-07-17T18:09:52.227270+00:00,64c074ce5cf8e2f87b4c01a7,,2026 NSL Championship,Her Match Test League,removed_event,
+2026-07-22T14:56:40.955241+00:00,d9c68a6152c6e139db3f8dc7,NWSL,⚽️ Utah Royals FC vs Orlando Pride,National Women’s Soccer League,updated_event,description
+2026-07-22T14:56:40.955241+00:00,e4c354435364f6c1e9ed1ab2,NWSL,⚽️ Denver Summit FC vs Portland Thorns FC,National Women’s Soccer League,updated_event,"start_time_utc,end_time_utc,description"
+2026-07-22T14:56:40.955241+00:00,a5ec14714210da9857ea5c8e,NWSL,⚽️ Gotham FC vs Seattle Reign FC,National Women’s Soccer League,updated_event,"start_time_utc,end_time_utc,description"
+2026-07-22T14:56:40.955241+00:00,83f01170cfb67f28f1d5ba54,NWSL,⚽️ Racing Louisville FC vs Houston Dash,National Women’s Soccer League,updated_event,"start_time_utc,end_time_utc,description"
+2026-07-22T14:56:40.955241+00:00,0496e5d0f7bb1d9a8e507c00,NWSL,⚽️ Boston Legacy FC vs Racing Louisville FC,National Women’s Soccer League,updated_event,location
+2026-07-22T14:56:40.955241+00:00,04447129f06464c4eabe28d3,NWSL,⚽️ Boston Legacy FC vs Angel City FC,National Women’s Soccer League,updated_event,location
+2026-07-22T14:56:40.955241+00:00,d6cab86e9b422e9faafffc4e,WSL,Chelsea W 2 - 1 Manchester City W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,8d373358e062cb4e0753e31f,WSL,Arsenal W 4 - 1 London City Lionesses W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,8e0a0ef0d44cd31c95463f41,WSL,Liverpool W 1 - 4 Everton W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,2836f9ee5a4aca6c176b4b80,WSL,Brighton W 0 - 0 Aston Villa W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,39314ff0327776a178c6f56a,WSL,Manchester United W 4 - 0 Leicester City FC W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,891610396edce9f31924e0fb,WSL,Tottenham Hotspur W 1 - 0 West Ham W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,06b59edb44dbc2af1ac7c02e,WSL,Manchester City W 2 - 1 Brighton W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,2d1d6af6e397a7b1ef96d59c,WSL,West Ham W 1 - 5 Arsenal W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,36bcccfe9e0b55844fd25bc0,WSL,Aston Villa W 1 - 3 Chelsea W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,a3b33baf302f78aab9faf4c1,WSL,Leicester City FC W 1 - 0 Liverpool W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,5df36936118c9864418337c3,WSL,London City Lionesses W 1 - 5 Manchester United W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,972c0e57a5fb273177df13c1,WSL,Everton W 0 - 2 Tottenham Hotspur W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,05b6efc447b4f969f86a596a,WSL,Everton W 1 - 2 London City Lionesses W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,c2fa8fbb35423f10bdc96aad,WSL,Tottenham Hotspur W 1 - 5 Manchester City W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,996fd4954d0882160ab7f150,WSL,Chelsea W 1 - 0 Leicester City FC W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,b345869e1ae820aa791d207c,WSL,Brighton W 4 - 1 West Ham W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,635da2952ff8781eefe1c7fc,WSL,Manchester United W 0 - 0 Arsenal W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,f8c09bc74e34971d7ed6ae7b,WSL,Arsenal W 1 - 1 Aston Villa W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,4cfdcd42dbd6a85d3c121344,WSL,Liverpool W 0 - 2 Manchester United W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,3dd072f07394966d73c45aef,WSL,Manchester City W 4 - 1 London City Lionesses W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,644798e4e8ed9297b9914c95,WSL,Brighton W 1 - 0 Everton W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,95e6b69035682699cabded9b,WSL,Leicester City FC W 1 - 2 Tottenham Hotspur W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,7133d2989a6950052c227341,WSL,West Ham W 0 - 4 Chelsea W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,b3b99f22f840867dad1f8c52,WSL,Manchester United W 1 - 1 Chelsea W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,3afe056596a5b37defbeda47,WSL,Manchester City W 3 - 2 Arsenal W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,088dcab3a3494519fc9b014c,WSL,West Ham W 0 - 2 Aston Villa W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,60f37f297c2657850bdf5d71,WSL,Tottenham Hotspur W 1 - 0 Brighton W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,461a604e01db22a5c81e61ee,WSL,Leicester City FC W 1 - 1 Everton W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,f10241587e690521636e35b6,WSL,London City Lionesses W 1 - 0 Liverpool W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,c8af36bdc217daca67b191f7,WSL,Chelsea W 1 - 0 Tottenham Hotspur W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,2192ce5a78af5d3d9d44b057,WSL,Everton W 1 - 4 Manchester United W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,af39bccd64601ad38e5b64fa,WSL,Aston Villa W 0 - 0 Leicester City FC W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,908c0f5f0096b63772578eaf,WSL,London City Lionesses W 1 - 0 West Ham W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,aaa7d5f0c4903f5ad5c7c260,WSL,Arsenal W 1 - 0 Brighton W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,39b258c0aca3e8d89dd72453,WSL,Liverpool W 1 - 2 Manchester City W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,175e0a3c4c51dab8c199265c,WSL,Chelsea W 2 - 0 London City Lionesses W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,a8a60ff5143dfd0614a1120c,WSL,Manchester City W 1 - 0 West Ham W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,6420872a8e7ca5c9caf052ef,WSL,Brighton W 2 - 3 Manchester United W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,051993906b5d7d51eddb36df,WSL,Tottenham Hotspur W 2 - 1 Liverpool W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,b31b6f76b466dab1bd13b01b,WSL,Aston Villa W 3 - 3 Everton W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,32da61f3540107e6356979aa,WSL,Leicester City FC W 1 - 4 Arsenal W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,7f078309e5e3b2eb79d3a163,WSL,Arsenal W 1 - 1 Chelsea W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,371372b1bd0031d6c1eea74d,WSL,Manchester United W 0 - 1 Aston Villa W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,cdc3324bb1b79e632ca61587,WSL,London City Lionesses W 4 - 2 Tottenham Hotspur W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,c416115088613b056cfe9ecb,WSL,Liverpool W 1 - 1 Brighton W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,ba2560d179283c252fd0daae,WSL,West Ham W 1 - 1 Leicester City FC W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,353896b7441a0d2c23b92b60,WSL,Everton W 1 - 2 Manchester City W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,115cbabe2df20e8f4ce8a036,WSL,Manchester City W 3 - 0 Manchester United W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,1caa533f9c67598717a26878,WSL,Liverpool W 1 - 1 Chelsea W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,894b90d52ee908e6798b7d32,WSL,West Ham W 3 - 1 Everton W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,29e3c6b4d21c02970751ca53,WSL,Brighton W 4 - 1 Leicester City FC W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,f535b9886f2bc94f978f041b,WSL,Aston Villa W 1 - 3 London City Lionesses W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,feb5422f39b360705d385b69,WSL,Tottenham Hotspur W 0 - 0 Arsenal W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,6fe1719bfd397731128707ec,WSL,Arsenal W 2 - 1 Liverpool W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,1112903fef753001da6bbd7e,WSL,Manchester United W 2 - 1 West Ham W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,f53b8c3f9c60b18cdc0c17d3,WSL,Tottenham Hotspur W 2 - 1 Aston Villa W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,1d01d517e0949281bb5b9d66,WSL,Leicester City FC W 0 - 3 Manchester City W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,1d1cc0c2c14ab32451d2dc5c,WSL,London City Lionesses W 0 - 1 Brighton W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,6d3a898a40fa76f1659c8321,WSL,Chelsea W 0 - 1 Everton W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,c733cb3bb7e8e8fbb4b75d53,WSL,Aston Villa W 3 - 0 Liverpool W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,420194439e8c12579fcbf0b0,WSL,Everton W 1 - 3 Arsenal W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,c22004f6ce3431f01ee7f34e,WSL,West Ham W 2 - 2 Liverpool W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,a9b629e4030fa35e5c9f9222,WSL,Leicester City FC W 1 - 0 London City Lionesses W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,0a1cf63a0c9eff6cc305d259,WSL,Manchester City W 6 - 1 Aston Villa W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,3c15275fe673de5bf77c4933,WSL,Brighton W 0 - 3 Chelsea W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,2b7812613367026d539dfe9b,WSL,Manchester United W 3 - 3 Tottenham Hotspur W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,b6f9596c5b83b962e393d9ac,WSL,Arsenal W 0 - 0 Manchester United W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,ea0402e455e54b7c3cc7a3dd,WSL,Chelsea W 5 - 0 West Ham W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,c0c51113b68e8926176d4831,WSL,Manchester City W 2 - 0 Everton W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,b08e58259a19b44dca015b11,WSL,Tottenham Hotspur W 1 - 0 Leicester City FC W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,3d74363cc715b9cce2291a9c,WSL,Aston Villa W 2 - 1 Brighton W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,b5f8b34989733e5a34f5de94,WSL,Liverpool W 0 - 0 London City Lionesses W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,968fb2b0139ae512bc19642f,WSL,Everton W 0 - 1 Brighton W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,72136971fde3ac6fc1e7a3ac,WSL,Chelsea W 0 - 2 Arsenal W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,efe108d0f3b4f4a91a8ceb61,WSL,Liverpool W 2 - 0 Tottenham Hotspur W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,9a640f2f8c495a985bb218dc,WSL,Aston Villa W 1 - 4 Manchester United W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,40faa6766365fe555a879113,WSL,London City Lionesses W 1 - 2 Manchester City W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,68ad76fbe67bbe47ea88b189,WSL,Leicester City FC W 1 - 2 West Ham W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,99bfa951f4aaae63bba06953,WSL,West Ham W 1 - 2 Tottenham Hotspur W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,4888d902cccff20cdbc95ded,WSL,Manchester United W 3 - 1 Liverpool W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,48166db50cac2366b9d100d7,WSL,Everton W 2 - 1 Aston Villa W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,efe9e10ec85c423b00649d34,WSL,Brighton W 1 - 2 London City Lionesses W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,c12fa0c1f7a68edcde0908c5,WSL,Manchester City W 5 - 1 Chelsea W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,7e537e215f56aff1da0e50e3,WSL,Leicester City FC W 0 - 2 Manchester United W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,543320a44888e72fd0a1a6c7,WSL,West Ham W 3 - 2 Brighton W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,d4a43c764af5bc2df18351a4,WSL,London City Lionesses W 0 - 1 Everton W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,4b4e4e3cb4f460cf0b9d7d85,WSL,Liverpool W 4 - 1 Aston Villa W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,0f515076b6cc5f1e9969e5d5,WSL,Arsenal W 1 - 0 Manchester City W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,856aa619a6a5e3272ff4e7b7,WSL,Tottenham Hotspur W 0 - 2 Chelsea W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,50880002de49bbb65a20d3b2,WSL,Manchester City W 6 - 0 Leicester City FC W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,375407d03df10a3d594297d4,WSL,Manchester United W 2 - 1 London City Lionesses W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,c3472d2c6a6cde6a53e0cea2,WSL,Chelsea W 2 - 0 Liverpool W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,e9f7fef18a6270ec5070b51f,WSL,Everton W 1 - 0 West Ham W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,ed692582e5d560b36cfc9050,WSL,Aston Villa W 3 - 7 Tottenham Hotspur W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,8b1c361cbe7c467249010248,WSL,Liverpool W 2 - 0 Leicester City FC W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,e6265df8a9b42a5327edef8a,WSL,Tottenham Hotspur W 1 - 2 Everton W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,5cfc14063bf63b486309841f,WSL,Aston Villa W 0 - 0 Manchester City W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,64caf88ad4d405693d8473a1,WSL,London City Lionesses W 0 - 2 Arsenal W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,540c1e7bbd33b4d86b0bee90,WSL,Chelsea W 2 - 1 Brighton W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,51e68e29469acebb57ce4f5d,WSL,West Ham W 0 - 0 Manchester United W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,783d2643cbb2d4f49062b498,WSL,Arsenal W 5 - 0 West Ham W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,a6d3b6816d0d1839b454843f,WSL,Manchester United W 2 - 1 Everton W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,7a5f32d435f6453d6db38b50,WSL,Manchester City W 5 - 2 Tottenham Hotspur W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,4d2ee0de216d8895280d26cb,WSL,London City Lionesses W 1 - 1 Chelsea W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,b12126f06ea01bd84e1c0449,WSL,Brighton W 0 - 0 Liverpool W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,6b4db647d7cd25b0005788c0,WSL,Leicester City FC W 1 - 2 Aston Villa W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,1fc5a8e49c7b9ac49af43023,WSL,Everton W 2 - 3 Liverpool W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,328cf62bb29715594672f3f6,WSL,Manchester United W 0 - 3 Manchester City W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,70be2363aad8bff4ce225d6a,WSL,Arsenal W 5 - 2 Tottenham Hotspur W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,78ad9c6d860811a807969f3d,WSL,West Ham W 1 - 1 London City Lionesses W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,3b4af6835672daaa4f8e4ce5,WSL,Chelsea W 4 - 3 Aston Villa W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,826b71b9ad734848db46eeb4,WSL,Leicester City FC W 0 - 1 Brighton W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,2a411bbac0fdd3b53a516f1d,WSL,Brighton W 3 - 2 Manchester City W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,f74c879ff2dd0c2e8092b679,WSL,London City Lionesses W 5 - 1 Leicester City FC W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,8a9df136ef569be307238a49,WSL,Everton W 1 - 4 Chelsea W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,4ba451b20c6c15ebaabb6cf5,WSL,Tottenham Hotspur W 0 - 0 Manchester United W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,968d6676de3d2b44969f7c3d,WSL,Liverpool W 0 - 1 West Ham W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,7b69e9cc42fbfd8d7acb9de9,WSL,Arsenal W 7 - 0 Leicester City FC W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,08853c3a53c2d2d79c91a080,WSL,Manchester United W 1 - 1 Brighton W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,256eeb50ad5437793a48c23a,WSL,Manchester City W 1 - 0 Liverpool W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,b75e8582d159c3e9437ad184,WSL,Tottenham Hotspur W 2 - 1 London City Lionesses W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,b6cc73aeec36957aba471847,WSL,Leicester City FC W 1 - 3 Chelsea W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,50b59dd45af3dcb15ff8cf49,WSL,Aston Villa W 0 - 2 West Ham W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,21c4852a92d1e3ca363a29ad,WSL,Brighton W 1 - 1 Arsenal W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,29dad8abbd6f034372257460,WSL,Aston Villa W 0 - 3 Arsenal W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,886ca5c8582cc29af612f2bb,WSL,Arsenal W 1 - 0 Everton W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,d8f7df597da7de4935d13b7b,WSL,Liverpool W 1 - 3 Arsenal W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,e8637ee010afc8a93c97b10c,WSL,Chelsea W 1 - 0 Manchester United W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,e96aeec759c0d822d5f7b249,WSL,Everton W 1 - 0 Leicester City FC W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,a4d39d0153a758091a2010a6,WSL,West Ham W 1 - 4 Manchester City W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,8fc29a9a6f002b20f8562f27,WSL,Brighton W 1 - 2 Tottenham Hotspur W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,d56d285d7219624d336710dd,WSL,London City Lionesses W 2 - 1 Aston Villa W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,e3b76dbf50f1ac7dbe8d6f43,WSL,Charlton Athletic W 0 - 0 (pens 2 - 1) Leicester City FC W,Women's Super League,new_event,
+2026-07-22T14:56:40.955241+00:00,239cd1625293c4f12a9d5dc1,nsl,Montreal Roses FC vs. Vancouver Rise FC,Northern Super League,removed_event,
+2026-07-22T14:56:40.955241+00:00,3fe8aa83cc0b8ae2e6792700,nsl,Ottawa Rapid FC vs. Calgary Wild FC,Northern Super League,removed_event,
+2026-07-22T14:56:40.955241+00:00,83a9dd89e3a827e2027c80da,nsl,Halifax Tides FC vs. AFC Toronto,Northern Super League,removed_event,
+2026-07-25T15:40:34.302091+00:00,51ae070e4f7a98eb2a35541d,NWSL,⚽️ Orlando Pride vs Houston Dash,National Women’s Soccer League,updated_event,location
+2026-07-25T15:40:34.302091+00:00,17feb834c8002ef29021f6b4,NWSL,⚽️ Orlando Pride vs Kansas City Current,National Women’s Soccer League,updated_event,location
+2026-07-25T15:40:34.302091+00:00,f77eb31f9c7dce78837bd742,NWSL,⚽️ Orlando Pride vs Boston Legacy FC,National Women’s Soccer League,updated_event,location
+2026-07-25T15:40:34.302091+00:00,2d94b85a50803436308471c5,NWSL,⚽️ Orlando Pride vs Chicago Stars FC,National Women’s Soccer League,updated_event,location
+2026-07-25T15:40:34.302091+00:00,164938782ff0e5a12a74dfe2,NWSL,⚽️ Orlando Pride vs Racing Louisville FC,National Women’s Soccer League,updated_event,location
+2026-07-25T15:40:34.302091+00:00,d7fdfc4f4bda66275495c07c,NWSL,⚽️ Orlando Pride vs Utah Royals FC,National Women’s Soccer League,updated_event,location
+2026-07-25T15:40:34.302091+00:00,a8a407676ddef5189cadf153,NWSL,⚽️ Orlando Pride vs Portland Thorns FC,National Women’s Soccer League,updated_event,location
+2026-07-25T15:40:34.302091+00:00,ee1297e8033d66debdc5dd6d,NWSL,⚽️ Orlando Pride vs San Diego Wave FC,National Women’s Soccer League,updated_event,location
+2026-07-25T15:40:34.302091+00:00,49886fc05e86eadfce0b278c,NWSL,⚽️ Orlando Pride vs Gotham FC,National Women’s Soccer League,updated_event,location
+2026-08-22T16:51:45.832475+00:00,0aa5f9fcb4f56a851fb06d27,nsl,2026 NSL Championship,Northern Super League,updated_event,description
+2026-08-22T16:51:45.832475+00:00,0adad0b99755658a3e61cce3,nsl,Montreal Roses FC vs. Halifax Tides FC,Northern Super League,updated_event,location
+2026-08-22T16:51:45.832475+00:00,c58e99c65fd60f684f270f64,NWSL,⚽️ Utah Royals FC vs Bay FC,National Women’s Soccer League,updated_event,description
+2026-08-22T16:51:45.832475+00:00,08530b52ccb126a42b1549ec,NWSL,⚽️ Bay FC vs Portland Thorns FC,National Women’s Soccer League,updated_event,description
+2026-08-22T16:51:45.832475+00:00,cf4ac8727fa389d0fe737a32,NWSL,⚽️ Houston Dash vs Kansas City Current,National Women’s Soccer League,updated_event,description
+2026-08-22T16:51:45.832475+00:00,56241c04f459cc2689aee795,NWSL,⚽️ Washington Spirit vs North Carolina Courage,National Women’s Soccer League,updated_event,description
+2026-08-22T16:51:45.832475+00:00,9d8b41e64cc61c23714222bc,NWSL,⚽️ Denver Summit FC vs Utah Royals FC,National Women’s Soccer League,updated_event,"start_time_utc,end_time_utc,description"
+2026-08-22T16:51:45.832475+00:00,e91626ba7580a9a2727b81e4,NWSL,⚽️ Chicago Stars FC vs Bay FC,National Women’s Soccer League,updated_event,description
+2026-08-22T16:51:45.832475+00:00,c5a026b25ae7e436933fa3b2,NWSL,⚽️ Seattle Reign FC vs Chicago Stars FC,National Women’s Soccer League,updated_event,description
+2026-08-22T16:51:45.832475+00:00,a7ac7dcfcba4fda78d67d0d2,NWSL,⚽️ San Diego Wave FC vs Denver Summit FC,National Women’s Soccer League,updated_event,description
+2026-08-22T16:51:45.832475+00:00,0e92aaf6872affbfb658057a,NWSL,⚽️ North Carolina Courage vs Houston Dash,National Women’s Soccer League,updated_event,description
+2026-08-22T16:51:45.832475+00:00,3cb6970d796cbe7634632469,NWSL,⚽️ Angel City FC vs Washington Spirit,National Women’s Soccer League,updated_event,description
+2026-08-22T16:51:45.832475+00:00,51ae070e4f7a98eb2a35541d,NWSL,⚽️ Orlando Pride vs Houston Dash,National Women’s Soccer League,updated_event,description
+2026-08-22T16:51:45.832475+00:00,4ffa5b96817febcb3b30d075,NWSL,⚽️ Angel City FC vs Denver Summit FC,National Women’s Soccer League,updated_event,description
+2026-08-22T16:51:45.832475+00:00,5ae915d9018d63d8ecefe9ce,NWSL,⚽️ Washington Spirit vs Orlando Pride,National Women’s Soccer League,updated_event,description
+2026-08-22T16:51:45.832475+00:00,e5c109f49729e6eac3ee6549,NWSL,⚽️ Portland Thorns FC vs Chicago Stars FC,National Women’s Soccer League,updated_event,description
+2026-08-22T16:51:45.832475+00:00,ae5ee588cfb899bcab91ecd5,NWSL,⚽️ Angel City FC vs Gotham FC,National Women’s Soccer League,updated_event,description
+2026-08-22T16:51:45.832475+00:00,5b28831c27b7f0ef3be775c1,NWSL,⚽️ San Diego Wave FC vs Racing Louisville FC,National Women’s Soccer League,updated_event,description
+2026-08-22T16:51:45.832475+00:00,39242b117eb02e976f0e07b9,NWSL,⚽️ Bay FC vs Racing Louisville FC,National Women’s Soccer League,updated_event,description
+2026-08-22T16:51:45.832475+00:00,87d0f778aedf931010d458f8,NWSL,⚽️ Washington Spirit vs Bay FC,National Women’s Soccer League,updated_event,description
+2026-08-22T16:51:45.832475+00:00,a9e50aac65e5c78b2851cabd,NWSL,⚽️ Seattle Reign FC vs Houston Dash,National Women’s Soccer League,updated_event,description
+2026-08-22T16:51:45.832475+00:00,0096040d5e817262fe87fc7f,NWSL,⚽️ Seattle Reign FC vs San Diego Wave FC,National Women’s Soccer League,updated_event,description
+2026-08-22T16:51:45.832475+00:00,014404dec37810ab26103178,NWSL,⚽️ Washington Spirit vs Boston Legacy FC,National Women’s Soccer League,updated_event,description
+2026-08-22T16:51:45.832475+00:00,7da61ef04442e1020c4ae8ab,NWSL,⚽️ Denver Summit FC vs Bay FC,National Women’s Soccer League,updated_event,description
+2026-08-22T16:51:45.832475+00:00,329624734a08545ccee95ff3,NWSL,⚽️ Chicago Stars FC vs Washington Spirit,National Women’s Soccer League,updated_event,description
+2026-08-22T16:51:45.832475+00:00,c52ded6f3eae1132aa76de5e,NWSL,⚽️ Utah Royals FC vs Angel City FC,National Women’s Soccer League,updated_event,description
+2026-08-22T16:51:45.832475+00:00,327a42054b9266001ebb14ea,NWSL,⚽️ Utah Royals FC vs North Carolina Courage,National Women’s Soccer League,updated_event,description
+2026-08-22T16:51:45.832475+00:00,dbb57172ebc696a658f9a232,NWSL,⚽️ Chicago Stars FC vs Seattle Reign FC,National Women’s Soccer League,updated_event,description
+2026-08-22T16:51:45.832475+00:00,772b2345764501d3241a200e,NWSL,⚽️ Chicago Stars FC vs Houston Dash,National Women’s Soccer League,updated_event,description
+2026-08-22T16:51:45.832475+00:00,a7c7a526a08e013affc9664d,NWSL,⚽️ Bay FC vs Orlando Pride,National Women’s Soccer League,updated_event,description
+2026-08-22T16:51:45.832475+00:00,f5b4ce854d35a6acf925b4c9,NWSL,⚽️ Seattle Reign FC vs North Carolina Courage,National Women’s Soccer League,updated_event,description
+2026-08-22T16:51:45.832475+00:00,7b44f4603366a006f02ba10d,NWSL,⚽️ Washington Spirit vs Chicago Stars FC,National Women’s Soccer League,updated_event,description
+2026-08-22T16:51:45.832475+00:00,66641dbe3f41c46e1b3ca962,NWSL,⚽️ Gotham FC vs Angel City FC,National Women’s Soccer League,updated_event,description
+2026-08-22T16:51:45.832475+00:00,4840f893f55d30ad28f52b9d,NWSL,⚽️ Houston Dash vs Washington Spirit,National Women’s Soccer League,updated_event,description
+2026-08-22T16:51:45.832475+00:00,b1560cc6c53ea571e0abacf4,NWSL,⚽️ Seattle Reign FC vs Orlando Pride,National Women’s Soccer League,updated_event,description
+2026-08-22T16:51:45.832475+00:00,5d9585c5e6822792bbbff8d7,NWSL,⚽️ Kansas City Current vs Washington Spirit,National Women’s Soccer League,updated_event,description
+2026-08-22T16:51:45.832475+00:00,e1c27b0ed82529ee7c5fe61d,NWSL,⚽️ San Diego Wave FC vs Boston Legacy FC,National Women’s Soccer League,updated_event,description
+2026-08-22T16:51:45.832475+00:00,946a6f9911bcf8ebf98c86de,NWSL,⚽️ North Carolina Courage vs Denver Summit FC,National Women’s Soccer League,updated_event,description
+2026-08-22T16:51:45.832475+00:00,97e45031236d15461d100522,NWSL,⚽️ Racing Louisville FC vs Kansas City Current,National Women’s Soccer League,updated_event,description
+2026-08-22T16:51:45.832475+00:00,430f19b388bc0a374842e889,NWSL,⚽️ Angel City FC vs Boston Legacy FC,National Women’s Soccer League,updated_event,"location,description"
+2026-08-22T16:51:45.832475+00:00,82217288415b324ea1c5961d,NWSL,⚽️ Houston Dash vs Portland Thorns FC,National Women’s Soccer League,updated_event,description
+2026-08-22T16:51:45.832475+00:00,d06cdd6117ce2f94fe141164,NWSL,⚽️ Gotham FC vs Utah Royals FC,National Women’s Soccer League,updated_event,description
+2026-08-22T16:51:45.832475+00:00,74a08311acea178fdb2a6629,NWSL,⚽️ Bay FC vs San Diego Wave FC,National Women’s Soccer League,updated_event,description
+2026-08-22T16:51:45.832475+00:00,7365f9638f3d909a61fab866,NWSL,⚽️ Angel City FC vs Seattle Reign FC,National Women’s Soccer League,updated_event,description
+2026-08-22T16:51:45.832475+00:00,7d9eb1445bd44f65901a5c83,WPBL,"WPBL Championship Game #5, if needed",Women's Pro Baseball League,new_event,
+2026-08-22T16:51:45.832475+00:00,609bb7b39fe71d599b14f0d8,WPBL,"WPBL Championship Game #4, if needed",Women's Pro Baseball League,new_event,
+2026-08-22T16:51:45.832475+00:00,2efc34748525bd8d301a2aa7,WPBL,WPBL Championship Game #3,Women's Pro Baseball League,new_event,
+2026-08-22T16:51:45.832475+00:00,617271f10c45f24657edb612,WPBL,WPBL Championship Game #2,Women's Pro Baseball League,new_event,
+2026-08-22T16:51:45.832475+00:00,7e5cbf63e2efc04a06561e90,WPBL,WPBL Championship Game #1,Women's Pro Baseball League,new_event,
+2026-08-22T16:51:45.832475+00:00,687a479c009059fda6f31be0,WPBL,"Semi-Final Series B Playoff Game #3, if needed",Women's Pro Baseball League,new_event,
+2026-08-22T16:51:45.832475+00:00,5b8e4fbef36b61efc428bb94,WPBL,"Semi-Final Series A Playoff Game #3, if needed",Women's Pro Baseball League,new_event,
+2026-08-22T16:51:45.832475+00:00,4cf08ae7a31a09f339f1faa9,WPBL,Semi-Final Series B Playoff Game #2,Women's Pro Baseball League,new_event,
+2026-08-22T16:51:45.832475+00:00,90789aaae708ccffb2af165c,WPBL,Semi-Final Series A Playoff Game #2,Women's Pro Baseball League,new_event,
+2026-08-22T16:51:45.832475+00:00,4fa23ad763909733daa1e833,WPBL,Semi-Final Series B Playoff Game #1,Women's Pro Baseball League,new_event,
+2026-08-22T16:51:45.832475+00:00,a9957bef93765529520899d1,WPBL,Semi-Final Series A Playoff Game #1,Women's Pro Baseball League,new_event,
+2026-08-22T16:51:45.832475+00:00,840a97b195f0d7cac79892f1,WPBL,"New York vs Boston – Aug 20, 2026",Women's Pro Baseball League,new_event,
+2026-08-22T16:51:45.832475+00:00,bcd8e8b01c4e97a5fd087471,WPBL,"New York vs San Francisco – Aug 19, 2026",Women's Pro Baseball League,new_event,
+2026-08-22T16:51:45.832475+00:00,77c8e1c1f9861c944d707550,WPBL,"Boston vs New York – Aug 16, 2026",Women's Pro Baseball League,new_event,
+2026-08-22T16:51:45.832475+00:00,08988d599849099cd4a010d8,WPBL,"Los Angeles vs Boston – Aug 15, 2026",Women's Pro Baseball League,new_event,
+2026-08-22T16:51:45.832475+00:00,a4153411cdf0e97fcc60e889,WPBL,"San Francisco vs New York – Aug 15, 2026",Women's Pro Baseball League,new_event,
+2026-08-22T16:51:45.832475+00:00,3ff4a0533b53e222d7e7dde2,WPBL,"Los Angeles vs San Francisco – Aug 14, 2026",Women's Pro Baseball League,new_event,
+2026-08-22T16:51:45.832475+00:00,45bbac80923650aaa4dd5a03,WPBL,"Boston vs New York – Aug 13, 2026",Women's Pro Baseball League,new_event,
+2026-08-22T16:51:45.832475+00:00,d6f8692561d67492819f3440,WPBL,"Los Angeles vs San Francisco – Aug 12, 2026",Women's Pro Baseball League,new_event,
+2026-08-22T16:51:45.832475+00:00,bd8b2a7d06ae96d7b2d9909a,WPBL,"New York vs Boston – Aug 9, 2026",Women's Pro Baseball League,new_event,
+2026-08-22T16:51:45.832475+00:00,41e88fac653eb6f879b9a11c,WPBL,"Los Angeles vs San Francisco – Aug 8, 2026",Women's Pro Baseball League,new_event,
+2026-08-22T16:51:45.832475+00:00,2b34bbcb8556ab939ffb162a,WPBL,"Boston vs New York – Aug 8, 2026",Women's Pro Baseball League,new_event,
+2026-08-22T16:51:45.832475+00:00,1c105ff2c5369851560581f4,WPBL,"San Francisco vs Los Angeles – Aug 7, 2026",Women's Pro Baseball League,new_event,
+2026-08-22T16:51:45.832475+00:00,698b0d85f3f5a9e18ab9bfb3,WPBL,"New York vs San Francisco – Aug 6, 2026",Women's Pro Baseball League,new_event,
+2026-08-22T16:51:45.832475+00:00,9309a96199195567cc047de7,WPBL,"Boston vs Los Angeles – Aug 5, 2026",Women's Pro Baseball League,new_event,
+2026-08-22T16:51:45.832475+00:00,75f2d1127f2062af79b8de85,WPBL,"San Francisco vs Boston – Aug 2, 2026",Women's Pro Baseball League,new_event,
+2026-08-22T16:51:45.832475+00:00,b53ade76d8c2b69f22f47953,WPBL,"Los Angeles vs New York – Aug 1, 2026",Women's Pro Baseball League,new_event,
+2026-08-22T16:51:45.832475+00:00,55cb6749a8fe9db056ed2da7,WPBL,"Los Angeles vs Boston – Aug 23, 2026",Women's Pro Baseball League,new_event,
+2026-08-22T16:51:45.832475+00:00,bf0fbe36af56997230f252a5,WPBL,"New York vs Los Angeles – Aug 22, 2026",Women's Pro Baseball League,new_event,
+2026-08-22T16:51:45.832475+00:00,c9b30cb53dd9d1388507dc20,WPBL,"San Francisco vs Boston – Aug 22, 2026",Women's Pro Baseball League,new_event,
+2026-08-22T16:51:45.832475+00:00,9c27851fa815638b5ae604ca,WPBL,"San Francisco vs Los Angeles – Aug 21, 2026",Women's Pro Baseball League,new_event,
+2026-08-22T16:51:45.832475+00:00,7e240f000204a3610be5cc93,WPBL,"Boston vs Los Angeles – Aug 26, 2026",Women's Pro Baseball League,new_event,
+2026-08-22T16:51:45.832475+00:00,870bf4293fd657759a17a7ab,WPBL,"Los Angeles vs New York – Aug 27, 2026",Women's Pro Baseball League,new_event,
+2026-08-22T16:51:45.832475+00:00,edd3088b23ff67d2a289af6f,WPBL,"New York vs Los Angeles – Aug 29, 2026",Women's Pro Baseball League,new_event,
+2026-08-22T16:51:45.832475+00:00,12bfee784fc7cc19b9c8ba2f,WPBL,"Boston vs San Francisco – Aug 28, 2026",Women's Pro Baseball League,new_event,
+2026-08-22T16:51:45.832475+00:00,0bdd415bf1536a2b21308a3e,WPBL,"New York vs San Francisco – Aug 30, 2026",Women's Pro Baseball League,new_event,
+2026-08-22T16:51:45.832475+00:00,ac7409caca5d282fe823b7de,WPBL,"San Francisco vs Boston – Sep 2, 2026",Women's Pro Baseball League,new_event,
+2026-08-22T16:51:45.832475+00:00,8dd290214dab0eca786762bd,WPBL,"New York vs Los Angeles – Sep 3, 2026",Women's Pro Baseball League,new_event,
+2026-08-22T16:51:45.832475+00:00,b20cdf2b750122e2472d2ec6,WPBL,"San Francisco vs New York – Sep 4, 2026",Women's Pro Baseball League,new_event,
+2026-08-22T16:51:45.832475+00:00,d93e6c215d92fed6bc626229,WPBL,"Los Angeles vs Boston – Sep 5, 2026",Women's Pro Baseball League,new_event,
+2026-08-22T16:51:45.832475+00:00,5564fafb87a8c55419e96b79,WPBL,"Boston vs San Francisco – Sep 6, 2026",Women's Pro Baseball League,new_event,
+2026-08-22T16:51:45.832475+00:00,bcbb971f08be621e056ffcbd,NWSL,⚽️ Washington Spirit vs Houston Dash,National Women’s Soccer League,removed_event,
+2026-08-22T16:51:45.832475+00:00,f0bd503d6b91dd14908dfab3,NWSL,⚽️ Denver Summit FC vs Kansas City Current,National Women’s Soccer League,removed_event,
+2026-08-22T16:51:45.832475+00:00,9c9416cd2534e301da3283f4,NWSL,⚽️ Angel City FC vs Orlando Pride,National Women’s Soccer League,removed_event,
+2026-08-22T16:51:45.832475+00:00,e4e3594a80c4f26a8a22c427,NWSL,⚽️ North Carolina Courage vs Seattle Reign FC,National Women’s Soccer League,removed_event,
+2026-08-22T16:51:45.832475+00:00,b28861efeebe4af05232fa2e,NWSL,⚽️ San Diego Wave FC vs Gotham FC,National Women’s Soccer League,removed_event,
+2026-08-22T16:51:45.832475+00:00,4d82da6508bc353c7f1ec0e7,NWSL,⚽️ Boston Legacy FC vs Bay FC,National Women’s Soccer League,removed_event,
+2026-08-22T16:51:45.832475+00:00,0c3798074a8b28e465fa6879,NWSL,⚽️ Chicago Stars FC vs Utah Royals FC,National Women’s Soccer League,removed_event,
+2026-08-22T16:51:45.832475+00:00,5ce2599b1c62b88ea1a275f5,NWSL,⚽️ Portland Thorns FC vs Racing Louisville FC,National Women’s Soccer League,removed_event,
+2026-08-22T16:51:45.832475+00:00,ab1f04f99d6d562cf10bd575,NWSL,⚽️ Boston Legacy FC vs Chicago Stars FC,National Women’s Soccer League,removed_event,
+2026-08-22T16:51:45.832475+00:00,ed5f3c3fd1149f232fbda9af,NWSL,⚽️ Racing Louisville FC vs Bay FC,National Women’s Soccer League,removed_event,
+2026-08-22T16:51:45.832475+00:00,17feb834c8002ef29021f6b4,NWSL,⚽️ Orlando Pride vs Kansas City Current,National Women’s Soccer League,removed_event,
+2026-08-22T16:51:45.832475+00:00,69628079769828ec9b20e298,NWSL,⚽️ Utah Royals FC vs Gotham FC,National Women’s Soccer League,removed_event,
+2026-08-22T16:51:45.832475+00:00,7b785dc47c27fbc49f2c45a7,nsl,AFC Toronto vs. Ottawa Rapid FC,Northern Super League,removed_event,
+2026-08-22T16:51:45.832475+00:00,7631573e30598a7c05ff75dd,NWSL,⚽️ North Carolina Courage vs Washington Spirit,National Women’s Soccer League,removed_event,
+2026-08-22T16:51:45.832475+00:00,9afc47d3e0cf92a05f6bd8da,nsl,Calgary Wild FC vs. Vancouver Rise FC,Northern Super League,removed_event,
+2026-08-22T16:51:45.832475+00:00,20e78adb0d649e0b4d072a06,NWSL,⚽️ San Diego Wave FC vs Angel City FC,National Women’s Soccer League,removed_event,
+2026-08-22T16:51:45.832475+00:00,d394491d10373f37ccb88d9e,NWSL,⚽️ Seattle Reign FC vs Portland Thorns FC,National Women’s Soccer League,removed_event,
+2026-08-22T16:51:45.832475+00:00,1c5c92102053d4acc7ba440c,nsl,Montreal Roses FC vs. Halifax Tides FC,Northern Super League,removed_event,
+2026-08-22T16:51:45.832475+00:00,783d6186daf4474ade9de7d3,NWSL,⚽️ Denver Summit FC vs Houston Dash,National Women’s Soccer League,removed_event,
+2026-08-22T16:51:45.832475+00:00,3b7c59d9f388002575dd5e2f,nsl,Welcome to the Northern Super League!,Northern Super League,removed_event,
+2026-08-22T16:51:45.832475+00:00,f77eb31f9c7dce78837bd742,NWSL,⚽️ Orlando Pride vs Boston Legacy FC,National Women’s Soccer League,removed_event,
+2026-08-22T16:51:45.832475+00:00,a2f0d0ed324f499042c82937,NWSL,⚽️ Gotham FC vs Washington Spirit,National Women’s Soccer League,removed_event,
+2026-08-22T16:51:45.832475+00:00,9d5e6825cc938cf0e25d92b2,nsl,Ottawa Rapid FC vs. Halifax Tides FC,Northern Super League,removed_event,
+2026-08-22T16:51:45.832475+00:00,3caac506e7b56783b01cc786,NWSL,Welcome to the NWSL!,National Women’s Soccer League,removed_event,
+2026-08-22T16:51:45.832475+00:00,60430fa75023b2f822427b0d,NWSL,⚽️ Kansas City Current vs San Diego Wave FC,National Women’s Soccer League,removed_event,
+2026-08-22T16:51:45.832475+00:00,c5aef934577e10eb18ad36b1,nsl,Calgary Wild FC vs. Montreal Roses FC,Northern Super League,removed_event,
+2026-08-22T16:51:45.832475+00:00,e4c354435364f6c1e9ed1ab2,NWSL,⚽️ Denver Summit FC vs Portland Thorns FC,National Women’s Soccer League,removed_event,
+2026-08-22T16:51:45.832475+00:00,a5ec14714210da9857ea5c8e,NWSL,⚽️ Gotham FC vs Seattle Reign FC,National Women’s Soccer League,removed_event,
+2026-08-22T16:51:45.832475+00:00,2d52f120c6353aca2e6df229,NWSL,⚽️ Bay FC vs North Carolina Courage,National Women’s Soccer League,removed_event,
+2026-08-22T16:51:45.832475+00:00,c85d5f1e64df5a377f6b92d5,nsl,AFC Toronto vs. Vancouver Rise FC,Northern Super League,removed_event,
+2026-08-22T16:51:45.832475+00:00,8487baab68599439fb299b5c,NWSL,⚽️ Chicago Stars FC vs Angel City FC,National Women’s Soccer League,removed_event,
+2026-08-22T16:51:45.832475+00:00,d9c68a6152c6e139db3f8dc7,NWSL,⚽️ Utah Royals FC vs Orlando Pride,National Women’s Soccer League,removed_event,
+2026-08-22T16:51:45.832475+00:00,83f01170cfb67f28f1d5ba54,NWSL,⚽️ Racing Louisville FC vs Houston Dash,National Women’s Soccer League,removed_event,
+2026-08-22T16:51:45.832475+00:00,904ca509721d0095d73c2383,NWSL,⚽️ Boston Legacy FC vs Washington Spirit,National Women’s Soccer League,removed_event,
+2026-08-22T16:51:45.832475+00:00,1b092fbce954ac567e59a5e9,nsl,Calgary Wild FC vs. Ottawa Rapid FC,Northern Super League,removed_event,
+2026-08-22T16:51:45.832475+00:00,a5dc07ca1ca4df7ff168f709,nsl,Montreal Roses FC vs. AFC Toronto,Northern Super League,removed_event,
+2026-08-22T16:51:45.832475+00:00,e9e076871d7213b5c7c1078d,NWSL,⚽️ Houston Dash vs Bay FC,National Women’s Soccer League,removed_event,
+2026-08-22T16:51:45.832475+00:00,2d94b85a50803436308471c5,NWSL,⚽️ Orlando Pride vs Chicago Stars FC,National Women’s Soccer League,removed_event,
+2026-08-22T16:51:45.832475+00:00,aab3f4a107b46691c409b1c7,NWSL,⚽️ Portland Thorns FC vs Gotham FC,National Women’s Soccer League,removed_event,
+2026-08-22T16:51:45.832475+00:00,88ea461af478459413559d3c,nsl,Vancouver Rise FC vs. Halifax Tides FC,Northern Super League,removed_event,
+2026-08-22T16:51:45.832475+00:00,099276c3e4dc14e91c5db29a,NWSL,⚽️ Boston Legacy FC vs Kansas City Current,National Women’s Soccer League,removed_event,
+2026-08-22T16:51:45.832475+00:00,cd860cae9942b0483422d341,NWSL,⚽️ North Carolina Courage vs Utah Royals FC,National Women’s Soccer League,removed_event,
+2026-08-22T16:51:45.832475+00:00,9feb7d38c4027436cf384d9d,NWSL,⚽️ San Diego Wave FC vs Seattle Reign FC,National Women’s Soccer League,removed_event,
+2026-08-22T16:51:45.832475+00:00,8b7ee0664ec44e9a7bf6f459,NWSL,⚽️ Washington Spirit vs Denver Summit FC,National Women’s Soccer League,removed_event,
+2026-08-22T16:51:45.832475+00:00,277284c036c7a2379e2c6107,NWSL,⚽️ Angel City FC vs Racing Louisville FC,National Women’s Soccer League,removed_event,
+2026-08-22T16:51:45.832475+00:00,b31d352bcbfe788c42217769,nsl,AFC Toronto vs. Calgary Wild FC,Northern Super League,removed_event,
+2026-08-22T16:51:45.832475+00:00,c1cc1413bb4ef3a0300eacd2,NWSL,⚽️ Kansas City Current vs Racing Louisville FC,National Women’s Soccer League,removed_event,
+2026-08-22T16:51:45.832475+00:00,b96fd0e6980ee12c55953f6f,NWSL,⚽️ Utah Royals FC vs Washington Spirit,National Women’s Soccer League,removed_event,
+2026-08-22T16:51:45.832475+00:00,54c4c988cb6b1cc0a5da9420,NWSL,⚽️ Bay FC vs Gotham FC,National Women’s Soccer League,removed_event,
+2026-08-22T16:51:45.832475+00:00,6910e0c3e60d7b370cb1396c,nsl,Vancouver Rise FC vs. Montreal Roses FC,Northern Super League,removed_event,
+2026-08-22T16:51:45.832475+00:00,5f938b1f586cc754e8498f32,NWSL,⚽️ North Carolina Courage vs Orlando Pride,National Women’s Soccer League,removed_event,
+2026-08-22T16:51:45.832475+00:00,d9912dee1977b1c79bc351d1,NWSL,⚽️ Racing Louisville FC vs Chicago Stars FC,National Women’s Soccer League,removed_event,
+2026-08-22T16:51:45.832475+00:00,6c6d6400ae0284633e53c684,nsl,Calgary Wild FC vs. AFC Toronto,Northern Super League,removed_event,
+2026-08-22T16:51:45.832475+00:00,1b2de7f8dc6cf9f5eb463489,NWSL,⚽️ Kansas City Current vs Angel City FC,National Women’s Soccer League,removed_event,
+2026-08-22T16:51:45.832475+00:00,72e30a043804691553d8177f,NWSL,⚽️ Houston Dash vs Gotham FC,National Women’s Soccer League,removed_event,
+2026-08-22T16:51:45.832475+00:00,2f37f21d6ade726a4681a899,NWSL,⚽️ Bay FC vs Seattle Reign FC,National Women’s Soccer League,removed_event,
+2026-08-22T16:51:45.832475+00:00,87b568f465b94d497c388e9e,NWSL,⚽️ Washington Spirit vs San Diego Wave FC,National Women’s Soccer League,removed_event,
+2026-08-22T16:51:45.832475+00:00,f0f6858d95c8cf00811544a9,NWSL,⚽️ Utah Royals FC vs Portland Thorns FC,National Women’s Soccer League,removed_event,
+2026-08-22T16:51:45.832475+00:00,b872ce039573ad242c55f899,NWSL,⚽️ Denver Summit FC vs Boston Legacy FC,National Women’s Soccer League,removed_event,
+2026-08-22T16:51:45.832475+00:00,b91366ac53f90e79e8f27b26,nsl,Halifax Tides FC vs. Ottawa Rapid FC,Northern Super League,removed_event,
+2026-08-22T16:51:45.832475+00:00,b70dd1fd5acd9de03aa1e477,NWSL,⚽️ Denver Summit FC vs North Carolina Courage,National Women’s Soccer League,removed_event,
+2026-08-22T16:51:45.832475+00:00,164938782ff0e5a12a74dfe2,NWSL,⚽️ Orlando Pride vs Racing Louisville FC,National Women’s Soccer League,removed_event,
+2026-08-22T16:51:45.832475+00:00,30bac63f46819c49417581a3,NWSL,⚽️ Gotham FC vs San Diego Wave FC,National Women’s Soccer League,removed_event,

@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Find and follow professional women's sports, all in one calendar.">
+  <title>Her Match — Women's sports, on your calendar</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="#top" aria-label="Her Match home">
+      <span class="brand-mark">HM</span><span>HER MATCH</span>
+    </a>
+    <nav aria-label="Main navigation">
+      <a href="#calendar">Calendar</a><a href="#leagues">Leagues</a><a href="#about">How it works</a>
+    </nav>
+    <a class="header-cta" href="#calendar">Find a match</a>
+  </header>
+
+  <main id="top">
+    <section class="hero">
+      <div class="hero-copy">
+        <p class="eyebrow"><span></span> THE WOMEN'S SPORTS CALENDAR</p>
+        <h1>Every match.<br><em>Right on time.</em></h1>
+        <p class="hero-intro">One place to discover professional women's sports and add the games you care about to your calendar.</p>
+        <a class="primary-button" href="#calendar">Explore the calendar <span>↘</span></a>
+        <div class="proof"><strong>117+</strong><span>upcoming matches<br>and counting</span></div>
+      </div>
+      <div class="hero-art" aria-label="Upcoming match preview">
+        <div class="orbit orbit-one"></div><div class="orbit orbit-two"></div>
+        <div class="hero-badge">UP NEXT</div>
+        <article class="feature-card">
+          <p>WED · AUG 19</p><span class="sport-icon">⚽</span>
+          <h2>Racing Louisville FC<br><small>vs</small><br>Seattle Reign FC</h2>
+          <div><span>6:30 PM</span><span>NWSL</span></div>
+        </article>
+      </div>
+    </section>
+
+    <section class="ticker" aria-label="Featured leagues">
+      <span>NWSL</span><i>✦</i><span>NORTHERN SUPER LEAGUE</span><i>✦</i><span>WOMEN'S SUPER LEAGUE</span><i>✦</i><span>MORE COMING SOON</span>
+    </section>
+
+    <section class="calendar-section" id="calendar">
+      <div class="section-heading">
+        <div><p class="eyebrow dark"><span></span> DON'T MISS THE MOMENT</p><h2>Your week in<br>women's sports.</h2></div>
+        <p>Browse upcoming matches, filter by league, and download exactly what you want to your calendar.</p>
+      </div>
+
+      <div class="toolbar">
+        <label class="search"><span>⌕</span><input id="search" type="search" placeholder="Search teams or leagues" aria-label="Search teams or leagues"></label>
+        <div class="filter-group" id="leagueFilters" aria-label="Filter by league"></div>
+        <button class="download-button" id="downloadCalendar" type="button">Add selected to calendar <span>↓</span></button>
+      </div>
+
+      <div class="results-meta"><p id="resultCount">Loading matches…</p><button id="clearFilters" type="button">Clear filters</button></div>
+      <div class="event-list" id="eventList" aria-live="polite"></div>
+      <button class="load-more" id="loadMore" type="button">Show more matches</button>
+    </section>
+
+    <section class="league-section" id="leagues">
+      <div><p class="eyebrow"><span></span> LEAGUES WE FOLLOW</p><h2>The game is bigger<br>than one league.</h2></div>
+      <div class="league-grid" id="leagueGrid"></div>
+    </section>
+
+    <section class="how-section" id="about">
+      <p class="eyebrow dark"><span></span> SIMPLE BY DESIGN</p><h2>Pick. Add. Never miss.</h2>
+      <div class="steps">
+        <article><b>01</b><h3>Find your league</h3><p>Browse schedules from professional women's leagues in one clean place.</p></article>
+        <article><b>02</b><h3>Choose your matches</h3><p>Search and filter to create a calendar that fits the sports you follow.</p></article>
+        <article><b>03</b><h3>Add to your calendar</h3><p>Download a calendar that works with Apple, Google, Outlook, and more.</p></article>
+      </div>
+    </section>
+  </main>
+  <footer><div class="brand"><span class="brand-mark">HM</span><span>HER MATCH</span></div><p>Women's sports deserve to be seen.</p><p>© 2026 Her Match</p></footer>
+  <script src="events.js"></script><script src="app.js"></script>
+</body>
+</html>

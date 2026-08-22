@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import csv
 import hashlib
+import html
 import os
 import sys
 from dataclasses import asdict, dataclass, fields
@@ -38,6 +39,7 @@ class CalendarSource:
     source: str
     sport: str
     competition: str
+    source_type: str = "ics"
 
 
 @dataclass
@@ -89,7 +91,7 @@ def load_calendar_sources() -> list[CalendarSource]:
         source_id, source, sport, competition
 
     Optional column:
-        enabled
+        enabled, source_type
     """
     if not SOURCES_FILE.exists():
         raise FileNotFoundError(
@@ -137,6 +139,16 @@ def load_calendar_sources() -> list[CalendarSource]:
             source = row.get("source", "").strip()
             sport = row.get("sport", "").strip()
             competition = row.get("competition", "").strip()
+            source_type = (
+                row.get("source_type", "ics").strip().lower()
+                or "ics"
+            )
+
+            if source_type not in {"ics", "wpbl_api"}:
+                raise ValueError(
+                    f"Unsupported source_type {source_type!r} "
+                    f"on row {row_number}."
+                )
 
             missing_values = [
                 name
@@ -170,6 +182,7 @@ def load_calendar_sources() -> list[CalendarSource]:
                     source=source,
                     sport=sport,
                     competition=competition,
+                    source_type=source_type,
                 )
             )
 
@@ -363,6 +376,136 @@ def collect_ics_events(
         collected_events.append(event)
 
     return collected_events
+
+
+def wpbl_acf_value(record: dict[str, Any], field_name: str) -> Any:
+    """Return the raw value from a WPBL Advanced Custom Fields record."""
+    field = record.get("acf", {}).get(field_name)
+
+    if not isinstance(field, dict):
+        return field
+
+    return field.get("value")
+
+
+def load_wpbl_records(source: str) -> list[dict[str, Any]]:
+    """Load every published record from a paginated WPBL REST endpoint."""
+    records: list[dict[str, Any]] = []
+    page = 1
+
+    while True:
+        response = requests.get(
+            source,
+            params={"per_page": 100, "page": page},
+            timeout=30,
+            headers={
+                "User-Agent": (
+                    "HerMatchCalendarBot/0.3 "
+                    "(women's sports calendar)"
+                )
+            },
+        )
+        response.raise_for_status()
+        page_records = response.json()
+
+        if not isinstance(page_records, list):
+            raise ValueError(
+                "The WPBL schedule API returned an unexpected response."
+            )
+
+        records.extend(page_records)
+        total_pages = int(response.headers.get("X-WP-TotalPages", "1"))
+
+        if page >= total_pages:
+            return records
+
+        page += 1
+
+
+def collect_wpbl_events(
+    calendar_source: CalendarSource,
+) -> list[SportsEvent]:
+    """Collect games from the official WPBL WordPress schedule API."""
+    records = load_wpbl_records(calendar_source.source)
+    checked_at = datetime.now(timezone.utc).isoformat()
+    collected_events: list[SportsEvent] = []
+
+    for record in records:
+        game_date = str(wpbl_acf_value(record, "game_date") or "")
+        game_time = str(wpbl_acf_value(record, "game_time") or "")
+        timezone_name = str(
+            wpbl_acf_value(record, "game_timezone")
+            or "America/Chicago"
+        )
+
+        if not game_date or not game_time:
+            print(
+                "Skipping WPBL game without a complete date and time: "
+                f"{record.get('id', 'unknown')}",
+                file=sys.stderr,
+            )
+            continue
+
+        local_start = datetime.strptime(
+            f"{game_date} {game_time}",
+            "%Y%m%d %H:%M:%S",
+        ).replace(tzinfo=ZoneInfo(timezone_name))
+        start_time = local_start.astimezone(timezone.utc)
+        end_time = start_time + timedelta(hours=3)
+
+        title_record = record.get("title", {})
+        title = html.unescape(
+            str(title_record.get("rendered", "Untitled WPBL game"))
+        )
+        game_status = str(
+            wpbl_acf_value(record, "game_status") or "scheduled"
+        ).lower()
+        status = {
+            "cancelled": "CANCELLED",
+            "postponed": "TENTATIVE",
+        }.get(game_status, "CONFIRMED")
+        source_uid = f"wpbl-game-{record['id']}"
+        link = str(record.get("link", ""))
+
+        collected_events.append(
+            SportsEvent(
+                event_id=create_event_id(
+                    source_id=calendar_source.source_id,
+                    source_uid=source_uid,
+                    recurrence_id="",
+                    title=title,
+                    start_time_utc=start_time,
+                ),
+                source_id=calendar_source.source_id,
+                source_uid=source_uid,
+                sport=calendar_source.sport,
+                competition=calendar_source.competition,
+                title=title,
+                start_time_utc=start_time.isoformat(),
+                end_time_utc=end_time.isoformat(),
+                location=(
+                    "Robin Roberts Stadium, Springfield, Illinois"
+                ),
+                description=(
+                    f"WPBL game. Schedule status: {game_status}."
+                ),
+                official_url=link,
+                status=status,
+                source_url=calendar_source.source,
+                last_checked_utc=checked_at,
+            )
+        )
+
+    return collected_events
+
+
+def collect_source_events(
+    calendar_source: CalendarSource,
+) -> list[SportsEvent]:
+    if calendar_source.source_type == "wpbl_api":
+        return collect_wpbl_events(calendar_source)
+
+    return collect_ics_events(calendar_source)
 
 
 def load_existing_events() -> dict[str, SportsEvent]:
@@ -700,7 +843,7 @@ def main() -> None:
 
     try:
         days_ahead = int(
-            os.getenv("DAYS_AHEAD", "14")
+            os.getenv("DAYS_AHEAD", "7")
         )
     except ValueError as exc:
         raise ValueError(
@@ -720,7 +863,7 @@ def main() -> None:
             f"{calendar_source.competition}..."
         )
 
-        source_events = collect_ics_events(
+        source_events = collect_source_events(
             calendar_source
         )
         collected_events.extend(source_events)
