@@ -37,6 +37,9 @@ jobs:
           DAYS_AHEAD: "14"
         run: python main.py
 
+      - name: Generate website event data
+        run: python website/build_events.py
+
       - name: Commit updated data
         run: |
           git config --global user.name "Her Match Automation"
@@ -49,6 +52,7 @@ jobs:
           git add -f data/events.csv
           git add -f data/changes.csv
           git add -f output/newsletter.md
+          git add -f website/events.js
 
           if git diff --cached --quiet; then
             echo "No event changes to commit."
