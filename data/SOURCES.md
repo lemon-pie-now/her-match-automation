@@ -25,6 +25,17 @@ After editing the workbook, generate the application CSV with:
 python export_sources.py
 ```
 
+To export, update the encrypted GitHub secret, and start the event workflow in
+one command, install and authenticate [GitHub CLI](https://cli.github.com/),
+then run:
+
+```bash
+python sync_sources.py
+```
+
+Use `python sync_sources.py --dry-run` to validate locally without changing
+GitHub, or `--no-run` to update the secret without starting the workflow.
+
 The exporter validates required fields, duplicate IDs, boolean values, and
 source types before replacing `data/sources.csv`. If validation fails, the
 existing CSV remains unchanged.
