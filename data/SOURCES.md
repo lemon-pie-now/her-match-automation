@@ -2,16 +2,22 @@
 
 The private source of truth is `data/sources.xlsx`. Both this workbook and its
 generated `data/sources.csv` are intentionally ignored by Git and must never be
-force-added. The worksheet must be named `Sources` and contain these columns
-in this exact order:
+force-added. The worksheet should be named `Sources` and must contain these
+columns (their order does not matter):
 
 ```text
-source_id, source, sport, competition, enabled, source_type
+source_id, source, sport, competition, enabled, source_type, country
 ```
+
+Additional workbook columns are allowed for planning or management and are
+ignored by the exporter. The generated CSV contains only the seven columns
+listed above.
 
 Use one row per calendar source. `source_id` must be unique and should not be
 changed after a source is created. `enabled` accepts `true` or `false`.
-Supported `source_type` values are `ics`, `wpbl_api`, and `wsl_official`.
+`source_type` is exported as entered and is not validated by the exporter.
+The event collector must support a source type before a row using it can be
+enabled successfully.
 
 After editing the workbook, generate the application CSV with:
 

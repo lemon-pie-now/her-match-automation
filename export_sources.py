@@ -15,15 +15,16 @@ BASE_DIR = Path(__file__).resolve().parent
 DEFAULT_WORKBOOK = BASE_DIR / "data" / "sources.xlsx"
 DEFAULT_OUTPUT = BASE_DIR / "data" / "sources.csv"
 SHEET_NAME = "Sources"
-SOURCE_COLUMNS = (
+OUTPUT_COLUMNS = (
     "source_id",
     "source",
     "sport",
     "competition",
     "enabled",
     "source_type",
+    "country",
 )
-VALID_SOURCE_TYPES = {"ics", "wpbl_api", "wsl_official"}
+REQUIRED_COLUMNS = set(OUTPUT_COLUMNS)
 
 
 def cell_text(value: Any) -> str:
@@ -52,7 +53,7 @@ def read_source_rows(workbook_path: Path) -> list[dict[str, str]]:
                 cell_text(value).lower() for value in first_row
             )
 
-            if candidate_headers == SOURCE_COLUMNS:
+            if REQUIRED_COLUMNS.issubset(candidate_headers):
                 matching_sheets.append(candidate)
 
         if len(matching_sheets) == 1:
@@ -83,22 +84,27 @@ def read_source_rows(workbook_path: Path) -> list[dict[str, str]]:
         raise ValueError(f"The {sheet.title!r} worksheet is empty.")
 
     headers = tuple(cell_text(value).lower() for value in header_values)
+    missing_headers = REQUIRED_COLUMNS - set(headers)
 
-    if headers != SOURCE_COLUMNS:
-        expected = ", ".join(SOURCE_COLUMNS)
-        actual = ", ".join(headers)
+    if missing_headers:
         raise ValueError(
-            f"Unexpected columns in {sheet.title!r}.\n"
-            f"Expected: {expected}\nActual: {actual}"
+            f"The {sheet.title!r} worksheet is missing required columns: "
+            f"{', '.join(sorted(missing_headers))}."
         )
 
+    column_indexes = {
+        column: headers.index(column)
+        for column in OUTPUT_COLUMNS
+    }
     source_rows: list[dict[str, str]] = []
     seen_source_ids: set[str] = set()
 
     for row_number, values_row in enumerate(values, start=2):
         row = {
-            column: cell_text(value)
-            for column, value in zip(SOURCE_COLUMNS, values_row)
+            column: cell_text(values_row[index])
+            if index < len(values_row)
+            else ""
+            for column, index in column_indexes.items()
         }
 
         if not any(row.values()):
@@ -106,7 +112,7 @@ def read_source_rows(workbook_path: Path) -> list[dict[str, str]]:
 
         missing = [
             column
-            for column in SOURCE_COLUMNS[:4]
+            for column in OUTPUT_COLUMNS[:4]
             if not row[column]
         ]
 
@@ -133,13 +139,6 @@ def read_source_rows(workbook_path: Path) -> list[dict[str, str]]:
 
         source_type = row["source_type"].lower() or "ics"
 
-        if source_type not in VALID_SOURCE_TYPES:
-            choices = ", ".join(sorted(VALID_SOURCE_TYPES))
-            raise ValueError(
-                f"Row {row_number} has invalid source_type "
-                f"{source_type!r}; use one of: {choices}."
-            )
-
         row["enabled"] = enabled
         row["source_type"] = source_type
         source_rows.append(row)
@@ -164,7 +163,7 @@ def write_sources_csv(rows: list[dict[str, str]], output_path: Path) -> None:
         with os.fdopen(descriptor, "w", newline="", encoding="utf-8") as file:
             writer = csv.DictWriter(
                 file,
-                fieldnames=SOURCE_COLUMNS,
+                fieldnames=OUTPUT_COLUMNS,
                 lineterminator="\n",
             )
             writer.writeheader()
