@@ -28,6 +28,17 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      - name: Restore private calendar sources
+        env:
+          SOURCES_CSV_BASE64: ${{ secrets.SOURCES_CSV_BASE64 }}
+        run: |
+          if [ -z "$SOURCES_CSV_BASE64" ]; then
+            echo "Missing required SOURCES_CSV_BASE64 repository secret."
+            exit 1
+          fi
+
+          printf '%s' "$SOURCES_CSV_BASE64" | base64 --decode > data/sources.csv
+
       - name: Collect events and create newsletter draft
         env:
           ICS_URL: ${{ secrets.ICS_URL }}

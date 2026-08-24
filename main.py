@@ -708,6 +708,7 @@ def event_business_values(event: SportsEvent) -> dict[str, str]:
     """
     values = asdict(event)
     values.pop("last_checked_utc", None)
+    values.pop("source_url", None)
     return values
 
 
@@ -825,7 +826,9 @@ def save_events(events: dict[str, SportsEvent]) -> None:
         writer.writeheader()
 
         for event in ordered_events:
-            writer.writerow(asdict(event))
+            public_event = asdict(event)
+            public_event["source_url"] = ""
+            writer.writerow(public_event)
 
 
 def append_changes(changes: list[dict[str, str]]) -> None:

@@ -4,3 +4,8 @@ __pycache__/
 *.pyc
 .DS_Store
 .vscode/
+
+# Private calendar-source configuration. These files may contain feed URLs.
+data/sources.csv
+data/sources.xlsx
+data/~$*.xlsx
