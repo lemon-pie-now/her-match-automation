@@ -3,7 +3,9 @@ from __future__ import annotations
 import csv
 import hashlib
 import html
+import json
 import os
+import re
 import sys
 from dataclasses import asdict, dataclass, fields
 from datetime import date, datetime, time, timedelta, timezone
@@ -144,7 +146,7 @@ def load_calendar_sources() -> list[CalendarSource]:
                 or "ics"
             )
 
-            if source_type not in {"ics", "wpbl_api"}:
+            if source_type not in {"ics", "wpbl_api", "wsl_official"}:
                 raise ValueError(
                     f"Unsupported source_type {source_type!r} "
                     f"on row {row_number}."
@@ -499,11 +501,167 @@ def collect_wpbl_events(
     return collected_events
 
 
+WSL_COMPETITION_ID = "e32284e8a1214f1ca83a3245d690b336"
+
+
+def parse_wsl_fixture_page(
+    page_html: str,
+    calendar_source: CalendarSource,
+) -> list[SportsEvent]:
+    """Parse the complete Barclays WSL dataset embedded in its page."""
+    checked_at = datetime.now(timezone.utc).isoformat()
+    london_timezone = ZoneInfo("Europe/London")
+    collected_events: list[SportsEvent] = []
+    next_data_blocks: list[str] = []
+
+    for raw_value in re.findall(
+        r"self\.__next_f\.push\((\[.*?\])\)</script>",
+        page_html,
+        re.DOTALL,
+    ):
+        try:
+            value = json.loads(raw_value)
+        except json.JSONDecodeError:
+            continue
+
+        if len(value) > 1 and isinstance(value[1], str):
+            next_data_blocks.append(value[1])
+
+    next_data = "".join(next_data_blocks)
+    marker = '"initialMatches":'
+
+    if marker not in next_data:
+        raise ValueError(
+            "The official WSL page did not contain its fixture dataset."
+        )
+
+    match_data = json.JSONDecoder().raw_decode(
+        next_data.split(marker, 1)[1]
+    )[0]
+
+    for match in match_data:
+        competition_id = str(
+            (match.get("matchSet") or {}).get("competitionId", "")
+        )
+
+        if not competition_id.endswith(WSL_COMPETITION_ID):
+            continue
+
+        raw_match_id = str(match.get("matchId", ""))
+        match_id = raw_match_id.rsplit("::", 1)[-1]
+        home = match.get("home") or {}
+        away = match.get("away") or {}
+        home_team = str(
+            home.get("mediaName")
+            or home.get("officialName")
+            or home.get("shortName")
+            or "Home team"
+        )
+        away_team = str(
+            away.get("mediaName")
+            or away.get("officialName")
+            or away.get("shortName")
+            or "Away team"
+        )
+        kickoff_unknown = bool(match.get("isUnknownKickOffTime"))
+        raw_start = str(match.get("matchDateUtc", ""))
+
+        if not match_id or not raw_start:
+            print(
+                "Skipping WSL fixture without a match ID or date.",
+                file=sys.stderr,
+            )
+            continue
+
+        if kickoff_unknown:
+            fixture_date = date.fromisoformat(raw_start[:10])
+            local_start = datetime.combine(fixture_date, time(hour=12))
+            local_start = local_start.replace(tzinfo=london_timezone)
+            start_time = local_start.astimezone(timezone.utc)
+        else:
+            start_time = datetime.fromisoformat(
+                raw_start.replace("Z", "+00:00")
+            ).astimezone(timezone.utc)
+
+        end_time = start_time + timedelta(hours=2)
+        title = f"{home_team} vs. {away_team}"
+        source_uid = f"wsl-match-{match_id}"
+        provider_status = str(match.get("status", "UPCOMING")).upper()
+        status = {
+            "CANCELED": "CANCELLED",
+            "CANCELLED": "CANCELLED",
+            "POSTPONED": "TENTATIVE",
+            "SUSPENDED": "TENTATIVE",
+        }.get(provider_status, "CONFIRMED")
+
+        if kickoff_unknown:
+            status = "TENTATIVE"
+
+        description = "Official Barclays WSL fixture."
+
+        if kickoff_unknown:
+            description += " Kickoff time is to be confirmed."
+
+        collected_events.append(
+            SportsEvent(
+                event_id=create_event_id(
+                    source_id=calendar_source.source_id,
+                    source_uid=source_uid,
+                    recurrence_id="",
+                    title=title,
+                    start_time_utc=start_time,
+                ),
+                source_id=calendar_source.source_id,
+                source_uid=source_uid,
+                sport=calendar_source.sport,
+                competition=calendar_source.competition,
+                title=title,
+                start_time_utc=start_time.isoformat(),
+                end_time_utc=end_time.isoformat(),
+                location=str(match.get("stadiumName") or ""),
+                description=description,
+                official_url=str(match.get("matchUrl") or ""),
+                status=status,
+                source_url=calendar_source.source,
+                last_checked_utc=checked_at,
+            )
+        )
+
+    if not collected_events:
+        raise ValueError(
+            "The official WSL fixtures page returned no Barclays WSL "
+            "matches. Its markup may have changed."
+        )
+
+    return collected_events
+
+
+def collect_wsl_events(
+    calendar_source: CalendarSource,
+) -> list[SportsEvent]:
+    """Collect fixtures from the official WSL Football website."""
+    response = requests.get(
+        calendar_source.source,
+        timeout=30,
+        headers={
+            "User-Agent": (
+                "HerMatchCalendarBot/0.4 "
+                "(women's sports calendar)"
+            )
+        },
+    )
+    response.raise_for_status()
+    return parse_wsl_fixture_page(response.text, calendar_source)
+
+
 def collect_source_events(
     calendar_source: CalendarSource,
 ) -> list[SportsEvent]:
     if calendar_source.source_type == "wpbl_api":
         return collect_wpbl_events(calendar_source)
+
+    if calendar_source.source_type == "wsl_official":
+        return collect_wsl_events(calendar_source)
 
     return collect_ics_events(calendar_source)
 
@@ -662,6 +820,7 @@ def save_events(events: dict[str, SportsEvent]) -> None:
         writer = csv.DictWriter(
             file,
             fieldnames=field_names,
+            lineterminator="\n",
         )
         writer.writeheader()
 

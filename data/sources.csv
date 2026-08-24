@@ -1,5 +1,5 @@
 source_id,source,sport,competition,enabled,source_type
 nsl,https://ics.ecal.com/ecal-sub/6a57ce26dd9a8c00026e1b13/Northern%20Super%20League.ics,Soccer,Northern Super League,true,ics
 NWSL,webcal://ics.ecal.com/ecal-sub/6a5a6a0a512bae000263f0a7/NWSL.ics,Soccer,National Women’s Soccer League,true,ics
-WSL,https://www.matchesio.com/s/JwmRXCOTkboeoSB6kgf3FeMrZKLM6iNlugsPdv62tiM.ics,Soccer,Women's Super League,true,ics
+WSL,https://www.wslfootball.com/fixtures/index,Soccer,Women's Super League,true,wsl_official
 WPBL,https://www.womensprobaseballleague.com/wp-json/wp/v2/wpbl_game,Baseball,Women's Pro Baseball League,true,wpbl_api
