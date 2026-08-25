@@ -1,33 +1,5 @@
 ## National Women’s Soccer League
 
-### ⚽️ Kansas City Current vs Seattle Reign FC
-
-Saturday, August 22 | 6:30 PM | CPKC Stadium, Kansas City, Missouri
-
-### ⚽️ North Carolina Courage vs Boston Legacy FC
-
-Saturday, August 22 | 7:30 PM | First Horizon Stadium at WakeMed Soccer Park, Cary, North Carolina
-
-### ⚽️ Portland Thorns FC vs Denver Summit FC
-
-Saturday, August 22 | 8:45 PM | Providence Park, Portland, Oregon
-
-### ⚽️ Chicago Stars FC vs Racing Louisville FC
-
-Sunday, August 23 | 2:00 PM | Northwestern Medicine Field at Martin Stadium, Evanston, Illinois
-
-### ⚽️ Washington Spirit vs Orlando Pride
-
-Sunday, August 23 | 4:00 PM | Audi Field, Washington, District of Columbia
-
-### ⚽️ Bay FC vs Houston Dash
-
-Sunday, August 23 | 6:00 PM | PayPal Park, San Jose, California
-
-### ⚽️ Angel City FC vs Gotham FC
-
-Sunday, August 23 | 8:00 PM | BMO Stadium, Los Angeles, California
-
 ### ⚽️ North Carolina Courage vs Angel City FC
 
 Wednesday, August 26 | 8:00 PM | First Horizon Stadium at WakeMed Soccer Park, Cary, North Carolina
@@ -72,20 +44,32 @@ Friday, September 04 | 9:30 PM | America First Field, Sandy, Utah
 
 Friday, September 04 | 10:00 PM | PayPal Park, San Jose, California
 
+### ⚽️ Racing Louisville FC vs Angel City FC
+
+Saturday, September 05 | 6:30 PM | Lynn Family Stadium, Louisville, Kentucky
+
+### ⚽️ Denver Summit FC vs Gotham FC
+
+Sunday, September 06 | 2:00 PM | Centennial Stadium, Centennial, Colorado
+
+### ⚽️ Chicago Stars FC vs North Carolina Courage
+
+Sunday, September 06 | 4:00 PM | Northwestern Medicine Field at Martin Stadium, Evanston, Illinois
+
+### ⚽️ Portland Thorns FC vs Washington Spirit
+
+Sunday, September 06 | 4:00 PM | Providence Park, Portland, Oregon
+
+### ⚽️ Orlando Pride vs Houston Dash
+
+Sunday, September 06 | 7:00 PM | Inter.co Stadium, Orlando, Florida
+
+### ⚽️ Seattle Reign FC vs San Diego Wave FC
+
+Sunday, September 06 | 9:00 PM | Seattle Stadium, Seattle, Washington
+
 
 ## Northern Super League
-
-### Ottawa Rapid FC vs. Vancouver Rise FC
-
-Saturday, August 22 | 7:00 PM | TD Place
-
-### Halifax Tides FC vs. AFC Toronto
-
-Sunday, August 23 | 12:00 PM | Wanderers Grounds
-
-### Montreal Roses FC vs. Calgary Wild FC
-
-Sunday, August 23 | 3:00 PM | Stade Boréale
 
 ### Montreal Roses FC vs. Halifax Tides FC
 
@@ -99,26 +83,20 @@ Saturday, August 29 | 6:00 PM | Swangard Stadium
 
 Sunday, August 30 | 4:00 PM | BMO Field
 
+### Vancouver Rise FC vs. Halifax Tides FC
+
+Saturday, September 05 | 7:00 PM | Swangard Stadium
+
+### Ottawa Rapid FC vs. Montreal Roses FC
+
+Sunday, September 06 | 12:00 PM | TD Place
+
+### AFC Toronto vs. Calgary Wild FC
+
+Sunday, September 06 | 2:00 PM | BMO Field
+
 
 ## Women's Pro Baseball League
-
-### San Francisco vs Boston – Aug 22, 2026
-
-Saturday, August 22 | 2:00 PM | Robin Roberts Stadium, Springfield, Illinois
-
-[Official match information](https://www.womensprobaseballleague.com/games/san-francisco-vs-boston-aug-22-2026/)
-
-### New York vs Los Angeles – Aug 22, 2026
-
-Saturday, August 22 | 7:30 PM | Robin Roberts Stadium, Springfield, Illinois
-
-[Official match information](https://www.womensprobaseballleague.com/games/new-york-vs-los-angeles-aug-22-2026/)
-
-### Los Angeles vs Boston – Aug 23, 2026
-
-Sunday, August 23 | 7:30 PM | Robin Roberts Stadium, Springfield, Illinois
-
-[Official match information](https://www.womensprobaseballleague.com/games/los-angeles-vs-boston-aug-23-2026/)
 
 ### Boston vs Los Angeles – Aug 26, 2026
 
@@ -167,3 +145,60 @@ Thursday, September 03 | 7:30 PM | Robin Roberts Stadium, Springfield, Illinois
 Friday, September 04 | 7:30 PM | Robin Roberts Stadium, Springfield, Illinois
 
 [Official match information](https://www.womensprobaseballleague.com/games/san-francisco-vs-new-york-sep-4-2026/)
+
+### Los Angeles vs Boston – Sep 5, 2026
+
+Saturday, September 05 | 7:30 PM | Robin Roberts Stadium, Springfield, Illinois
+
+[Official match information](https://www.womensprobaseballleague.com/games/los-angeles-vs-boston-sep-5-2026/)
+
+### Boston vs San Francisco – Sep 6, 2026
+
+Sunday, September 06 | 7:30 PM | Robin Roberts Stadium, Springfield, Illinois
+
+[Official match information](https://www.womensprobaseballleague.com/games/boston-vs-san-francisco-sep-6-2026/)
+
+
+## Women's Super League
+
+### London City Lionesses vs. Manchester United
+
+Friday, September 04 | 2:00 PM | Copperjax Community Stadium
+
+[Official match information](https://www.wslfootball.com/match/barclays-wsl/54dda4624a104eacb8a662f15f2ff7fa/london-city-vs-man-utd/)
+
+### Chelsea vs. Aston Villa
+
+Saturday, September 05 | 7:30 AM | Stamford Bridge
+
+[Official match information](https://www.wslfootball.com/match/barclays-wsl/25ef6af2d5dd4816bdd4c5cf38a12b5e/chelsea-vs-aston-villa/)
+
+### Brighton & Hove Albion vs. Arsenal
+
+Sunday, September 06 | 7:00 AM | Broadfield Stadium
+
+[Official match information](https://www.wslfootball.com/match/barclays-wsl/0312ae31cfc047378ec39fc20e195919/brighton-vs-arsenal/)
+
+### Tottenham Hotspur vs. West Ham United
+
+Sunday, September 06 | 7:00 AM | BetWright Stadium
+
+[Official match information](https://www.wslfootball.com/match/barclays-wsl/72090b8862974a82bf321b1887f960d9/spurs-vs-west-ham/)
+
+### Charlton Athletic vs. Liverpool
+
+Sunday, September 06 | 9:00 AM | The Valley
+
+[Official match information](https://www.wslfootball.com/match/barclays-wsl/7f4adbf487bc4d09a9416e08b3a112d8/charlton-vs-liverpool/)
+
+### Crystal Palace vs. Everton
+
+Sunday, September 06 | 9:00 AM | VBS Community Stadium
+
+[Official match information](https://www.wslfootball.com/match/barclays-wsl/3696616e181347aca770cd6e34a2ea7c/crystal-palace-vs-everton/)
+
+### Manchester City vs. Birmingham City
+
+Sunday, September 06 | 9:30 AM | Joie Stadium
+
+[Official match information](https://www.wslfootball.com/match/barclays-wsl/e8af306d026d4841ac254787a1f44c1f/man-city-vs-birmingham/)

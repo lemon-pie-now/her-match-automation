@@ -611,3 +611,6 @@ detected_at_utc,event_id,title,competition,change_type,changed_fields
 2026-08-22T16:51:45.832475+00:00,b70dd1fd5acd9de03aa1e477,NWSL,⚽️ Denver Summit FC vs North Carolina Courage,National Women’s Soccer League,removed_event,
 2026-08-22T16:51:45.832475+00:00,164938782ff0e5a12a74dfe2,NWSL,⚽️ Orlando Pride vs Racing Louisville FC,National Women’s Soccer League,removed_event,
 2026-08-22T16:51:45.832475+00:00,30bac63f46819c49417581a3,NWSL,⚽️ Gotham FC vs San Diego Wave FC,National Women’s Soccer League,removed_event,
+2026-08-25T11:45:28.950592+00:00,55cb6749a8fe9db056ed2da7,WPBL,"Los Angeles vs Boston – Aug 23, 2026",Women's Pro Baseball League,updated_event,description
+2026-08-25T11:45:28.950592+00:00,bf0fbe36af56997230f252a5,WPBL,"New York vs Los Angeles – Aug 22, 2026",Women's Pro Baseball League,updated_event,description
+2026-08-25T11:45:28.950592+00:00,c9b30cb53dd9d1388507dc20,WPBL,"San Francisco vs Boston – Aug 22, 2026",Women's Pro Baseball League,updated_event,description
