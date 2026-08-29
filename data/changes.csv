@@ -614,3 +614,57 @@ detected_at_utc,event_id,title,competition,change_type,changed_fields
 2026-08-25T11:45:28.950592+00:00,55cb6749a8fe9db056ed2da7,WPBL,"Los Angeles vs Boston – Aug 23, 2026",Women's Pro Baseball League,updated_event,description
 2026-08-25T11:45:28.950592+00:00,bf0fbe36af56997230f252a5,WPBL,"New York vs Los Angeles – Aug 22, 2026",Women's Pro Baseball League,updated_event,description
 2026-08-25T11:45:28.950592+00:00,c9b30cb53dd9d1388507dc20,WPBL,"San Francisco vs Boston – Aug 22, 2026",Women's Pro Baseball League,updated_event,description
+2026-08-29T15:39:06.491195+00:00,5a1272d014d607369063f7ce,nsl,Ottawa Rapid FC vs. Calgary Wild FC,Northern Super League,updated_event,description
+2026-08-29T15:39:06.491195+00:00,0adad0b99755658a3e61cce3,nsl,Montreal Roses FC vs. Halifax Tides FC,Northern Super League,updated_event,"location,description"
+2026-08-29T15:39:06.491195+00:00,872190ec2bb373c5a3e07b0e,nsl,AFC Toronto vs. Calgary Wild FC,Northern Super League,updated_event,description
+2026-08-29T15:39:06.491195+00:00,9eaad51e08c1543d4ef3a52c,nsl,Calgary Wild FC vs. Halifax Tides FC,Northern Super League,updated_event,description
+2026-08-29T15:39:06.491195+00:00,c336ab238c1fb89e3962c379,nsl,Vancouver Rise FC vs. Calgary Wild FC,Northern Super League,updated_event,description
+2026-08-29T15:39:06.491195+00:00,163726fa864780f7241d5293,nsl,AFC Toronto vs. Ottawa Rapid FC,Northern Super League,updated_event,description
+2026-08-29T15:39:06.491195+00:00,403f7bf8a8780aa30fb6ac19,nsl,Vancouver Rise FC vs. Halifax Tides FC,Northern Super League,updated_event,description
+2026-08-29T15:39:06.491195+00:00,aacce24f7677e25bf51ca66c,nsl,Ottawa Rapid FC vs. Montreal Roses FC,Northern Super League,updated_event,description
+2026-08-29T15:39:06.491195+00:00,fc4f008bd67143b50fcace03,nsl,AFC Toronto vs. Calgary Wild FC,Northern Super League,updated_event,description
+2026-08-29T15:39:06.491195+00:00,42b9c9693a2ea56b485c0340,nsl,Montreal Roses FC vs. AFC Toronto,Northern Super League,updated_event,description
+2026-08-29T15:39:06.491195+00:00,f9c12416aa2a9e9c4f9921f5,nsl,Vancouver Rise FC vs. Ottawa Rapid FC,Northern Super League,updated_event,description
+2026-08-29T15:39:06.491195+00:00,e1457b7141f325fbf833e524,nsl,Halifax Tides FC vs. AFC Toronto,Northern Super League,updated_event,description
+2026-08-29T15:39:06.491195+00:00,47fced08327b9160f1118abf,nsl,Vancouver Rise FC vs. Montreal Roses FC,Northern Super League,updated_event,description
+2026-08-29T15:39:06.491195+00:00,d4b307bd238087880349522b,nsl,AFC Toronto vs. Ottawa Rapid FC,Northern Super League,updated_event,description
+2026-08-29T15:39:06.491195+00:00,a1498fc676af5343c9e9adb3,nsl,Halifax Tides FC vs. Montreal Roses FC,Northern Super League,updated_event,description
+2026-08-29T15:39:06.491195+00:00,f7fa7f424f974a4c3080dd7d,nsl,Calgary Wild FC vs. Vancouver Rise FC,Northern Super League,updated_event,description
+2026-08-29T15:39:06.491195+00:00,b66a1a915fb89086ac9aa7af,nsl,Montreal Roses FC vs. Ottawa Rapid FC,Northern Super League,updated_event,description
+2026-08-29T15:39:06.491195+00:00,76061569e87be332171bcaf9,nsl,Halifax Tides FC vs. Calgary Wild FC,Northern Super League,updated_event,description
+2026-08-29T15:39:06.491195+00:00,ae3736ee4afc91f676a2ee3c,nsl,AFC Toronto vs. Vancouver Rise FC,Northern Super League,updated_event,description
+2026-08-29T15:39:06.491195+00:00,216fea27b0f5d87b98b8a7d6,nsl,Halifax Tides FC vs. Montreal Roses FC,Northern Super League,updated_event,description
+2026-08-29T15:39:06.491195+00:00,729acf4a8c0019f5e177de3e,nsl,Ottawa Rapid FC vs. Vancouver Rise FC,Northern Super League,updated_event,description
+2026-08-29T15:39:06.491195+00:00,79a89d960f22e569d3cfbffe,nsl,Montreal Roses FC vs. Ottawa Rapid FC,Northern Super League,updated_event,description
+2026-08-29T15:39:06.491195+00:00,189c3444a38c5437849e503e,nsl,Vancouver Rise FC vs. Calgary Wild FC,Northern Super League,updated_event,description
+2026-08-29T15:39:06.491195+00:00,79784df26dd60549373495a3,nsl,AFC Toronto vs. Halifax Tides FC,Northern Super League,updated_event,"location,description"
+2026-08-29T15:39:06.491195+00:00,5bc2075379856f2528755a34,nsl,2026 Semi-Final A - Leg 1,Northern Super League,updated_event,description
+2026-08-29T15:39:06.491195+00:00,1ebaaef1e311872902a5397a,nsl,2026 Semi-Final B - Leg 1,Northern Super League,updated_event,description
+2026-08-29T15:39:06.491195+00:00,91d14d1178456e33ef38ae3a,nsl,2026 Semi-Final A - Leg 2,Northern Super League,updated_event,description
+2026-08-29T15:39:06.491195+00:00,96ba9a726ad4a56e3c899afe,nsl,2026 Semi-Final B - Leg 2,Northern Super League,updated_event,description
+2026-08-29T15:39:06.491195+00:00,0aa5f9fcb4f56a851fb06d27,nsl,2026 NSL Championship,Northern Super League,updated_event,description
+2026-08-29T15:39:06.491195+00:00,a9e50aac65e5c78b2851cabd,NWSL,⚽️ Seattle Reign FC vs Houston Dash,National Women’s Soccer League,updated_event,description
+2026-08-29T15:39:06.491195+00:00,51ae070e4f7a98eb2a35541d,NWSL,⚽️ Orlando Pride vs Houston Dash,National Women’s Soccer League,updated_event,description
+2026-08-29T15:39:06.491195+00:00,4ffa5b96817febcb3b30d075,NWSL,⚽️ Angel City FC vs Denver Summit FC,National Women’s Soccer League,updated_event,description
+2026-08-29T15:39:06.491195+00:00,e5c109f49729e6eac3ee6549,NWSL,⚽️ Portland Thorns FC vs Chicago Stars FC,National Women’s Soccer League,updated_event,description
+2026-08-29T15:39:06.491195+00:00,39242b117eb02e976f0e07b9,NWSL,⚽️ Bay FC vs Racing Louisville FC,National Women’s Soccer League,updated_event,description
+2026-08-29T15:39:06.491195+00:00,327a42054b9266001ebb14ea,NWSL,⚽️ Utah Royals FC vs North Carolina Courage,National Women’s Soccer League,updated_event,description
+2026-08-29T15:39:06.491195+00:00,4840f893f55d30ad28f52b9d,NWSL,⚽️ Houston Dash vs Washington Spirit,National Women’s Soccer League,updated_event,description
+2026-08-29T15:39:06.491195+00:00,dbb57172ebc696a658f9a232,NWSL,⚽️ Chicago Stars FC vs Seattle Reign FC,National Women’s Soccer League,updated_event,description
+2026-08-29T15:39:06.491195+00:00,e1c27b0ed82529ee7c5fe61d,NWSL,⚽️ San Diego Wave FC vs Boston Legacy FC,National Women’s Soccer League,updated_event,description
+2026-08-29T15:39:06.491195+00:00,7e240f000204a3610be5cc93,WPBL,"Boston vs Los Angeles – Aug 26, 2026",Women's Pro Baseball League,updated_event,description
+2026-08-29T15:39:06.491195+00:00,870bf4293fd657759a17a7ab,WPBL,"Los Angeles vs New York – Aug 27, 2026",Women's Pro Baseball League,updated_event,description
+2026-08-29T15:39:06.491195+00:00,12bfee784fc7cc19b9c8ba2f,WPBL,"Boston vs San Francisco – Aug 28, 2026",Women's Pro Baseball League,updated_event,description
+2026-08-29T15:39:06.491195+00:00,e71b52853501dafa889dd273,nsl,Montreal Roses FC vs. Halifax Tides FC,Northern Super League,removed_event,
+2026-08-29T15:39:06.491195+00:00,56241c04f459cc2689aee795,NWSL,⚽️ Washington Spirit vs North Carolina Courage,National Women’s Soccer League,removed_event,
+2026-08-29T15:39:06.491195+00:00,b84663e9a8e7726c57f50193,nsl,Vancouver Rise FC vs. Calgary Wild FC,Northern Super League,removed_event,
+2026-08-29T15:39:06.491195+00:00,cf4ac8727fa389d0fe737a32,NWSL,⚽️ Houston Dash vs Kansas City Current,National Women’s Soccer League,removed_event,
+2026-08-29T15:39:06.491195+00:00,9d8b41e64cc61c23714222bc,NWSL,⚽️ Denver Summit FC vs Utah Royals FC,National Women’s Soccer League,removed_event,
+2026-08-29T15:39:06.491195+00:00,e8a508e47816336d6d980c36,nsl,Ottawa Rapid FC vs. AFC Toronto,Northern Super League,removed_event,
+2026-08-29T15:39:06.491195+00:00,e26104a729bc3ba867e4d516,NWSL,⚽️ Boston Legacy FC vs Portland Thorns FC,National Women’s Soccer League,removed_event,
+2026-08-29T15:39:06.491195+00:00,e91626ba7580a9a2727b81e4,NWSL,⚽️ Chicago Stars FC vs Bay FC,National Women’s Soccer League,removed_event,
+2026-08-29T15:39:06.491195+00:00,edf54f1aeb81bdde5fe47538,NWSL,⚽️ Seattle Reign FC vs Angel City FC,National Women’s Soccer League,removed_event,
+2026-08-29T15:39:06.491195+00:00,67fb0e6cd67b279a9b6b66ad,NWSL,⚽️ Gotham FC vs Kansas City Current,National Women’s Soccer League,removed_event,
+2026-08-29T15:39:06.491195+00:00,a7ac7dcfcba4fda78d67d0d2,NWSL,⚽️ San Diego Wave FC vs Denver Summit FC,National Women’s Soccer League,removed_event,
+2026-08-29T15:39:06.491195+00:00,c5a026b25ae7e436933fa3b2,NWSL,⚽️ Seattle Reign FC vs Chicago Stars FC,National Women’s Soccer League,removed_event,
+2026-08-29T15:39:06.491195+00:00,c58e99c65fd60f684f270f64,NWSL,⚽️ Utah Royals FC vs Bay FC,National Women’s Soccer League,removed_event,

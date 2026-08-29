@@ -1,17 +1,5 @@
 ## National Women’s Soccer League
 
-### ⚽️ North Carolina Courage vs Angel City FC
-
-Wednesday, August 26 | 8:00 PM | First Horizon Stadium at WakeMed Soccer Park, Cary, North Carolina
-
-### ⚽️ Gotham FC vs Portland Thorns FC
-
-Friday, August 28 | 8:00 PM | Sports Illustrated Stadium, Harrison, New Jersey
-
-### ⚽️ San Diego Wave FC vs Racing Louisville FC
-
-Friday, August 28 | 10:00 PM | Snapdragon Stadium, San Diego, California
-
 ### ⚽️ Kansas City Current vs North Carolina Courage
 
 Saturday, August 29 | 6:30 PM | CPKC Stadium, Kansas City, Missouri
@@ -68,12 +56,24 @@ Sunday, September 06 | 7:00 PM | Inter.co Stadium, Orlando, Florida
 
 Sunday, September 06 | 9:00 PM | Seattle Stadium, Seattle, Washington
 
+### ⚽️ Racing Louisville FC vs Gotham FC
+
+Friday, September 11 | 6:30 PM | Lynn Family Stadium, Louisville, Kentucky
+
+### ⚽️ Kansas City Current vs Orlando Pride
+
+Friday, September 11 | 8:00 PM | CPKC Stadium, Kansas City, Missouri
+
+### ⚽️ Angel City FC vs Denver Summit FC
+
+Friday, September 11 | 10:00 PM | BMO Stadium, Los Angeles, California
+
 
 ## Northern Super League
 
 ### Montreal Roses FC vs. Halifax Tides FC
 
-Saturday, August 29 | 2:00 PM | Stade Saputo
+Saturday, August 29 | 2:00 PM | Stade Boréale
 
 ### Vancouver Rise FC vs. Calgary Wild FC
 
@@ -95,26 +95,12 @@ Sunday, September 06 | 12:00 PM | TD Place
 
 Sunday, September 06 | 2:00 PM | BMO Field
 
+### Montreal Roses FC vs. AFC Toronto
+
+Thursday, September 10 | 7:00 PM | Stade Boréale
+
 
 ## Women's Pro Baseball League
-
-### Boston vs Los Angeles – Aug 26, 2026
-
-Wednesday, August 26 | 7:30 PM | Robin Roberts Stadium, Springfield, Illinois
-
-[Official match information](https://www.womensprobaseballleague.com/games/boston-vs-los-angeles-aug-26-2026/)
-
-### Los Angeles vs New York – Aug 27, 2026
-
-Thursday, August 27 | 7:30 PM | Robin Roberts Stadium, Springfield, Illinois
-
-[Official match information](https://www.womensprobaseballleague.com/games/los-angeles-vs-new-york-aug-27-2026/)
-
-### Boston vs San Francisco – Aug 28, 2026
-
-Friday, August 28 | 7:30 PM | Robin Roberts Stadium, Springfield, Illinois
-
-[Official match information](https://www.womensprobaseballleague.com/games/boston-vs-san-francisco-aug-28-2026/)
 
 ### New York vs Los Angeles – Aug 29, 2026
 
@@ -157,6 +143,24 @@ Saturday, September 05 | 7:30 PM | Robin Roberts Stadium, Springfield, Illinois
 Sunday, September 06 | 7:30 PM | Robin Roberts Stadium, Springfield, Illinois
 
 [Official match information](https://www.womensprobaseballleague.com/games/boston-vs-san-francisco-sep-6-2026/)
+
+### Semi-Final Series A Playoff Game #1
+
+Wednesday, September 09 | 7:00 PM | Robin Roberts Stadium, Springfield, Illinois
+
+[Official match information](https://www.womensprobaseballleague.com/games/semi-final-series-a-playoff-game-1/)
+
+### Semi-Final Series B Playoff Game #1
+
+Thursday, September 10 | 7:00 PM | Robin Roberts Stadium, Springfield, Illinois
+
+[Official match information](https://www.womensprobaseballleague.com/games/semi-final-series-b-playoff-game-1/)
+
+### Semi-Final Series A Playoff Game #2
+
+Friday, September 11 | 6:00 PM | Robin Roberts Stadium, Springfield, Illinois
+
+[Official match information](https://www.womensprobaseballleague.com/games/semi-final-series-a-playoff-game-2/)
 
 
 ## Women's Super League
@@ -202,3 +206,9 @@ Sunday, September 06 | 9:00 AM | VBS Community Stadium
 Sunday, September 06 | 9:30 AM | Joie Stadium
 
 [Official match information](https://www.wslfootball.com/match/barclays-wsl/e8af306d026d4841ac254787a1f44c1f/man-city-vs-birmingham/)
+
+### West Ham United vs. London City Lionesses
+
+Saturday, September 12 | 7:45 AM | Chigwell Construction Stadium
+
+[Official match information](https://www.wslfootball.com/match/barclays-wsl/17b69372c12543dfac1b88f4f6435f56/west-ham-vs-london-city/)
