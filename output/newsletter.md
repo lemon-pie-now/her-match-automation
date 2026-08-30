@@ -1,17 +1,5 @@
 ## National Women’s Soccer League
 
-### ⚽️ Kansas City Current vs North Carolina Courage
-
-Saturday, August 29 | 6:30 PM | CPKC Stadium, Kansas City, Missouri
-
-### ⚽️ Orlando Pride vs Utah Royals FC
-
-Saturday, August 29 | 7:00 PM | Inter.co Stadium, Orlando, Florida
-
-### ⚽️ Denver Summit FC vs Chicago Stars FC
-
-Saturday, August 29 | 8:45 PM | Centennial Stadium, Centennial, Colorado
-
 ### ⚽️ Washington Spirit vs Bay FC
 
 Sunday, August 30 | 12:30 PM | Audi Field, Washington, District of Columbia
@@ -68,16 +56,20 @@ Friday, September 11 | 8:00 PM | CPKC Stadium, Kansas City, Missouri
 
 Friday, September 11 | 10:00 PM | BMO Stadium, Los Angeles, California
 
+### ⚽️ San Diego Wave FC vs North Carolina Courage
+
+Saturday, September 12 | 6:30 PM | Snapdragon Stadium, San Diego, California
+
+### ⚽️ Seattle Reign FC vs Bay FC
+
+Saturday, September 12 | 8:00 PM | Seattle Stadium, Seattle, Washington
+
+### ⚽️ Houston Dash vs Utah Royals FC
+
+Saturday, September 12 | 8:45 PM | Shell Energy Stadium, Houston, Texas
+
 
 ## Northern Super League
-
-### Montreal Roses FC vs. Halifax Tides FC
-
-Saturday, August 29 | 2:00 PM | Stade Boréale
-
-### Vancouver Rise FC vs. Calgary Wild FC
-
-Saturday, August 29 | 6:00 PM | Swangard Stadium
 
 ### AFC Toronto vs. Ottawa Rapid FC
 
@@ -99,14 +91,12 @@ Sunday, September 06 | 2:00 PM | BMO Field
 
 Thursday, September 10 | 7:00 PM | Stade Boréale
 
+### Calgary Wild FC vs. Halifax Tides FC
+
+Saturday, September 12 | 2:00 PM | McMahon Stadium
+
 
 ## Women's Pro Baseball League
-
-### New York vs Los Angeles – Aug 29, 2026
-
-Saturday, August 29 | 7:30 PM | Robin Roberts Stadium, Springfield, Illinois
-
-[Official match information](https://www.womensprobaseballleague.com/games/new-york-vs-los-angeles-aug-29-2026/)
 
 ### New York vs San Francisco – Aug 30, 2026
 
@@ -162,6 +152,12 @@ Friday, September 11 | 6:00 PM | Robin Roberts Stadium, Springfield, Illinois
 
 [Official match information](https://www.womensprobaseballleague.com/games/semi-final-series-a-playoff-game-2/)
 
+### Semi-Final Series B Playoff Game #2
+
+Saturday, September 12 | 7:00 PM | Robin Roberts Stadium, Springfield, Illinois
+
+[Official match information](https://www.womensprobaseballleague.com/games/semi-final-series-b-playoff-game-2/)
+
 
 ## Women's Super League
 
@@ -212,3 +208,33 @@ Sunday, September 06 | 9:30 AM | Joie Stadium
 Saturday, September 12 | 7:45 AM | Chigwell Construction Stadium
 
 [Official match information](https://www.wslfootball.com/match/barclays-wsl/17b69372c12543dfac1b88f4f6435f56/west-ham-vs-london-city/)
+
+### Manchester United vs. Chelsea
+
+Sunday, September 13 | 7:00 AM | Progress with Unity Stadium
+
+[Official match information](https://www.wslfootball.com/match/barclays-wsl/c3fd4039b100435bb0bccaa40e870abe/man-utd-vs-chelsea/)
+
+### Birmingham City vs. Brighton & Hove Albion
+
+Sunday, September 13 | 9:00 AM | St. Andrew's @ Knighthead Park
+
+[Official match information](https://www.wslfootball.com/match/barclays-wsl/b95f88240acb44d39700abb73ff7bd9d/birmingham-vs-brighton/)
+
+### Everton vs. Charlton Athletic
+
+Sunday, September 13 | 9:00 AM | Goodison Park
+
+[Official match information](https://www.wslfootball.com/match/barclays-wsl/749701a2ff474fef8267f412eb96400d/everton-vs-charlton/)
+
+### Liverpool vs. Tottenham Hotspur
+
+Sunday, September 13 | 9:00 AM | BrewDog Stadium
+
+[Official match information](https://www.wslfootball.com/match/barclays-wsl/ca0d4c14b8c648e5a4275f019f8c935c/liverpool-vs-spurs/)
+
+### Arsenal vs. Crystal Palace
+
+Sunday, September 13 | 9:45 AM | Emirates Stadium
+
+[Official match information](https://www.wslfootball.com/match/barclays-wsl/6cfd6441fd864fdd935bb6cd3a362d25/arsenal-vs-crystal-palace/)
