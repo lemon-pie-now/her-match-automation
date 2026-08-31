@@ -1,13 +1,5 @@
 ## National Women’s Soccer League
 
-### ⚽️ Washington Spirit vs Bay FC
-
-Sunday, August 30 | 12:30 PM | Audi Field, Washington, District of Columbia
-
-### ⚽️ Seattle Reign FC vs Houston Dash
-
-Sunday, August 30 | 7:00 PM | Seattle Stadium, Seattle, Washington
-
 ### ⚽️ Boston Legacy FC vs Angel City FC
 
 Monday, August 31 | 8:00 PM | Gillette Stadium, Foxborough, Massachusetts
@@ -68,12 +60,16 @@ Saturday, September 12 | 8:00 PM | Seattle Stadium, Seattle, Washington
 
 Saturday, September 12 | 8:45 PM | Shell Energy Stadium, Houston, Texas
 
+### ⚽️ Washington Spirit vs Boston Legacy FC
+
+Sunday, September 13 | 1:00 PM | Audi Field, Washington, District of Columbia
+
+### ⚽️ Portland Thorns FC vs Chicago Stars FC
+
+Sunday, September 13 | 7:00 PM | Providence Park, Portland, Oregon
+
 
 ## Northern Super League
-
-### AFC Toronto vs. Ottawa Rapid FC
-
-Sunday, August 30 | 4:00 PM | BMO Field
 
 ### Vancouver Rise FC vs. Halifax Tides FC
 
@@ -95,14 +91,12 @@ Thursday, September 10 | 7:00 PM | Stade Boréale
 
 Saturday, September 12 | 2:00 PM | McMahon Stadium
 
+### Vancouver Rise FC vs. Ottawa Rapid FC
+
+Sunday, September 13 | 4:00 PM | Swangard Stadium
+
 
 ## Women's Pro Baseball League
-
-### New York vs San Francisco – Aug 30, 2026
-
-Sunday, August 30 | 7:30 PM | Robin Roberts Stadium, Springfield, Illinois
-
-[Official match information](https://www.womensprobaseballleague.com/games/new-york-vs-san-francisco-aug-30-2026/)
 
 ### San Francisco vs Boston – Sep 2, 2026
 
@@ -157,6 +151,12 @@ Friday, September 11 | 6:00 PM | Robin Roberts Stadium, Springfield, Illinois
 Saturday, September 12 | 7:00 PM | Robin Roberts Stadium, Springfield, Illinois
 
 [Official match information](https://www.womensprobaseballleague.com/games/semi-final-series-b-playoff-game-2/)
+
+### Semi-Final Series A Playoff Game #3, if needed
+
+Sunday, September 13 | 3:00 PM | Robin Roberts Stadium, Springfield, Illinois
+
+[Official match information](https://www.womensprobaseballleague.com/games/semi-final-series-a-playoff-game-3-if-needed/)
 
 
 ## Women's Super League
@@ -238,3 +238,9 @@ Sunday, September 13 | 9:00 AM | BrewDog Stadium
 Sunday, September 13 | 9:45 AM | Emirates Stadium
 
 [Official match information](https://www.wslfootball.com/match/barclays-wsl/6cfd6441fd864fdd935bb6cd3a362d25/arsenal-vs-crystal-palace/)
+
+### Aston Villa vs. Manchester City
+
+Sunday, September 13 | 1:30 PM | Villa Park
+
+[Official match information](https://www.wslfootball.com/match/barclays-wsl/fa8b542859484d4d932096d59549aaed/aston-villa-vs-man-city/)

@@ -669,3 +669,4 @@ detected_at_utc,event_id,title,competition,change_type,changed_fields
 2026-08-29T15:39:06.491195+00:00,c5a026b25ae7e436933fa3b2,NWSL,⚽️ Seattle Reign FC vs Chicago Stars FC,National Women’s Soccer League,removed_event,
 2026-08-29T15:39:06.491195+00:00,c58e99c65fd60f684f270f64,NWSL,⚽️ Utah Royals FC vs Bay FC,National Women’s Soccer League,removed_event,
 2026-08-30T15:21:16.105191+00:00,edd3088b23ff67d2a289af6f,WPBL,"New York vs Los Angeles – Aug 29, 2026",Women's Pro Baseball League,updated_event,description
+2026-08-31T18:01:04.907078+00:00,0bdd415bf1536a2b21308a3e,WPBL,"New York vs San Francisco – Aug 30, 2026",Women's Pro Baseball League,updated_event,description
