@@ -1,9 +1,5 @@
 ## National Women’s Soccer League
 
-### ⚽️ Boston Legacy FC vs Angel City FC
-
-Monday, August 31 | 8:00 PM | Gillette Stadium, Foxborough, Massachusetts
-
 ### ⚽️ Utah Royals FC vs Boston Legacy FC
 
 Friday, September 04 | 9:30 PM | America First Field, Sandy, Utah
@@ -157,6 +153,12 @@ Saturday, September 12 | 7:00 PM | Robin Roberts Stadium, Springfield, Illinois
 Sunday, September 13 | 3:00 PM | Robin Roberts Stadium, Springfield, Illinois
 
 [Official match information](https://www.womensprobaseballleague.com/games/semi-final-series-a-playoff-game-3-if-needed/)
+
+### Semi-Final Series B Playoff Game #3, if needed
+
+Monday, September 14 | 7:00 PM | Robin Roberts Stadium, Springfield, Illinois
+
+[Official match information](https://www.womensprobaseballleague.com/games/semi-final-series-b-playoff-game-3-if-needed/)
 
 
 ## Women's Super League
