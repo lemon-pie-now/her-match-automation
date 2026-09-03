@@ -25,7 +25,9 @@ def main() -> None:
             })
     events.sort(key=lambda event: event["start"])
     OUTPUT.write_text(
-        "window.HER_MATCH_EVENTS = " + json.dumps(events, ensure_ascii=False) + ";\n",
+        "window.HER_MATCH_EVENTS = "
+        + json.dumps(events, ensure_ascii=False, indent=2)
+        + ";\n",
         encoding="utf-8",
     )
     print(f"Wrote {len(events)} upcoming events to {OUTPUT}")

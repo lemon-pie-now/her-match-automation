@@ -1,1 +1,3192 @@
-window.HER_MATCH_EVENTS = [{"id": "8dd290214dab0eca786762bd", "title": "New York vs Los Angeles – Sep 3, 2026", "sport": "Baseball", "competition": "Women's Pro Baseball League", "start": "2026-09-03T23:30:00+00:00", "end": "2026-09-04T02:30:00+00:00", "location": "Robin Roberts Stadium, Springfield, Illinois", "url": "https://www.womensprobaseballleague.com/games/new-york-vs-los-angeles-sep-3-2026/"}, {"id": "0d677deed61edd3a88685364", "title": "London City Lionesses vs. Manchester United", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-09-04T18:00:00+00:00", "end": "2026-09-04T20:00:00+00:00", "location": "Copperjax Community Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/54dda4624a104eacb8a662f15f2ff7fa/london-city-vs-man-utd/"}, {"id": "b20cdf2b750122e2472d2ec6", "title": "San Francisco vs New York – Sep 4, 2026", "sport": "Baseball", "competition": "Women's Pro Baseball League", "start": "2026-09-04T23:30:00+00:00", "end": "2026-09-05T02:30:00+00:00", "location": "Robin Roberts Stadium, Springfield, Illinois", "url": "https://www.womensprobaseballleague.com/games/san-francisco-vs-new-york-sep-4-2026/"}, {"id": "3eba407345680a8161bb4779", "title": "⚽️ Utah Royals FC vs Boston Legacy FC", "sport": "Soccer", "competition": "National Women’s Soccer League", "start": "2026-09-05T01:30:00+00:00", "end": "2026-09-05T03:30:00+00:00", "location": "America First Field, Sandy, Utah", "url": ""}, {"id": "981f1f3f22e1a07ae84834c7", "title": "⚽️ Bay FC vs Kansas City Current", "sport": "Soccer", "competition": "National Women’s Soccer League", "start": "2026-09-05T02:00:00+00:00", "end": "2026-09-05T04:00:00+00:00", "location": "PayPal Park, San Jose, California", "url": ""}, {"id": "d577db2d5ed1dbb59cd8380e", "title": "Chelsea vs. Aston Villa", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-09-05T11:30:00+00:00", "end": "2026-09-05T13:30:00+00:00", "location": "Stamford Bridge", "url": "https://www.wslfootball.com/match/barclays-wsl/25ef6af2d5dd4816bdd4c5cf38a12b5e/chelsea-vs-aston-villa/"}, {"id": "ea2e66dbe9b34bbe03a66922", "title": "⚽️ Racing Louisville FC vs Angel City FC", "sport": "Soccer", "competition": "National Women’s Soccer League", "start": "2026-09-05T22:30:00+00:00", "end": "2026-09-06T00:30:00+00:00", "location": "Lynn Family Stadium, Louisville, Kentucky", "url": ""}, {"id": "403f7bf8a8780aa30fb6ac19", "title": "Vancouver Rise FC vs. Halifax Tides FC", "sport": "Soccer", "competition": "Northern Super League", "start": "2026-09-05T23:00:00+00:00", "end": "2026-09-06T01:00:00+00:00", "location": "Swangard Stadium", "url": ""}, {"id": "d93e6c215d92fed6bc626229", "title": "Los Angeles vs Boston – Sep 5, 2026", "sport": "Baseball", "competition": "Women's Pro Baseball League", "start": "2026-09-05T23:30:00+00:00", "end": "2026-09-06T02:30:00+00:00", "location": "Robin Roberts Stadium, Springfield, Illinois", "url": "https://www.womensprobaseballleague.com/games/los-angeles-vs-boston-sep-5-2026/"}, {"id": "d978d54a1c8f00cab804b857", "title": "Brighton & Hove Albion vs. Arsenal", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-09-06T11:00:00+00:00", "end": "2026-09-06T13:00:00+00:00", "location": "Broadfield Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/0312ae31cfc047378ec39fc20e195919/brighton-vs-arsenal/"}, {"id": "2372bcbf10e428ec6fd8e6c9", "title": "Tottenham Hotspur vs. West Ham United", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-09-06T11:00:00+00:00", "end": "2026-09-06T13:00:00+00:00", "location": "BetWright Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/72090b8862974a82bf321b1887f960d9/spurs-vs-west-ham/"}, {"id": "fd7670faa645888d12cd8416", "title": "Charlton Athletic vs. Liverpool", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-09-06T13:00:00+00:00", "end": "2026-09-06T15:00:00+00:00", "location": "The Valley", "url": "https://www.wslfootball.com/match/barclays-wsl/7f4adbf487bc4d09a9416e08b3a112d8/charlton-vs-liverpool/"}, {"id": "504cc2e141f0c369a0fbc379", "title": "Crystal Palace vs. Everton", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-09-06T13:00:00+00:00", "end": "2026-09-06T15:00:00+00:00", "location": "VBS Community Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/3696616e181347aca770cd6e34a2ea7c/crystal-palace-vs-everton/"}, {"id": "0df710907f21783051af0869", "title": "Manchester City vs. Birmingham City", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-09-06T13:30:00+00:00", "end": "2026-09-06T15:30:00+00:00", "location": "Joie Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/e8af306d026d4841ac254787a1f44c1f/man-city-vs-birmingham/"}, {"id": "aacce24f7677e25bf51ca66c", "title": "Ottawa Rapid FC vs. Montreal Roses FC", "sport": "Soccer", "competition": "Northern Super League", "start": "2026-09-06T16:00:00+00:00", "end": "2026-09-06T18:00:00+00:00", "location": "TD Place", "url": ""}, {"id": "6dbcdd28338320a6b5bd50dd", "title": "⚽️ Denver Summit FC vs Gotham FC", "sport": "Soccer", "competition": "National Women’s Soccer League", "start": "2026-09-06T18:00:00+00:00", "end": "2026-09-06T20:00:00+00:00", "location": "Centennial Stadium, Centennial, Colorado", "url": ""}, {"id": "fc4f008bd67143b50fcace03", "title": "AFC Toronto vs. Calgary Wild FC", "sport": "Soccer", "competition": "Northern Super League", "start": "2026-09-06T18:00:00+00:00", "end": "2026-09-06T20:00:00+00:00", "location": "BMO Field", "url": ""}, {"id": "f148e07bdf4f74f59d91a552", "title": "⚽️ Chicago Stars FC vs North Carolina Courage", "sport": "Soccer", "competition": "National Women’s Soccer League", "start": "2026-09-06T20:00:00+00:00", "end": "2026-09-06T22:00:00+00:00", "location": "Northwestern Medicine Field at Martin Stadium, Evanston, Illinois", "url": ""}, {"id": "a11403dd709bca2051f07448", "title": "⚽️ Portland Thorns FC vs Washington Spirit", "sport": "Soccer", "competition": "National Women’s Soccer League", "start": "2026-09-06T20:00:00+00:00", "end": "2026-09-06T22:00:00+00:00", "location": "Providence Park, Portland, Oregon", "url": ""}, {"id": "51ae070e4f7a98eb2a35541d", "title": "⚽️ Orlando Pride vs Houston Dash", "sport": "Soccer", "competition": "National Women’s Soccer League", "start": "2026-09-06T23:00:00+00:00", "end": "2026-09-07T01:00:00+00:00", "location": "Inter.co Stadium, Orlando, Florida", "url": ""}, {"id": "5564fafb87a8c55419e96b79", "title": "Boston vs San Francisco – Sep 6, 2026", "sport": "Baseball", "competition": "Women's Pro Baseball League", "start": "2026-09-06T23:30:00+00:00", "end": "2026-09-07T02:30:00+00:00", "location": "Robin Roberts Stadium, Springfield, Illinois", "url": "https://www.womensprobaseballleague.com/games/boston-vs-san-francisco-sep-6-2026/"}, {"id": "0096040d5e817262fe87fc7f", "title": "⚽️ Seattle Reign FC vs San Diego Wave FC", "sport": "Soccer", "competition": "National Women’s Soccer League", "start": "2026-09-07T01:00:00+00:00", "end": "2026-09-07T03:00:00+00:00", "location": "Seattle Stadium, Seattle, Washington", "url": ""}, {"id": "a9957bef93765529520899d1", "title": "Semi-Final Series A Playoff Game #1", "sport": "Baseball", "competition": "Women's Pro Baseball League", "start": "2026-09-09T23:00:00+00:00", "end": "2026-09-10T02:00:00+00:00", "location": "Robin Roberts Stadium, Springfield, Illinois", "url": "https://www.womensprobaseballleague.com/games/semi-final-series-a-playoff-game-1/"}, {"id": "4fa23ad763909733daa1e833", "title": "Semi-Final Series B Playoff Game #1", "sport": "Baseball", "competition": "Women's Pro Baseball League", "start": "2026-09-10T23:00:00+00:00", "end": "2026-09-11T02:00:00+00:00", "location": "Robin Roberts Stadium, Springfield, Illinois", "url": "https://www.womensprobaseballleague.com/games/semi-final-series-b-playoff-game-1/"}, {"id": "42b9c9693a2ea56b485c0340", "title": "Montreal Roses FC vs. AFC Toronto", "sport": "Soccer", "competition": "Northern Super League", "start": "2026-09-10T23:00:00+00:00", "end": "2026-09-11T01:00:00+00:00", "location": "Stade Boréale", "url": ""}, {"id": "90789aaae708ccffb2af165c", "title": "Semi-Final Series A Playoff Game #2", "sport": "Baseball", "competition": "Women's Pro Baseball League", "start": "2026-09-11T22:00:00+00:00", "end": "2026-09-12T01:00:00+00:00", "location": "Robin Roberts Stadium, Springfield, Illinois", "url": "https://www.womensprobaseballleague.com/games/semi-final-series-a-playoff-game-2/"}, {"id": "7e5837b3b1714975a8bdfd97", "title": "⚽️ Racing Louisville FC vs Gotham FC", "sport": "Soccer", "competition": "National Women’s Soccer League", "start": "2026-09-11T22:30:00+00:00", "end": "2026-09-12T00:30:00+00:00", "location": "Lynn Family Stadium, Louisville, Kentucky", "url": ""}, {"id": "8b59d9aa058f56c7a74bd1be", "title": "⚽️ Kansas City Current vs Orlando Pride", "sport": "Soccer", "competition": "National Women’s Soccer League", "start": "2026-09-12T00:00:00+00:00", "end": "2026-09-12T02:00:00+00:00", "location": "CPKC Stadium, Kansas City, Missouri", "url": ""}, {"id": "4ffa5b96817febcb3b30d075", "title": "⚽️ Angel City FC vs Denver Summit FC", "sport": "Soccer", "competition": "National Women’s Soccer League", "start": "2026-09-12T02:00:00+00:00", "end": "2026-09-12T04:00:00+00:00", "location": "BMO Stadium, Los Angeles, California", "url": ""}, {"id": "0cbe08e07c5b4a030e09bcdb", "title": "West Ham United vs. London City Lionesses", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-09-12T11:45:00+00:00", "end": "2026-09-12T13:45:00+00:00", "location": "Chigwell Construction Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/17b69372c12543dfac1b88f4f6435f56/west-ham-vs-london-city/"}, {"id": "9eaad51e08c1543d4ef3a52c", "title": "Calgary Wild FC vs. Halifax Tides FC", "sport": "Soccer", "competition": "Northern Super League", "start": "2026-09-12T18:00:00+00:00", "end": "2026-09-12T20:00:00+00:00", "location": "McMahon Stadium", "url": ""}, {"id": "b4d2eab2fdba4f421fc06543", "title": "⚽️ San Diego Wave FC vs North Carolina Courage", "sport": "Soccer", "competition": "National Women’s Soccer League", "start": "2026-09-12T22:30:00+00:00", "end": "2026-09-13T00:30:00+00:00", "location": "Snapdragon Stadium, San Diego, California", "url": ""}, {"id": "4cf08ae7a31a09f339f1faa9", "title": "Semi-Final Series B Playoff Game #2", "sport": "Baseball", "competition": "Women's Pro Baseball League", "start": "2026-09-12T23:00:00+00:00", "end": "2026-09-13T02:00:00+00:00", "location": "Robin Roberts Stadium, Springfield, Illinois", "url": "https://www.womensprobaseballleague.com/games/semi-final-series-b-playoff-game-2/"}, {"id": "d0a1c6e806c6fad06d626982", "title": "⚽️ Seattle Reign FC vs Bay FC", "sport": "Soccer", "competition": "National Women’s Soccer League", "start": "2026-09-13T00:00:00+00:00", "end": "2026-09-13T02:00:00+00:00", "location": "Seattle Stadium, Seattle, Washington", "url": ""}, {"id": "ad2b338a2a5761fe393cb576", "title": "⚽️ Houston Dash vs Utah Royals FC", "sport": "Soccer", "competition": "National Women’s Soccer League", "start": "2026-09-13T00:45:00+00:00", "end": "2026-09-13T02:45:00+00:00", "location": "Shell Energy Stadium, Houston, Texas", "url": ""}, {"id": "5dfad3987081235ac0c1d65c", "title": "Manchester United vs. Chelsea", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-09-13T11:00:00+00:00", "end": "2026-09-13T13:00:00+00:00", "location": "Progress with Unity Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/c3fd4039b100435bb0bccaa40e870abe/man-utd-vs-chelsea/"}, {"id": "9c44f255ead06b7630e081d5", "title": "Birmingham City vs. Brighton & Hove Albion", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-09-13T13:00:00+00:00", "end": "2026-09-13T15:00:00+00:00", "location": "St. Andrew's @ Knighthead Park", "url": "https://www.wslfootball.com/match/barclays-wsl/b95f88240acb44d39700abb73ff7bd9d/birmingham-vs-brighton/"}, {"id": "23fb17cbad437066f92e9d9d", "title": "Everton vs. Charlton Athletic", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-09-13T13:00:00+00:00", "end": "2026-09-13T15:00:00+00:00", "location": "Goodison Park", "url": "https://www.wslfootball.com/match/barclays-wsl/749701a2ff474fef8267f412eb96400d/everton-vs-charlton/"}, {"id": "0b6b25189f1c734c03978a79", "title": "Liverpool vs. Tottenham Hotspur", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-09-13T13:00:00+00:00", "end": "2026-09-13T15:00:00+00:00", "location": "BrewDog Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/ca0d4c14b8c648e5a4275f019f8c935c/liverpool-vs-spurs/"}, {"id": "672e96f728fcc93a35b810ce", "title": "Arsenal vs. Crystal Palace", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-09-13T13:45:00+00:00", "end": "2026-09-13T15:45:00+00:00", "location": "Emirates Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/6cfd6441fd864fdd935bb6cd3a362d25/arsenal-vs-crystal-palace/"}, {"id": "014404dec37810ab26103178", "title": "⚽️ Washington Spirit vs Boston Legacy FC", "sport": "Soccer", "competition": "National Women’s Soccer League", "start": "2026-09-13T17:00:00+00:00", "end": "2026-09-13T19:00:00+00:00", "location": "Audi Field, Washington, District of Columbia", "url": ""}, {"id": "131dc514bcc5234584b6adec", "title": "Aston Villa vs. Manchester City", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-09-13T17:30:00+00:00", "end": "2026-09-13T19:30:00+00:00", "location": "Villa Park", "url": "https://www.wslfootball.com/match/barclays-wsl/fa8b542859484d4d932096d59549aaed/aston-villa-vs-man-city/"}, {"id": "5b8e4fbef36b61efc428bb94", "title": "Semi-Final Series A Playoff Game #3, if needed", "sport": "Baseball", "competition": "Women's Pro Baseball League", "start": "2026-09-13T19:00:00+00:00", "end": "2026-09-13T22:00:00+00:00", "location": "Robin Roberts Stadium, Springfield, Illinois", "url": "https://www.womensprobaseballleague.com/games/semi-final-series-a-playoff-game-3-if-needed/"}, {"id": "f9c12416aa2a9e9c4f9921f5", "title": "Vancouver Rise FC vs. Ottawa Rapid FC", "sport": "Soccer", "competition": "Northern Super League", "start": "2026-09-13T20:00:00+00:00", "end": "2026-09-13T22:00:00+00:00", "location": "Swangard Stadium", "url": ""}, {"id": "e5c109f49729e6eac3ee6549", "title": "⚽️ Portland Thorns FC vs Chicago Stars FC", "sport": "Soccer", "competition": "National Women’s Soccer League", "start": "2026-09-13T23:00:00+00:00", "end": "2026-09-14T01:00:00+00:00", "location": "Providence Park, Portland, Oregon", "url": ""}, {"id": "687a479c009059fda6f31be0", "title": "Semi-Final Series B Playoff Game #3, if needed", "sport": "Baseball", "competition": "Women's Pro Baseball League", "start": "2026-09-14T23:00:00+00:00", "end": "2026-09-15T02:00:00+00:00", "location": "Robin Roberts Stadium, Springfield, Illinois", "url": "https://www.womensprobaseballleague.com/games/semi-final-series-b-playoff-game-3-if-needed/"}, {"id": "7e5cbf63e2efc04a06561e90", "title": "WPBL Championship Game #1", "sport": "Baseball", "competition": "Women's Pro Baseball League", "start": "2026-09-16T23:00:00+00:00", "end": "2026-09-17T02:00:00+00:00", "location": "Robin Roberts Stadium, Springfield, Illinois", "url": "https://www.womensprobaseballleague.com/games/wpbl-championship-game-1/"}, {"id": "7da61ef04442e1020c4ae8ab", "title": "⚽️ Denver Summit FC vs Bay FC", "sport": "Soccer", "competition": "National Women’s Soccer League", "start": "2026-09-17T01:30:00+00:00", "end": "2026-09-17T03:30:00+00:00", "location": "Centennial Stadium, Centennial, Colorado", "url": ""}, {"id": "7365f9638f3d909a61fab866", "title": "⚽️ Angel City FC vs Seattle Reign FC", "sport": "Soccer", "competition": "National Women’s Soccer League", "start": "2026-09-17T02:00:00+00:00", "end": "2026-09-17T04:00:00+00:00", "location": "BMO Stadium, Los Angeles, California", "url": ""}, {"id": "617271f10c45f24657edb612", "title": "WPBL Championship Game #2", "sport": "Baseball", "competition": "Women's Pro Baseball League", "start": "2026-09-17T23:00:00+00:00", "end": "2026-09-18T02:00:00+00:00", "location": "Robin Roberts Stadium, Springfield, Illinois", "url": "https://www.womensprobaseballleague.com/games/wpbl-championship-game-2/"}, {"id": "611f61b70b1be80e90d8c514", "title": "Connecticut Sun vs. Atlanta Dream", "sport": "Basketball", "competition": "WNBA", "start": "2026-09-17T23:30:00+00:00", "end": "2026-09-18T02:00:00+00:00", "location": "Gateway Center Arena @ College Park, Atlanta, GA", "url": "https://www.wnba.com/schedule?month=all&season=2026"}, {"id": "944c9f2d7d4f3a5856d2db92", "title": "Los Angeles Sparks vs. Dallas Wings", "sport": "Basketball", "competition": "WNBA", "start": "2026-09-18T00:00:00+00:00", "end": "2026-09-18T02:30:00+00:00", "location": "College Park Center, Arlington, TX", "url": "https://www.wnba.com/schedule?month=all&season=2026"}, {"id": "040cac131e722ae78d52b3b4", "title": "Washington Mystics vs. Chicago Sky", "sport": "Basketball", "competition": "WNBA", "start": "2026-09-18T00:00:00+00:00", "end": "2026-09-18T02:30:00+00:00", "location": "Wintrust Arena, Chicago, IL", "url": "https://www.wnba.com/schedule?month=all&season=2026"}, {"id": "f3eac08afac6ff54e6566865", "title": "Las Vegas Aces vs. Seattle Storm", "sport": "Basketball", "competition": "WNBA", "start": "2026-09-18T02:00:00+00:00", "end": "2026-09-18T04:30:00+00:00", "location": "Climate Pledge Arena, Seattle, WA", "url": "https://www.wnba.com/schedule?month=all&season=2026"}, {"id": "5b41940730f30e69d48b9a65", "title": "Phoenix Mercury vs. Portland Fire", "sport": "Basketball", "competition": "WNBA", "start": "2026-09-18T02:00:00+00:00", "end": "2026-09-18T04:30:00+00:00", "location": "Moda Center, Portland, OR", "url": "https://www.wnba.com/schedule?month=all&season=2026"}, {"id": "e3c1f55abce7588c6e2c73a5", "title": "Manchester City vs. Liverpool", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-09-18T18:00:00+00:00", "end": "2026-09-18T20:00:00+00:00", "location": "Joie Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/9c8826e6e4c64eda83f6ce0adc752e7a/man-city-vs-liverpool/"}, {"id": "82e84c2d1d89523c67a9629b", "title": "Indiana Fever vs. Toronto Tempo", "sport": "Basketball", "competition": "WNBA", "start": "2026-09-18T23:30:00+00:00", "end": "2026-09-19T02:00:00+00:00", "location": "Coca-Cola Coliseum, Toronto, ON", "url": "https://www.wnba.com/schedule?month=all&season=2026"}, {"id": "e3131b136195bd76a4ff8e29", "title": "New York Liberty vs. Minnesota Lynx", "sport": "Basketball", "competition": "WNBA", "start": "2026-09-18T23:30:00+00:00", "end": "2026-09-19T02:00:00+00:00", "location": "Target Center, Minneapolis, MN", "url": "https://www.wnba.com/schedule?month=all&season=2026"}, {"id": "0d869bd9151d1ce7dcdf61a3", "title": "Portland Fire vs. Golden State Valkyries", "sport": "Basketball", "competition": "WNBA", "start": "2026-09-19T02:00:00+00:00", "end": "2026-09-19T04:30:00+00:00", "location": "Chase Center, San Francisco, CA", "url": "https://www.wnba.com/schedule?month=all&season=2026"}, {"id": "dd9b37a8a857ce0a4a85e015", "title": "⚽️ San Diego Wave FC vs Kansas City Current", "sport": "Soccer", "competition": "National Women’s Soccer League", "start": "2026-09-19T02:00:00+00:00", "end": "2026-09-19T04:00:00+00:00", "location": "Snapdragon Stadium, San Diego, California", "url": ""}, {"id": "ca847aa8c91990e904e496cb", "title": "Charlton Athletic vs. London City Lionesses", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-09-19T11:30:00+00:00", "end": "2026-09-19T13:30:00+00:00", "location": "The Valley", "url": "https://www.wslfootball.com/match/barclays-wsl/ef62c1e58fa2499c9b9f8b31d8377401/charlton-vs-london-city/"}, {"id": "2db22aa5da7040b2a0b5d6f3", "title": "Chelsea vs. Birmingham City", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-09-19T11:45:00+00:00", "end": "2026-09-19T13:45:00+00:00", "location": "Stamford Bridge", "url": "https://www.wslfootball.com/match/barclays-wsl/4f7de4e451d54c11b0e2ff8644855354/chelsea-vs-birmingham/"}, {"id": "84d11922b91abeb664f35cb4", "title": "Arsenal vs. Manchester United", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-09-19T16:30:00+00:00", "end": "2026-09-19T18:30:00+00:00", "location": "Emirates Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/78822e157876488bbc6e4550ba5116d0/arsenal-vs-man-utd/"}, {"id": "d0b63460824e2b3d38bc6dde", "title": "Phoenix Mercury vs. Dallas Wings", "sport": "Basketball", "competition": "WNBA", "start": "2026-09-19T17:00:00+00:00", "end": "2026-09-19T19:30:00+00:00", "location": "College Park Center, Arlington, TX", "url": "https://www.wnba.com/schedule?month=all&season=2026"}, {"id": "e1457b7141f325fbf833e524", "title": "Halifax Tides FC vs. AFC Toronto", "sport": "Soccer", "competition": "Northern Super League", "start": "2026-09-19T18:00:00+00:00", "end": "2026-09-19T20:00:00+00:00", "location": "Wanderers Grounds", "url": ""}, {"id": "a8a407676ddef5189cadf153", "title": "⚽️ Orlando Pride vs Portland Thorns FC", "sport": "Soccer", "competition": "National Women’s Soccer League", "start": "2026-09-19T20:00:00+00:00", "end": "2026-09-19T22:00:00+00:00", "location": "Inter.co Stadium, Orlando, Florida", "url": ""}, {"id": "47fced08327b9160f1118abf", "title": "Vancouver Rise FC vs. Montreal Roses FC", "sport": "Soccer", "competition": "Northern Super League", "start": "2026-09-19T21:00:00+00:00", "end": "2026-09-19T23:00:00+00:00", "location": "Swangard Stadium", "url": ""}, {"id": "5ea050b1e057398f0ec9c60c", "title": "⚽️ North Carolina Courage vs Gotham FC", "sport": "Soccer", "competition": "National Women’s Soccer League", "start": "2026-09-19T22:30:00+00:00", "end": "2026-09-20T00:30:00+00:00", "location": "First Horizon Stadium at WakeMed Soccer Park, Cary, North Carolina", "url": ""}, {"id": "2efc34748525bd8d301a2aa7", "title": "WPBL Championship Game #3", "sport": "Baseball", "competition": "Women's Pro Baseball League", "start": "2026-09-19T23:00:00+00:00", "end": "2026-09-20T02:00:00+00:00", "location": "Robin Roberts Stadium, Springfield, Illinois", "url": "https://www.womensprobaseballleague.com/games/wpbl-championship-game-3/"}, {"id": "765749bca967b8a7ab3855c9", "title": "Chicago Sky vs. Atlanta Dream", "sport": "Basketball", "competition": "WNBA", "start": "2026-09-19T23:00:00+00:00", "end": "2026-09-20T01:30:00+00:00", "location": "State Farm Arena, Atlanta, GA", "url": "https://www.wnba.com/schedule?month=all&season=2026"}, {"id": "28d5b6b949c4d80a8bb26b18", "title": "⚽️ Denver Summit FC vs Seattle Reign FC", "sport": "Soccer", "competition": "National Women’s Soccer League", "start": "2026-09-20T00:45:00+00:00", "end": "2026-09-20T02:45:00+00:00", "location": "Centennial Stadium, Centennial, Colorado", "url": ""}, {"id": "a5ed6863d4c925cc33e94a39", "title": "Seattle Storm vs. Golden State Valkyries", "sport": "Basketball", "competition": "WNBA", "start": "2026-09-20T01:00:00+00:00", "end": "2026-09-20T03:30:00+00:00", "location": "Chase Center, San Francisco, CA", "url": "https://www.wnba.com/schedule?month=all&season=2026"}, {"id": "c69d48a083ee690b8b424530", "title": "Brighton & Hove Albion vs. Aston Villa", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-09-20T13:00:00+00:00", "end": "2026-09-20T15:00:00+00:00", "location": "American Express Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/6f358d0ebcd3472d934d0cfea8a3a2a2/brighton-vs-aston-villa/"}, {"id": "b405694816afb12d427e64ee", "title": "Crystal Palace vs. Tottenham Hotspur", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-09-20T13:00:00+00:00", "end": "2026-09-20T15:00:00+00:00", "location": "Selhurst Park", "url": "https://www.wslfootball.com/match/barclays-wsl/612d1f7a7a4944cbbe37c618c3e02819/crystal-palace-vs-spurs/"}, {"id": "0ec167ae5663789f3df4ea8b", "title": "West Ham United vs. Everton", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-09-20T13:00:00+00:00", "end": "2026-09-20T15:00:00+00:00", "location": "Chigwell Construction Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/c45b5861aff54163b87b0fbcb6ecd941/west-ham-vs-everton/"}, {"id": "d402f7a414c395cb099b6521", "title": "Minnesota Lynx vs. Connecticut Sun", "sport": "Basketball", "competition": "WNBA", "start": "2026-09-20T17:00:00+00:00", "end": "2026-09-20T19:30:00+00:00", "location": "Mohegan Sun Arena, Uncasville, CT", "url": "https://www.wnba.com/schedule?month=all&season=2026"}, {"id": "db11da1f0cfb18117cf622e8", "title": "⚽️ Boston Legacy FC vs Houston Dash", "sport": "Soccer", "competition": "National Women’s Soccer League", "start": "2026-09-20T18:00:00+00:00", "end": "2026-09-20T20:00:00+00:00", "location": "Centreville Bank Stadium, Pawtucket, Rhode Island", "url": ""}, {"id": "609bb7b39fe71d599b14f0d8", "title": "WPBL Championship Game #4, if needed", "sport": "Baseball", "competition": "Women's Pro Baseball League", "start": "2026-09-20T19:00:00+00:00", "end": "2026-09-20T22:00:00+00:00", "location": "Robin Roberts Stadium, Springfield, Illinois", "url": "https://www.womensprobaseballleague.com/games/wpbl-championship-game-4-if-needed/"}, {"id": "18ed555e934071226b077d0a", "title": "New York Liberty vs. Toronto Tempo", "sport": "Basketball", "competition": "WNBA", "start": "2026-09-20T19:00:00+00:00", "end": "2026-09-20T21:30:00+00:00", "location": "Coca-Cola Coliseum, Toronto, ON", "url": "https://www.wnba.com/schedule?month=all&season=2026"}, {"id": "a7562194993754a3bec8e4a8", "title": "Washington Mystics vs. Indiana Fever", "sport": "Basketball", "competition": "WNBA", "start": "2026-09-20T20:00:00+00:00", "end": "2026-09-20T22:30:00+00:00", "location": "Gainbridge Fieldhouse, Indianapolis, IN", "url": "https://www.wnba.com/schedule?month=all&season=2026"}, {"id": "329624734a08545ccee95ff3", "title": "⚽️ Chicago Stars FC vs Washington Spirit", "sport": "Soccer", "competition": "National Women’s Soccer League", "start": "2026-09-20T21:00:00+00:00", "end": "2026-09-20T23:00:00+00:00", "location": "Northwestern Medicine Field at Martin Stadium, Evanston, Illinois", "url": ""}, {"id": "464159b8c1c78f5966586536", "title": "Portland Fire vs. Los Angeles Sparks", "sport": "Basketball", "competition": "WNBA", "start": "2026-09-20T23:00:00+00:00", "end": "2026-09-21T01:30:00+00:00", "location": "Crypto.com Arena, Los Angeles, CA", "url": "https://www.wnba.com/schedule?month=all&season=2026"}, {"id": "39242b117eb02e976f0e07b9", "title": "⚽️ Bay FC vs Racing Louisville FC", "sport": "Soccer", "competition": "National Women’s Soccer League", "start": "2026-09-20T23:00:00+00:00", "end": "2026-09-21T01:00:00+00:00", "location": "PayPal Park, San Jose, California", "url": ""}, {"id": "c52ded6f3eae1132aa76de5e", "title": "⚽️ Utah Royals FC vs Angel City FC", "sport": "Soccer", "competition": "National Women’s Soccer League", "start": "2026-09-20T23:00:00+00:00", "end": "2026-09-21T01:00:00+00:00", "location": "America First Field, Sandy, Utah", "url": ""}, {"id": "5a1272d014d607369063f7ce", "title": "Ottawa Rapid FC vs. Calgary Wild FC", "sport": "Soccer", "competition": "Northern Super League", "start": "2026-09-20T23:00:00+00:00", "end": "2026-09-21T01:00:00+00:00", "location": "TD Place", "url": ""}, {"id": "6b50ffe879fdbbedafe059e7", "title": "Seattle Storm vs. Las Vegas Aces", "sport": "Basketball", "competition": "WNBA", "start": "2026-09-21T01:00:00+00:00", "end": "2026-09-21T03:30:00+00:00", "location": "Michelob ULTRA Arena, Las Vegas, NV", "url": "https://www.wnba.com/schedule?month=all&season=2026"}, {"id": "a1c3baff8781cef47e8941e5", "title": "Atlanta Dream vs. New York Liberty", "sport": "Basketball", "competition": "WNBA", "start": "2026-09-22T00:00:00+00:00", "end": "2026-09-22T02:30:00+00:00", "location": "Barclays Center, Brooklyn, NY", "url": "https://www.wnba.com/schedule?month=all&season=2026"}, {"id": "92f15d81d2fe2eb29ffb0c9f", "title": "Dallas Wings vs. Phoenix Mercury", "sport": "Basketball", "competition": "WNBA", "start": "2026-09-22T02:00:00+00:00", "end": "2026-09-22T04:30:00+00:00", "location": "Mortgage Matchup Center, Phoenix, AZ", "url": "https://www.wnba.com/schedule?month=all&season=2026"}, {"id": "7d9eb1445bd44f65901a5c83", "title": "WPBL Championship Game #5, if needed", "sport": "Baseball", "competition": "Women's Pro Baseball League", "start": "2026-09-22T23:00:00+00:00", "end": "2026-09-23T02:00:00+00:00", "location": "Robin Roberts Stadium, Springfield, Illinois", "url": "https://www.womensprobaseballleague.com/games/wpbl-championship-game-5-if-needed/"}, {"id": "fd39f05885d4eec7624710b0", "title": "Connecticut Sun vs. Washington Mystics", "sport": "Basketball", "competition": "WNBA", "start": "2026-09-22T23:30:00+00:00", "end": "2026-09-23T02:00:00+00:00", "location": "CareFirst Arena, Washington, DC", "url": "https://www.wnba.com/schedule?month=all&season=2026"}, {"id": "76c25d058b7af632db3536fd", "title": "Minnesota Lynx vs. Indiana Fever", "sport": "Basketball", "competition": "WNBA", "start": "2026-09-23T00:00:00+00:00", "end": "2026-09-23T02:30:00+00:00", "location": "Gainbridge Fieldhouse, Indianapolis, IN", "url": "https://www.wnba.com/schedule?month=all&season=2026"}, {"id": "335b6972e20bbe781bed69f2", "title": "Toronto Tempo vs. Chicago Sky", "sport": "Basketball", "competition": "WNBA", "start": "2026-09-23T00:00:00+00:00", "end": "2026-09-23T02:30:00+00:00", "location": "Wintrust Arena, Chicago, IL", "url": "https://www.wnba.com/schedule?month=all&season=2026"}, {"id": "0d7c210dfa7ebda28e9a89b4", "title": "Golden State Valkyries vs. Portland Fire", "sport": "Basketball", "competition": "WNBA", "start": "2026-09-23T02:00:00+00:00", "end": "2026-09-23T04:30:00+00:00", "location": "Moda Center, Portland, OR", "url": "https://www.wnba.com/schedule?month=all&season=2026"}, {"id": "276eb87f81696020d786a148", "title": "Los Angeles Sparks vs. Las Vegas Aces", "sport": "Basketball", "competition": "WNBA", "start": "2026-09-23T02:00:00+00:00", "end": "2026-09-23T04:30:00+00:00", "location": "Michelob ULTRA Arena, Las Vegas, NV", "url": "https://www.wnba.com/schedule?month=all&season=2026"}, {"id": "8134376aa9b8420f251057e4", "title": "Atlanta Dream vs. New York Liberty", "sport": "Basketball", "competition": "WNBA", "start": "2026-09-24T00:00:00+00:00", "end": "2026-09-24T02:30:00+00:00", "location": "Barclays Center, Brooklyn, NY", "url": "https://www.wnba.com/schedule?month=all&season=2026"}, {"id": "fc0922114b4193cde52fdc60", "title": "Dallas Wings vs. Seattle Storm", "sport": "Basketball", "competition": "WNBA", "start": "2026-09-24T02:00:00+00:00", "end": "2026-09-24T04:30:00+00:00", "location": "Climate Pledge Arena, Seattle, WA", "url": "https://www.wnba.com/schedule?month=all&season=2026"}, {"id": "86ac3942d53ef556ce5b5319", "title": "Toronto Tempo vs. Connecticut Sun", "sport": "Basketball", "competition": "WNBA", "start": "2026-09-24T23:00:00+00:00", "end": "2026-09-25T01:30:00+00:00", "location": "Mohegan Sun Arena, Uncasville, CT", "url": "https://www.wnba.com/schedule?month=all&season=2026"}, {"id": "d3239b0e26300167997771bf", "title": "Chicago Sky vs. Washington Mystics", "sport": "Basketball", "competition": "WNBA", "start": "2026-09-24T23:30:00+00:00", "end": "2026-09-25T02:00:00+00:00", "location": "Capital One Arena, Washington, DC", "url": "https://www.wnba.com/schedule?month=all&season=2026"}, {"id": "bdca765d2d315d4f1136e8ec", "title": "Indiana Fever vs. Minnesota Lynx", "sport": "Basketball", "competition": "WNBA", "start": "2026-09-25T00:00:00+00:00", "end": "2026-09-25T02:30:00+00:00", "location": "Target Center, Minneapolis, MN", "url": "https://www.wnba.com/schedule?month=all&season=2026"}, {"id": "b0c17223fb5f6a347791a951", "title": "Golden State Valkyries vs. Los Angeles Sparks", "sport": "Basketball", "competition": "WNBA", "start": "2026-09-25T02:00:00+00:00", "end": "2026-09-25T04:30:00+00:00", "location": "Crypto.com Arena, Los Angeles, CA", "url": "https://www.wnba.com/schedule?month=all&season=2026"}, {"id": "b5964834fefe7b3e4b51142c", "title": "Las Vegas Aces vs. Phoenix Mercury", "sport": "Basketball", "competition": "WNBA", "start": "2026-09-25T02:00:00+00:00", "end": "2026-09-25T04:30:00+00:00", "location": "Mortgage Matchup Center, Phoenix, AZ", "url": "https://www.wnba.com/schedule?month=all&season=2026"}, {"id": "2155a994112f8d305948a0de", "title": "⚽️ Racing Louisville FC vs San Diego Wave FC", "sport": "Soccer", "competition": "National Women’s Soccer League", "start": "2026-09-25T22:30:00+00:00", "end": "2026-09-26T00:30:00+00:00", "location": "Lynn Family Stadium, Louisville, Kentucky", "url": ""}, {"id": "b1950450c71cfb119dc45e7e", "title": "⚽️ Gotham FC vs Chicago Stars FC", "sport": "Soccer", "competition": "National Women’s Soccer League", "start": "2026-09-26T00:00:00+00:00", "end": "2026-09-26T02:00:00+00:00", "location": "Sports Illustrated Stadium, Harrison, New Jersey", "url": ""}, {"id": "b0e59b81c39fb632b9ec2fc3", "title": "⚽️ Seattle Reign FC vs Boston Legacy FC", "sport": "Soccer", "competition": "National Women’s Soccer League", "start": "2026-09-26T00:30:00+00:00", "end": "2026-09-26T02:30:00+00:00", "location": "Seattle Stadium, Seattle, Washington", "url": ""}, {"id": "1ebd0842861170a2addb1d84", "title": "Charlton Athletic vs. Manchester City", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-09-26T12:30:00+00:00", "end": "2026-09-26T14:30:00+00:00", "location": "The Valley", "url": "https://www.wslfootball.com/match/barclays-wsl/45fa16f02e3f44e0a6973826d4e9ed00/charlton-vs-man-city/"}, {"id": "939683e363540f44391f9a7e", "title": "London City Lionesses vs. Brighton & Hove Albion", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-09-26T16:00:00+00:00", "end": "2026-09-26T18:00:00+00:00", "location": "Copperjax Community Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/38fffa5c79e44a84b70a0d188300b414/london-city-vs-brighton/"}, {"id": "b512e98fafacddaf6d9bdb7b", "title": "⚽️ Kansas City Current vs Denver Summit FC", "sport": "Soccer", "competition": "National Women’s Soccer League", "start": "2026-09-26T16:30:00+00:00", "end": "2026-09-26T18:30:00+00:00", "location": "CPKC Stadium, Kansas City, Missouri", "url": ""}, {"id": "d4b307bd238087880349522b", "title": "AFC Toronto vs. Ottawa Rapid FC", "sport": "Soccer", "competition": "Northern Super League", "start": "2026-09-26T18:00:00+00:00", "end": "2026-09-26T20:00:00+00:00", "location": "York Lions Stadium", "url": ""}, {"id": "c2a82db05c86858838c3dab7", "title": "⚽️ Washington Spirit vs Angel City FC", "sport": "Soccer", "competition": "National Women’s Soccer League", "start": "2026-09-26T22:30:00+00:00", "end": "2026-09-27T00:30:00+00:00", "location": "Audi Field, Washington, District of Columbia", "url": ""}, {"id": "60bac54194135e45cdbdd837", "title": "⚽️ Portland Thorns FC vs Houston Dash", "sport": "Soccer", "competition": "National Women’s Soccer League", "start": "2026-09-27T00:45:00+00:00", "end": "2026-09-27T02:45:00+00:00", "location": "Providence Park, Portland, Oregon", "url": ""}, {"id": "ba2da5c7d7a58ca140624e99", "title": "Manchester United vs. West Ham United", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-09-27T12:00:00+00:00", "end": "2026-09-27T14:00:00+00:00", "location": "Progress with Unity Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/e532f5703fed4cf785fdb10ea5aec6ed/man-utd-vs-west-ham/"}, {"id": "74c1342ae92b6cc169741429", "title": "Birmingham City vs. Crystal Palace", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-09-27T13:00:00+00:00", "end": "2026-09-27T15:00:00+00:00", "location": "St. Andrew's @ Knighthead Park", "url": "https://www.wslfootball.com/match/barclays-wsl/441e06b858aa4367894fb9c93131c22e/birmingham-vs-crystal-palace/"}, {"id": "631d8765800618e34b2cb5a4", "title": "Liverpool vs. Everton", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-09-27T13:00:00+00:00", "end": "2026-09-27T15:00:00+00:00", "location": "Anfield", "url": "https://www.wslfootball.com/match/barclays-wsl/b508005aced84d6a87ad2dfbdc3c7a31/liverpool-vs-everton/"}, {"id": "1cec2897392b308257b55218", "title": "Tottenham Hotspur vs. Aston Villa", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-09-27T13:00:00+00:00", "end": "2026-09-27T15:00:00+00:00", "location": "BetWright Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/14547ff6e9cc4965bb506aa2c04e8b27/spurs-vs-aston-villa/"}, {"id": "8662061e17dd5ade702c6a99", "title": "Chelsea vs. Arsenal", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-09-27T15:30:00+00:00", "end": "2026-09-27T17:30:00+00:00", "location": "Stamford Bridge", "url": "https://www.wslfootball.com/match/barclays-wsl/e41e9112d45845d8906deb66c4b8cd73/chelsea-vs-arsenal/"}, {"id": "a1498fc676af5343c9e9adb3", "title": "Halifax Tides FC vs. Montreal Roses FC", "sport": "Soccer", "competition": "Northern Super League", "start": "2026-09-27T16:00:00+00:00", "end": "2026-09-27T18:00:00+00:00", "location": "Wanderers Grounds", "url": ""}, {"id": "f7fa7f424f974a4c3080dd7d", "title": "Calgary Wild FC vs. Vancouver Rise FC", "sport": "Soccer", "competition": "Northern Super League", "start": "2026-09-27T20:00:00+00:00", "end": "2026-09-27T22:00:00+00:00", "location": "McMahon Stadium", "url": ""}, {"id": "a7c7a526a08e013affc9664d", "title": "⚽️ Bay FC vs Orlando Pride", "sport": "Soccer", "competition": "National Women’s Soccer League", "start": "2026-09-27T21:00:00+00:00", "end": "2026-09-27T23:00:00+00:00", "location": "PayPal Park, San Jose, California", "url": ""}, {"id": "327a42054b9266001ebb14ea", "title": "⚽️ Utah Royals FC vs North Carolina Courage", "sport": "Soccer", "competition": "National Women’s Soccer League", "start": "2026-09-27T23:00:00+00:00", "end": "2026-09-28T01:00:00+00:00", "location": "America First Field, Sandy, Utah", "url": ""}, {"id": "b66a1a915fb89086ac9aa7af", "title": "Montreal Roses FC vs. Ottawa Rapid FC", "sport": "Soccer", "competition": "Northern Super League", "start": "2026-10-02T23:00:00+00:00", "end": "2026-10-03T01:00:00+00:00", "location": "Stade Boréale", "url": ""}, {"id": "ee1297e8033d66debdc5dd6d", "title": "⚽️ Orlando Pride vs San Diego Wave FC", "sport": "Soccer", "competition": "National Women’s Soccer League", "start": "2026-10-03T00:00:00+00:00", "end": "2026-10-03T02:00:00+00:00", "location": "Inter.co Stadium, Orlando, Florida", "url": ""}, {"id": "f5b4ce854d35a6acf925b4c9", "title": "⚽️ Seattle Reign FC vs North Carolina Courage", "sport": "Soccer", "competition": "National Women’s Soccer League", "start": "2026-10-03T02:00:00+00:00", "end": "2026-10-03T04:00:00+00:00", "location": "Seattle Stadium, Seattle, Washington", "url": ""}, {"id": "76061569e87be332171bcaf9", "title": "Halifax Tides FC vs. Calgary Wild FC", "sport": "Soccer", "competition": "Northern Super League", "start": "2026-10-03T18:00:00+00:00", "end": "2026-10-03T20:00:00+00:00", "location": "Wanderers Grounds", "url": ""}, {"id": "b6d4c09e8d9c3bba10cd2f34", "title": "⚽️ Racing Louisville FC vs Utah Royals FC", "sport": "Soccer", "competition": "National Women’s Soccer League", "start": "2026-10-03T20:00:00+00:00", "end": "2026-10-03T22:00:00+00:00", "location": "Lynn Family Stadium, Louisville, Kentucky", "url": ""}, {"id": "7cc32246789826e72d0b6159", "title": "⚽️ Kansas City Current vs Bay FC", "sport": "Soccer", "competition": "National Women’s Soccer League", "start": "2026-10-03T22:30:00+00:00", "end": "2026-10-04T00:30:00+00:00", "location": "CPKC Stadium, Kansas City, Missouri", "url": ""}, {"id": "a29b25e8ba813c097b7d7a6c", "title": "⚽️ Portland Thorns FC vs Boston Legacy FC", "sport": "Soccer", "competition": "National Women’s Soccer League", "start": "2026-10-04T00:45:00+00:00", "end": "2026-10-04T02:45:00+00:00", "location": "Providence Park, Portland, Oregon", "url": ""}, {"id": "837106bb961a4050809db947", "title": "Tottenham Hotspur vs. London City Lionesses", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-10-04T11:00:00+00:00", "end": "2026-10-04T13:00:00+00:00", "location": "BetWright Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/66bd149875594226a072bb3f0865bf36/spurs-vs-london-city/"}, {"id": "d5f0d7a28ed4468d830bc007", "title": "Manchester United vs. Liverpool", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-10-04T12:00:00+00:00", "end": "2026-10-04T14:00:00+00:00", "location": "Progress with Unity Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/afab794465174afab54552809d76f5fb/man-utd-vs-liverpool/"}, {"id": "83ea9f3a7a47fb867aee3f28", "title": "Aston Villa vs. Crystal Palace", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-10-04T13:00:00+00:00", "end": "2026-10-04T15:00:00+00:00", "location": "Villa Park", "url": "https://www.wslfootball.com/match/barclays-wsl/fc019b5da1e44147a6e9303f86a21932/aston-villa-vs-crystal-palace/"}, {"id": "1c49c03dd81c99a6a3b09fe9", "title": "Brighton & Hove Albion vs. Charlton Athletic", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-10-04T13:00:00+00:00", "end": "2026-10-04T15:00:00+00:00", "location": "American Express Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/38eba1106b6548f3935a0dfad86516bf/brighton-vs-charlton/"}, {"id": "79ee319dc17369489eb96fe5", "title": "Everton vs. Birmingham City", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-10-04T13:00:00+00:00", "end": "2026-10-04T15:00:00+00:00", "location": "Goodison Park", "url": "https://www.wslfootball.com/match/barclays-wsl/8fe891577df04ec6a9ff0b8d9dd3ebf2/everton-vs-birmingham/"}, {"id": "e928bc138292a7bfa3bc20fd", "title": "West Ham United vs. Chelsea", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-10-04T13:00:00+00:00", "end": "2026-10-04T15:00:00+00:00", "location": "Chigwell Construction Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/24afafc14446459989582f21b2381074/west-ham-vs-chelsea/"}, {"id": "4a7dfe22c36bb1b7269073db", "title": "Manchester City vs. Arsenal", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-10-04T13:30:00+00:00", "end": "2026-10-04T15:30:00+00:00", "location": "Etihad Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/356ca3ca1e7c4883b06e17bcba0d99fe/man-city-vs-arsenal/"}, {"id": "66641dbe3f41c46e1b3ca962", "title": "⚽️ Gotham FC vs Angel City FC", "sport": "Soccer", "competition": "National Women’s Soccer League", "start": "2026-10-04T16:00:00+00:00", "end": "2026-10-04T18:00:00+00:00", "location": "Sports Illustrated Stadium, Harrison, New Jersey", "url": ""}, {"id": "ae3736ee4afc91f676a2ee3c", "title": "AFC Toronto vs. Vancouver Rise FC", "sport": "Soccer", "competition": "Northern Super League", "start": "2026-10-04T17:00:00+00:00", "end": "2026-10-04T19:00:00+00:00", "location": "York Lions Stadium", "url": ""}, {"id": "c900c3532e237cf2efd1c54f", "title": "⚽️ Chicago Stars FC vs Denver Summit FC", "sport": "Soccer", "competition": "National Women’s Soccer League", "start": "2026-10-04T20:00:00+00:00", "end": "2026-10-04T22:00:00+00:00", "location": "Northwestern Medicine Field at Martin Stadium, Evanston, Illinois", "url": ""}, {"id": "4840f893f55d30ad28f52b9d", "title": "⚽️ Houston Dash vs Washington Spirit", "sport": "Soccer", "competition": "National Women’s Soccer League", "start": "2026-10-04T23:00:00+00:00", "end": "2026-10-05T01:00:00+00:00", "location": "Shell Energy Stadium, Houston, Texas", "url": ""}, {"id": "0496e5d0f7bb1d9a8e507c00", "title": "⚽️ Boston Legacy FC vs Racing Louisville FC", "sport": "Soccer", "competition": "National Women’s Soccer League", "start": "2026-10-17T00:00:00+00:00", "end": "2026-10-17T02:00:00+00:00", "location": "Gillette Stadium, Foxborough, Massachusetts", "url": ""}, {"id": "8b5301518d6ea1825f72246e", "title": "Aston Villa vs. Liverpool", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-10-17T11:00:00+00:00", "end": "2026-10-17T13:00:00+00:00", "location": "Villa Park", "url": "https://www.wslfootball.com/match/barclays-wsl/9ed899fbbfc6456381b40ce1d0142a40/aston-villa-vs-liverpool/"}, {"id": "d84cc4548b12bc878c8b4d42", "title": "⚽️ Washington Spirit vs Gotham FC", "sport": "Soccer", "competition": "National Women’s Soccer League", "start": "2026-10-17T16:30:00+00:00", "end": "2026-10-17T18:30:00+00:00", "location": "Audi Field, Washington, District of Columbia", "url": ""}, {"id": "216fea27b0f5d87b98b8a7d6", "title": "Halifax Tides FC vs. Montreal Roses FC", "sport": "Soccer", "competition": "Northern Super League", "start": "2026-10-17T18:00:00+00:00", "end": "2026-10-17T20:00:00+00:00", "location": "Wanderers Grounds", "url": ""}, {"id": "338729f6ed353a240b321910", "title": "⚽️ Utah Royals FC vs Kansas City Current", "sport": "Soccer", "competition": "National Women’s Soccer League", "start": "2026-10-17T22:30:00+00:00", "end": "2026-10-18T00:30:00+00:00", "location": "America First Field, Sandy, Utah", "url": ""}, {"id": "20eeb2059b62cc1768c299c2", "title": "⚽️ North Carolina Courage vs San Diego Wave FC", "sport": "Soccer", "competition": "National Women’s Soccer League", "start": "2026-10-17T23:00:00+00:00", "end": "2026-10-18T01:00:00+00:00", "location": "First Horizon Stadium at WakeMed Soccer Park, Cary, North Carolina", "url": ""}, {"id": "43092d530f7b38c91e7dee75", "title": "⚽️ Denver Summit FC vs Angel City FC", "sport": "Soccer", "competition": "National Women’s Soccer League", "start": "2026-10-18T00:45:00+00:00", "end": "2026-10-18T02:45:00+00:00", "location": "Centennial Stadium, Centennial, Colorado", "url": ""}, {"id": "44efedfc9c0a8b7902315264", "title": "Arsenal vs. Birmingham City", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-10-18T11:30:00+00:00", "end": "2026-10-18T13:30:00+00:00", "location": "Emirates Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/c18b112b3f9b464b894c473030404bd2/arsenal-vs-birmingham/"}, {"id": "2d1d29d909ef2fb4df7b0af3", "title": "Charlton Athletic vs. Manchester United", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-10-18T13:00:00+00:00", "end": "2026-10-18T15:00:00+00:00", "location": "The Valley", "url": "https://www.wslfootball.com/match/barclays-wsl/ae8ee0c2c93d4555bce4c40fb0d6c39f/charlton-vs-man-utd/"}, {"id": "d84d7cfd1eb86d12c5ea9a08", "title": "Chelsea vs. Tottenham Hotspur", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-10-18T13:00:00+00:00", "end": "2026-10-18T15:00:00+00:00", "location": "Stamford Bridge", "url": "https://www.wslfootball.com/match/barclays-wsl/9cebd47ddf2b44ad98ba5b078ed9ef88/chelsea-vs-spurs/"}, {"id": "860e0f408f7694bcedfe6696", "title": "Crystal Palace vs. West Ham United", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-10-18T13:00:00+00:00", "end": "2026-10-18T15:00:00+00:00", "location": "VBS Community Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/909ff58064b0437b959c489a55d0b936/crystal-palace-vs-west-ham/"}, {"id": "a072b717cdf8f6cfd8b43892", "title": "London City Lionesses vs. Everton", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-10-18T13:00:00+00:00", "end": "2026-10-18T15:00:00+00:00", "location": "Copperjax Community Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/da644cc38fb8430081e3c25e5c828bca/london-city-vs-everton/"}, {"id": "f538fdda0be436d2b68065c9", "title": "Manchester City vs. Brighton & Hove Albion", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-10-18T13:00:00+00:00", "end": "2026-10-18T15:00:00+00:00", "location": "Joie Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/88f1060db0464a16a85a9112afcaf45b/man-city-vs-brighton/"}, {"id": "64fc2e96a31169a898cdf5ac", "title": "⚽️ Houston Dash vs Orlando Pride", "sport": "Soccer", "competition": "National Women’s Soccer League", "start": "2026-10-18T17:00:00+00:00", "end": "2026-10-18T19:00:00+00:00", "location": "Shell Energy Stadium, Houston, Texas", "url": ""}, {"id": "872190ec2bb373c5a3e07b0e", "title": "AFC Toronto vs. Calgary Wild FC", "sport": "Soccer", "competition": "Northern Super League", "start": "2026-10-18T17:00:00+00:00", "end": "2026-10-18T19:00:00+00:00", "location": "BMO Field", "url": ""}, {"id": "729acf4a8c0019f5e177de3e", "title": "Ottawa Rapid FC vs. Vancouver Rise FC", "sport": "Soccer", "competition": "Northern Super League", "start": "2026-10-18T20:00:00+00:00", "end": "2026-10-18T22:00:00+00:00", "location": "TD Place", "url": ""}, {"id": "08530b52ccb126a42b1549ec", "title": "⚽️ Bay FC vs Portland Thorns FC", "sport": "Soccer", "competition": "National Women’s Soccer League", "start": "2026-10-18T21:00:00+00:00", "end": "2026-10-18T23:00:00+00:00", "location": "PayPal Park, San Jose, California", "url": ""}, {"id": "dbb57172ebc696a658f9a232", "title": "⚽️ Chicago Stars FC vs Seattle Reign FC", "sport": "Soccer", "competition": "National Women’s Soccer League", "start": "2026-10-18T23:00:00+00:00", "end": "2026-10-19T01:00:00+00:00", "location": "Northwestern Medicine Field at Martin Stadium, Evanston, Illinois", "url": ""}, {"id": "79a89d960f22e569d3cfbffe", "title": "Montreal Roses FC vs. Ottawa Rapid FC", "sport": "Soccer", "competition": "Northern Super League", "start": "2026-10-23T23:00:00+00:00", "end": "2026-10-24T01:00:00+00:00", "location": "Stade Boréale", "url": ""}, {"id": "772b2345764501d3241a200e", "title": "⚽️ Chicago Stars FC vs Houston Dash", "sport": "Soccer", "competition": "National Women’s Soccer League", "start": "2026-10-24T00:00:00+00:00", "end": "2026-10-24T02:00:00+00:00", "location": "Northwestern Medicine Field at Martin Stadium, Evanston, Illinois", "url": ""}, {"id": "ff3ebd8e1d6b135ff6243fac", "title": "⚽️ Utah Royals FC vs Seattle Reign FC", "sport": "Soccer", "competition": "National Women’s Soccer League", "start": "2026-10-24T01:30:00+00:00", "end": "2026-10-24T03:30:00+00:00", "location": "America First Field, Sandy, Utah", "url": ""}, {"id": "696253923d19bb6f7957b046", "title": "⚽️ Portland Thorns FC vs North Carolina Courage", "sport": "Soccer", "competition": "National Women’s Soccer League", "start": "2026-10-24T02:00:00+00:00", "end": "2026-10-24T04:00:00+00:00", "location": "Providence Park, Portland, Oregon", "url": ""}, {"id": "7636274f70bec88ff702270a", "title": "⚽️ Denver Summit FC vs Racing Louisville FC", "sport": "Soccer", "competition": "National Women’s Soccer League", "start": "2026-10-24T22:30:00+00:00", "end": "2026-10-25T00:30:00+00:00", "location": "Centennial Stadium, Centennial, Colorado", "url": ""}, {"id": "43661f4a20b47a530ca7abdd", "title": "⚽️ Angel City FC vs Bay FC", "sport": "Soccer", "competition": "National Women’s Soccer League", "start": "2026-10-25T00:45:00+00:00", "end": "2026-10-25T02:45:00+00:00", "location": "BMO Stadium, Los Angeles, California", "url": ""}, {"id": "ff4f378ccc7286a710cd79c1", "title": "Manchester United vs. Manchester City", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-10-25T13:00:00+00:00", "end": "2026-10-25T15:00:00+00:00", "location": "Progress with Unity Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/3817aa43b204470eb614a0c287f5e12a/man-utd-vs-man-city/"}, {"id": "84978cfb4518dbbd8d938dc3", "title": "Birmingham City vs. Charlton Athletic", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-10-25T14:00:00+00:00", "end": "2026-10-25T16:00:00+00:00", "location": "St. Andrew's @ Knighthead Park", "url": "https://www.wslfootball.com/match/barclays-wsl/ce1d80eb3bfb46d9bab300a849cad12b/birmingham-vs-charlton/"}, {"id": "c94ca966e86ed0fe85e9ebee", "title": "Brighton & Hove Albion vs. West Ham United", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-10-25T14:00:00+00:00", "end": "2026-10-25T16:00:00+00:00", "location": "American Express Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/e36c961a24bb409498029478475ec755/brighton-vs-west-ham/"}, {"id": "a9eeff368b48e86e738a6710", "title": "Crystal Palace vs. Chelsea", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-10-25T14:00:00+00:00", "end": "2026-10-25T16:00:00+00:00", "location": "VBS Community Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/6f940dddfaf64dbf99c146e1589d31e9/crystal-palace-vs-chelsea/"}, {"id": "7cd171cbfbdada6ee8e4b3c5", "title": "Everton vs. Aston Villa", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-10-25T14:00:00+00:00", "end": "2026-10-25T16:00:00+00:00", "location": "Goodison Park", "url": "https://www.wslfootball.com/match/barclays-wsl/c3d44b152442461887491dc12e2f18d0/everton-vs-aston-villa/"}, {"id": "2a8371cd906f452516310b04", "title": "Liverpool vs. London City Lionesses", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-10-25T14:00:00+00:00", "end": "2026-10-25T16:00:00+00:00", "location": "BrewDog Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/fd960a9a87dc4e44998306b90bfb34bb/liverpool-vs-london-city/"}, {"id": "7153b97de4dfacbe2fdc630e", "title": "Tottenham Hotspur vs. Arsenal", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-10-25T14:00:00+00:00", "end": "2026-10-25T16:00:00+00:00", "location": "Tottenham Hotspur Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/1a930a80fc1a45668fbd3087e5289961/spurs-vs-arsenal/"}, {"id": "49886fc05e86eadfce0b278c", "title": "⚽️ Orlando Pride vs Gotham FC", "sport": "Soccer", "competition": "National Women’s Soccer League", "start": "2026-10-25T19:00:00+00:00", "end": "2026-10-25T21:00:00+00:00", "location": "Inter.co Stadium, Orlando, Florida", "url": ""}, {"id": "189c3444a38c5437849e503e", "title": "Vancouver Rise FC vs. Calgary Wild FC", "sport": "Soccer", "competition": "Northern Super League", "start": "2026-10-25T20:00:00+00:00", "end": "2026-10-25T22:00:00+00:00", "location": "Swangard Stadium", "url": ""}, {"id": "5d9585c5e6822792bbbff8d7", "title": "⚽️ Kansas City Current vs Washington Spirit", "sport": "Soccer", "competition": "National Women’s Soccer League", "start": "2026-10-25T21:00:00+00:00", "end": "2026-10-25T23:00:00+00:00", "location": "CPKC Stadium, Kansas City, Missouri", "url": ""}, {"id": "e1c27b0ed82529ee7c5fe61d", "title": "⚽️ San Diego Wave FC vs Boston Legacy FC", "sport": "Soccer", "competition": "National Women’s Soccer League", "start": "2026-10-25T23:00:00+00:00", "end": "2026-10-26T01:00:00+00:00", "location": "Snapdragon Stadium, San Diego, California", "url": ""}, {"id": "79784df26dd60549373495a3", "title": "AFC Toronto vs. Halifax Tides FC", "sport": "Soccer", "competition": "Northern Super League", "start": "2026-10-26T23:00:00+00:00", "end": "2026-10-27T01:00:00+00:00", "location": "BMO Field", "url": ""}, {"id": "cc5c08884b1887de2d9d3075", "title": "Everton vs. Manchester United", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-10-31T12:30:00+00:00", "end": "2026-10-31T14:30:00+00:00", "location": "Goodison Park", "url": "https://www.wslfootball.com/match/barclays-wsl/71ef1958bd1f4ecdb687f744972e5f65/everton-vs-man-utd/"}, {"id": "5bc2075379856f2528755a34", "title": "2026 Semi-Final A - Leg 1", "sport": "Soccer", "competition": "Northern Super League", "start": "2026-10-31T19:00:00+00:00", "end": "2026-10-31T21:00:00+00:00", "location": "TBD", "url": ""}, {"id": "4da8768aa70994061217bb9e", "title": "Arsenal vs. Aston Villa", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-11-01T12:30:00+00:00", "end": "2026-11-01T14:30:00+00:00", "location": "Emirates Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/61b0b7ce8475419292d11da218b35a2c/arsenal-vs-aston-villa/"}, {"id": "5b2e2e9e16d23bd1f67bb2ef", "title": "Birmingham City vs. Tottenham Hotspur", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-11-01T14:00:00+00:00", "end": "2026-11-01T16:00:00+00:00", "location": "St. Andrew's @ Knighthead Park", "url": "https://www.wslfootball.com/match/barclays-wsl/bf724ef604af47b59e50749419cc7c9c/birmingham-vs-spurs/"}, {"id": "b5d88593f992293a6d32bbea", "title": "Brighton & Hove Albion vs. Crystal Palace", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-11-01T14:00:00+00:00", "end": "2026-11-01T16:00:00+00:00", "location": "Broadfield Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/8bc32672e79d41f9b44e22202c3bbe9f/brighton-vs-crystal-palace/"}, {"id": "6be1f803d7aaedb2c7ac98fd", "title": "Charlton Athletic vs. Chelsea", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-11-01T14:00:00+00:00", "end": "2026-11-01T16:00:00+00:00", "location": "The Valley", "url": "https://www.wslfootball.com/match/barclays-wsl/f8f32826f28a43d1b4e22ef48042d098/charlton-vs-chelsea/"}, {"id": "e6966030526ea98a9e31b784", "title": "London City Lionesses vs. Manchester City", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-11-01T14:00:00+00:00", "end": "2026-11-01T16:00:00+00:00", "location": "Copperjax Community Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/59061be131b74430b9dfc47d7a9dc5ad/london-city-vs-man-city/"}, {"id": "44de3dec186906d993977ef6", "title": "West Ham United vs. Liverpool", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-11-01T14:00:00+00:00", "end": "2026-11-01T16:00:00+00:00", "location": "Chigwell Construction Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/2460c2f26a8f4426adb7b80afa548ed5/west-ham-vs-liverpool/"}, {"id": "1ebaaef1e311872902a5397a", "title": "2026 Semi-Final B - Leg 1", "sport": "Soccer", "competition": "Northern Super League", "start": "2026-11-01T20:00:00+00:00", "end": "2026-11-01T22:00:00+00:00", "location": "TBD", "url": ""}, {"id": "430f19b388bc0a374842e889", "title": "⚽️ Angel City FC vs Boston Legacy FC", "sport": "Soccer", "competition": "National Women’s Soccer League", "start": "2026-11-01T22:00:00+00:00", "end": "2026-11-02T00:00:00+00:00", "location": "Dignity Health Sports Park, Carson, California", "url": ""}, {"id": "74a08311acea178fdb2a6629", "title": "⚽️ Bay FC vs San Diego Wave FC", "sport": "Soccer", "competition": "National Women’s Soccer League", "start": "2026-11-01T22:00:00+00:00", "end": "2026-11-02T00:00:00+00:00", "location": "PayPal Park, San Jose, California", "url": ""}, {"id": "d06cdd6117ce2f94fe141164", "title": "⚽️ Gotham FC vs Utah Royals FC", "sport": "Soccer", "competition": "National Women’s Soccer League", "start": "2026-11-01T22:00:00+00:00", "end": "2026-11-02T00:00:00+00:00", "location": "Sports Illustrated Stadium, Harrison, New Jersey", "url": ""}, {"id": "82217288415b324ea1c5961d", "title": "⚽️ Houston Dash vs Portland Thorns FC", "sport": "Soccer", "competition": "National Women’s Soccer League", "start": "2026-11-01T22:00:00+00:00", "end": "2026-11-02T00:00:00+00:00", "location": "Shell Energy Stadium, Houston, Texas", "url": ""}, {"id": "946a6f9911bcf8ebf98c86de", "title": "⚽️ North Carolina Courage vs Denver Summit FC", "sport": "Soccer", "competition": "National Women’s Soccer League", "start": "2026-11-01T22:00:00+00:00", "end": "2026-11-02T00:00:00+00:00", "location": "First Horizon Stadium at WakeMed Soccer Park, Cary, North Carolina", "url": ""}, {"id": "97e45031236d15461d100522", "title": "⚽️ Racing Louisville FC vs Kansas City Current", "sport": "Soccer", "competition": "National Women’s Soccer League", "start": "2026-11-01T22:00:00+00:00", "end": "2026-11-02T00:00:00+00:00", "location": "Lynn Family Stadium, Louisville, Kentucky", "url": ""}, {"id": "b1560cc6c53ea571e0abacf4", "title": "⚽️ Seattle Reign FC vs Orlando Pride", "sport": "Soccer", "competition": "National Women’s Soccer League", "start": "2026-11-01T22:00:00+00:00", "end": "2026-11-02T00:00:00+00:00", "location": "Seattle Stadium, Seattle, Washington", "url": ""}, {"id": "7b44f4603366a006f02ba10d", "title": "⚽️ Washington Spirit vs Chicago Stars FC", "sport": "Soccer", "competition": "National Women’s Soccer League", "start": "2026-11-01T22:00:00+00:00", "end": "2026-11-02T00:00:00+00:00", "location": "Audi Field, Washington, District of Columbia", "url": ""}, {"id": "b9513fce70f0fc2ee5f46940", "title": "Liverpool vs. Arsenal", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-11-07T12:00:00+00:00", "end": "2026-11-07T14:00:00+00:00", "location": "Anfield", "url": "https://www.wslfootball.com/match/barclays-wsl/2c57460983694e388dfc1d0db688beac/liverpool-vs-arsenal/"}, {"id": "8ae75fe76042afafacb29f61", "title": "London City Lionesses vs. Birmingham City", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-11-07T12:00:00+00:00", "end": "2026-11-07T14:00:00+00:00", "location": "Copperjax Community Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/6f26948105984863a1640a9b8f29e05b/london-city-vs-birmingham/"}, {"id": "524ab6e78c940e8f78302fb8", "title": "Aston Villa vs. Manchester United", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-11-07T12:30:00+00:00", "end": "2026-11-07T14:30:00+00:00", "location": "Villa Park", "url": "https://www.wslfootball.com/match/barclays-wsl/08325bf7b99a4c4191666861a1e5e5d1/aston-villa-vs-man-utd/"}, {"id": "5116af8b3bc7803598a17c33", "title": "Chelsea vs. Everton", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-11-07T12:30:00+00:00", "end": "2026-11-07T14:30:00+00:00", "location": "Stamford Bridge", "url": "https://www.wslfootball.com/match/barclays-wsl/4177f701a617479e97d04c2bbc91a5e0/chelsea-vs-everton/"}, {"id": "0db6eff295e3f462f1a3cd5b", "title": "Manchester City vs. West Ham United", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-11-07T12:30:00+00:00", "end": "2026-11-07T14:30:00+00:00", "location": "Joie Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/f7898a23d79643e7817c9a58090c215f/man-city-vs-west-ham/"}, {"id": "91d14d1178456e33ef38ae3a", "title": "2026 Semi-Final A - Leg 2", "sport": "Soccer", "competition": "Northern Super League", "start": "2026-11-07T20:00:00+00:00", "end": "2026-11-07T22:00:00+00:00", "location": "TBD", "url": ""}, {"id": "57ec0033efc51e0afd231ae8", "title": "Crystal Palace vs. Charlton Athletic", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-11-08T14:00:00+00:00", "end": "2026-11-08T16:00:00+00:00", "location": "VBS Community Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/fad5e1d8beef4f89a0fd9a8dcf9ac05a/crystal-palace-vs-charlton/"}, {"id": "93aaf17a0fa24c541f905b27", "title": "Tottenham Hotspur vs. Brighton & Hove Albion", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-11-08T14:00:00+00:00", "end": "2026-11-08T16:00:00+00:00", "location": "BetWright Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/6ad347d7c3d14ceaa4877a9c33e32604/spurs-vs-brighton/"}, {"id": "96ba9a726ad4a56e3c899afe", "title": "2026 Semi-Final B - Leg 2", "sport": "Soccer", "competition": "Northern Super League", "start": "2026-11-08T20:00:00+00:00", "end": "2026-11-08T22:00:00+00:00", "location": "TBD", "url": ""}, {"id": "70cc5cad1e69c20196505cbd", "title": "Chelsea vs. Manchester City", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-11-14T14:00:00+00:00", "end": "2026-11-14T16:00:00+00:00", "location": "Stamford Bridge", "url": "https://www.wslfootball.com/match/barclays-wsl/59667cd4eb584858941283945914c374/chelsea-vs-man-city/"}, {"id": "a4bb82d8995abb7675324dda", "title": "Arsenal vs. London City Lionesses", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-11-14T17:30:00+00:00", "end": "2026-11-14T19:30:00+00:00", "location": "Emirates Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/b984ad480ff64136b236bebf24087ae5/arsenal-vs-london-city/"}, {"id": "0aa5f9fcb4f56a851fb06d27", "title": "2026 NSL Championship", "sport": "Soccer", "competition": "Northern Super League", "start": "2026-11-14T20:00:00+00:00", "end": "2026-11-14T22:00:00+00:00", "location": "TBD", "url": ""}, {"id": "7cad5f2629bd9cb8fa973282", "title": "Manchester United vs. Crystal Palace", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-11-15T13:00:00+00:00", "end": "2026-11-15T15:00:00+00:00", "location": "Progress with Unity Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/ced23f61654344d7afa963d24f8651bd/man-utd-vs-crystal-palace/"}, {"id": "17c45603e6dfd21bd642498f", "title": "Brighton & Hove Albion vs. Liverpool", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-11-15T14:00:00+00:00", "end": "2026-11-15T16:00:00+00:00", "location": "American Express Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/b9503963101a4f10b72de49ed3310122/brighton-vs-liverpool/"}, {"id": "63c899f76beb858e41029050", "title": "Tottenham Hotspur vs. Everton", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-11-15T14:00:00+00:00", "end": "2026-11-15T16:00:00+00:00", "location": "BetWright Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/e9c1433c391b4fa98806d94e289f7944/spurs-vs-everton/"}, {"id": "693d1a003ca7423afc6588d6", "title": "West Ham United vs. Charlton Athletic", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-11-15T14:00:00+00:00", "end": "2026-11-15T16:00:00+00:00", "location": "Chigwell Construction Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/7b032db3f5554e84a0ab4ab8b93192fc/west-ham-vs-charlton/"}, {"id": "d14092b4e393f94161b80b08", "title": "Aston Villa vs. Birmingham City", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-11-15T14:30:00+00:00", "end": "2026-11-15T16:30:00+00:00", "location": "Villa Park", "url": "https://www.wslfootball.com/match/barclays-wsl/4189809f663540da96ce8ce58d2d5b91/aston-villa-vs-birmingham/"}, {"id": "f41a541413dc4362dcc2e275", "title": "Arsenal vs. West Ham United", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-11-22T12:30:00+00:00", "end": "2026-11-22T14:30:00+00:00", "location": "Emirates Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/e00d7067a71543ef922a8cf9313cfd35/arsenal-vs-west-ham/"}, {"id": "be52f267d62a25c5deaa9723", "title": "Birmingham City vs. Manchester United", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-11-22T14:00:00+00:00", "end": "2026-11-22T16:00:00+00:00", "location": "St. Andrew's @ Knighthead Park", "url": "https://www.wslfootball.com/match/barclays-wsl/b1eb2661ddf9444b9313db0ebf22392f/birmingham-vs-man-utd/"}, {"id": "dcadf0767a2994945c175fea", "title": "Charlton Athletic vs. Aston Villa", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-11-22T14:00:00+00:00", "end": "2026-11-22T16:00:00+00:00", "location": "The Valley", "url": "https://www.wslfootball.com/match/barclays-wsl/eb0fccd05ba54d64aae329f80fbe00a0/charlton-vs-aston-villa/"}, {"id": "4c18e66a238deef1e5e48b52", "title": "Everton vs. Brighton & Hove Albion", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-11-22T14:00:00+00:00", "end": "2026-11-22T16:00:00+00:00", "location": "Goodison Park", "url": "https://www.wslfootball.com/match/barclays-wsl/e371ca0b78f44550b1deee274a86b365/everton-vs-brighton/"}, {"id": "25d2c3cd5397ba185885008e", "title": "Liverpool vs. Chelsea", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-11-22T14:00:00+00:00", "end": "2026-11-22T16:00:00+00:00", "location": "BrewDog Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/b5dad0723a7d4a2bbf0f873783ac4f99/liverpool-vs-chelsea/"}, {"id": "5ffd9e643556b90a461e2a1a", "title": "London City Lionesses vs. Crystal Palace", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-11-22T14:00:00+00:00", "end": "2026-11-22T16:00:00+00:00", "location": "Copperjax Community Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/5a9d8431663b41aba71f339ff4acd5ae/london-city-vs-crystal-palace/"}, {"id": "1408b53dbe0ddfb4f3797aaa", "title": "Manchester City vs. Tottenham Hotspur", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-11-22T14:00:00+00:00", "end": "2026-11-22T16:00:00+00:00", "location": "Joie Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/93fc89e9cf1047458448acd55d5f4581/man-city-vs-spurs/"}, {"id": "0eec54f6dd0b601d9e6f8545", "title": "Everton vs. Arsenal", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-12-12T12:30:00+00:00", "end": "2026-12-12T14:30:00+00:00", "location": "Goodison Park", "url": "https://www.wslfootball.com/match/barclays-wsl/c7c83bedba8347e6bce17d7723373d71/everton-vs-arsenal/"}, {"id": "d6af35552acc8d9e3de5add3", "title": "Manchester United vs. Brighton & Hove Albion", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-12-13T13:00:00+00:00", "end": "2026-12-13T15:00:00+00:00", "location": "Progress with Unity Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/c9ffa471afe5434bb85bc6f888c2094e/man-utd-vs-brighton/"}, {"id": "262dec544256afb2d878719d", "title": "Birmingham City vs. Liverpool", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-12-13T14:00:00+00:00", "end": "2026-12-13T16:00:00+00:00", "location": "St. Andrew's @ Knighthead Park", "url": "https://www.wslfootball.com/match/barclays-wsl/57dfc8e9188b4e90ad3e280f97a1e448/birmingham-vs-liverpool/"}, {"id": "af30e090417b8493b24f0aa7", "title": "Chelsea vs. London City Lionesses", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-12-13T14:00:00+00:00", "end": "2026-12-13T16:00:00+00:00", "location": "Stamford Bridge", "url": "https://www.wslfootball.com/match/barclays-wsl/8f0ab8b17dcc4ad5b06eb5158bab7c23/chelsea-vs-london-city/"}, {"id": "43835b49304715984a5dd816", "title": "Crystal Palace vs. Manchester City", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-12-13T14:00:00+00:00", "end": "2026-12-13T16:00:00+00:00", "location": "VBS Community Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/120c2d21240d428883fdb2cdd59d9a20/crystal-palace-vs-man-city/"}, {"id": "004e35af45ff351fe659c442", "title": "Tottenham Hotspur vs. Charlton Athletic", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-12-13T14:00:00+00:00", "end": "2026-12-13T16:00:00+00:00", "location": "BetWright Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/943bc41885d04d819c8f211cd2e62da0/spurs-vs-charlton/"}, {"id": "3a7722e6fe991850266da57e", "title": "West Ham United vs. Aston Villa", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-12-13T14:00:00+00:00", "end": "2026-12-13T16:00:00+00:00", "location": "Chigwell Construction Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/f2f583cf64374287aa3546cce15a2ca5/west-ham-vs-aston-villa/"}, {"id": "360b32799577b4363b424a64", "title": "Brighton & Hove Albion vs. Chelsea", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-12-19T12:30:00+00:00", "end": "2026-12-19T14:30:00+00:00", "location": "Broadfield Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/c9cb2e2965d346d1af1e64b87cc146b5/brighton-vs-chelsea/"}, {"id": "d41b9731b44e1ae8f6571cb4", "title": "Charlton Athletic vs. Arsenal", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-12-20T12:30:00+00:00", "end": "2026-12-20T14:30:00+00:00", "location": "The Valley", "url": "https://www.wslfootball.com/match/barclays-wsl/c019612341b54ac9a3dde8b3d0639954/charlton-vs-arsenal/"}, {"id": "8654a754354e8a3985db2aeb", "title": "Manchester United vs. Tottenham Hotspur", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-12-20T13:00:00+00:00", "end": "2026-12-20T15:00:00+00:00", "location": "Progress with Unity Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/c9185207365948958f5fc8abdfeaa336/man-utd-vs-spurs/"}, {"id": "1cec182dbb96e79b22d60812", "title": "Aston Villa vs. London City Lionesses", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-12-20T14:00:00+00:00", "end": "2026-12-20T16:00:00+00:00", "location": "Villa Park", "url": "https://www.wslfootball.com/match/barclays-wsl/c7476155edb74f6985bb47a73057cfa6/aston-villa-vs-london-city/"}, {"id": "a5e47cdc7c95213bafd6f946", "title": "Liverpool vs. Crystal Palace", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-12-20T14:00:00+00:00", "end": "2026-12-20T16:00:00+00:00", "location": "BrewDog Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/d34da01058ba48c2b55415cbe79f989f/liverpool-vs-crystal-palace/"}, {"id": "7b06d4361b3592ed633a1e9e", "title": "Manchester City vs. Everton", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-12-20T14:00:00+00:00", "end": "2026-12-20T16:00:00+00:00", "location": "Joie Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/65829246cb1f460fb15f114587ba91ed/man-city-vs-everton/"}, {"id": "579f4015b31ce497600b7f6e", "title": "West Ham United vs. Birmingham City", "sport": "Soccer", "competition": "Women's Super League", "start": "2026-12-20T14:00:00+00:00", "end": "2026-12-20T16:00:00+00:00", "location": "Chigwell Construction Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/b5b4e829f2d14ce88064051422724f7d/west-ham-vs-birmingham/"}, {"id": "2f360c58a281378670c13aba", "title": "Arsenal vs. Brighton & Hove Albion", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-01-10T12:30:00+00:00", "end": "2027-01-10T14:30:00+00:00", "location": "Emirates Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/dd326c8df3174c1cb5482c304bb09fe7/arsenal-vs-brighton/"}, {"id": "0e53486f9d9799242e9e3efa", "title": "Aston Villa vs. Everton", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-01-10T14:00:00+00:00", "end": "2027-01-10T16:00:00+00:00", "location": "Villa Park", "url": "https://www.wslfootball.com/match/barclays-wsl/44dad15e4f8e42068f8e38df84537924/aston-villa-vs-everton/"}, {"id": "2d097476f0bdc14e7eca843d", "title": "Charlton Athletic vs. Birmingham City", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-01-10T14:00:00+00:00", "end": "2027-01-10T16:00:00+00:00", "location": "The Valley", "url": "https://www.wslfootball.com/match/barclays-wsl/14944381bda5406281a3c74c71312ad8/charlton-vs-birmingham/"}, {"id": "97ec5e0f4a9eea9559739f7d", "title": "Crystal Palace vs. Manchester United", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-01-10T14:00:00+00:00", "end": "2027-01-10T16:00:00+00:00", "location": "VBS Community Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/348809f87ec343259ac4d134074eabad/crystal-palace-vs-man-utd/"}, {"id": "de421cd0f2ba283106d91d59", "title": "London City Lionesses vs. West Ham United", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-01-10T14:00:00+00:00", "end": "2027-01-10T16:00:00+00:00", "location": "Copperjax Community Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/4dd34a92093848109fe9755c008743a0/london-city-vs-west-ham/"}, {"id": "4c3c97ffbb50229e43902d52", "title": "Manchester City vs. Chelsea", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-01-10T14:00:00+00:00", "end": "2027-01-10T16:00:00+00:00", "location": "Joie Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/42a3da998fbf41b2b6dea1c4d35a2e91/man-city-vs-chelsea/"}, {"id": "fc4634de3932c3c25e54ad43", "title": "Tottenham Hotspur vs. Liverpool", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-01-10T14:00:00+00:00", "end": "2027-01-10T16:00:00+00:00", "location": "BetWright Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/fc633cf5bdb74522866fab32e6c520f4/spurs-vs-liverpool/"}, {"id": "6534517bae94012d6318fd40", "title": "Chelsea vs. Charlton Athletic", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-01-20T19:00:00+00:00", "end": "2027-01-20T21:00:00+00:00", "location": "Stamford Bridge", "url": "https://www.wslfootball.com/match/barclays-wsl/f3693ae40aa5490da85d68442a28c7bf/chelsea-vs-charlton/"}, {"id": "7d0515f30c6f0fcfade5bed8", "title": "Crystal Palace vs. Aston Villa", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-01-20T19:00:00+00:00", "end": "2027-01-20T21:00:00+00:00", "location": "VBS Community Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/03a5339ae43d45d1b4c19e3da2db43d3/crystal-palace-vs-aston-villa/"}, {"id": "4716eee19ead9eece8735387", "title": "Everton vs. London City Lionesses", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-01-20T19:00:00+00:00", "end": "2027-01-20T21:00:00+00:00", "location": "Goodison Park", "url": "https://www.wslfootball.com/match/barclays-wsl/e98e3b164f8246b6a7de75b09d21ed22/everton-vs-london-city/"}, {"id": "fe62838ba1801bad6035d405", "title": "West Ham United vs. Manchester United", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-01-20T19:00:00+00:00", "end": "2027-01-20T21:00:00+00:00", "location": "Chigwell Construction Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/f604fab9856347aeb942e25f56453c9a/west-ham-vs-man-utd/"}, {"id": "d130660c2178693b80937d1f", "title": "Birmingham City vs. Manchester City", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-01-20T19:30:00+00:00", "end": "2027-01-20T21:30:00+00:00", "location": "St. Andrew's @ Knighthead Park", "url": "https://www.wslfootball.com/match/barclays-wsl/74b5b6ce5e2b42f886ead11ffdc27249/birmingham-vs-man-city/"}, {"id": "b4b6a2b4c4fc86f978843ee2", "title": "Brighton & Hove Albion vs. Tottenham Hotspur", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-01-20T19:45:00+00:00", "end": "2027-01-20T21:45:00+00:00", "location": "Broadfield Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/9b9578da1a0a4a02b507dde87369eac3/brighton-vs-spurs/"}, {"id": "48394ef681ff029d789960d3", "title": "Arsenal vs. Liverpool", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-01-21T19:00:00+00:00", "end": "2027-01-21T21:00:00+00:00", "location": "Emirates Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/5a09f217a26e4127b0d9b48bd1a74fd0/arsenal-vs-liverpool/"}, {"id": "a6393c46ec89bdef5e1214dd", "title": "Manchester United vs. Everton", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-01-24T13:00:00+00:00", "end": "2027-01-24T15:00:00+00:00", "location": "Progress with Unity Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/cef0540632204c30acf6f4ab3dccd242/man-utd-vs-everton/"}, {"id": "ae3c81aaa83fbf6fd5a2256c", "title": "Aston Villa vs. Tottenham Hotspur", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-01-24T14:00:00+00:00", "end": "2027-01-24T16:00:00+00:00", "location": "Villa Park", "url": "https://www.wslfootball.com/match/barclays-wsl/aa00a5af9daf4937a0e807357b6a4a6e/aston-villa-vs-spurs/"}, {"id": "ea63bfd2c9169e5074e49f0c", "title": "Brighton & Hove Albion vs. Birmingham City", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-01-24T14:00:00+00:00", "end": "2027-01-24T16:00:00+00:00", "location": "Broadfield Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/c50b09aa25b04617aac57c6309fed795/brighton-vs-birmingham/"}, {"id": "8b3c680fba631cfd98b4a884", "title": "Chelsea vs. Crystal Palace", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-01-24T14:00:00+00:00", "end": "2027-01-24T16:00:00+00:00", "location": "Stamford Bridge", "url": "https://www.wslfootball.com/match/barclays-wsl/dd83162b7c5f487b939b4ebd2ac2c13d/chelsea-vs-crystal-palace/"}, {"id": "674886d9d61b21f813bb61da", "title": "Liverpool vs. West Ham United", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-01-24T14:00:00+00:00", "end": "2027-01-24T16:00:00+00:00", "location": "BrewDog Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/baa627f751ae47dcbb2e5f10baf9e549/liverpool-vs-west-ham/"}, {"id": "f03c1e368ef241f390f50b66", "title": "London City Lionesses vs. Arsenal", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-01-24T14:00:00+00:00", "end": "2027-01-24T16:00:00+00:00", "location": "Copperjax Community Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/9f35ae1c441b44739b50b0096733ed40/london-city-vs-arsenal/"}, {"id": "14d22b17be21f11bf047de39", "title": "Manchester City vs. Charlton Athletic", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-01-24T14:00:00+00:00", "end": "2027-01-24T16:00:00+00:00", "location": "Joie Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/d5cd305b60e5493fa2d61f38027644e9/man-city-vs-charlton/"}, {"id": "06eb67904603538cced2a97f", "title": "Arsenal vs. Manchester City", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-01-30T17:30:00+00:00", "end": "2027-01-30T19:30:00+00:00", "location": "Emirates Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/84c9fcbc0c74463db7b01e840a009eb1/arsenal-vs-man-city/"}, {"id": "caf4c13613b78d2138685c2f", "title": "Manchester United vs. London City Lionesses", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-01-31T13:00:00+00:00", "end": "2027-01-31T15:00:00+00:00", "location": "Progress with Unity Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/4381e42ab47e40778abf07ce11fd7b62/man-utd-vs-london-city/"}, {"id": "9523d72257698ef37547a7fb", "title": "Birmingham City vs. Aston Villa", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-01-31T14:00:00+00:00", "end": "2027-01-31T16:00:00+00:00", "location": "St. Andrew's @ Knighthead Park", "url": "https://www.wslfootball.com/match/barclays-wsl/3cf8bdd04df44b2e825eafe27bc8371c/birmingham-vs-aston-villa/"}, {"id": "2310d1567a5907ea01fd330a", "title": "Charlton Athletic vs. Crystal Palace", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-01-31T14:00:00+00:00", "end": "2027-01-31T16:00:00+00:00", "location": "The Valley", "url": "https://www.wslfootball.com/match/barclays-wsl/ed79c0a395754bfd937c4cb93babaf62/charlton-vs-crystal-palace/"}, {"id": "b4bfa7ca3adf194832631431", "title": "Everton vs. West Ham United", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-01-31T14:00:00+00:00", "end": "2027-01-31T16:00:00+00:00", "location": "Goodison Park", "url": "https://www.wslfootball.com/match/barclays-wsl/c080055c5bb0460a9d26b9d21ae1a050/everton-vs-west-ham/"}, {"id": "2684b8eb21af15f36a88f2da", "title": "Liverpool vs. Brighton & Hove Albion", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-01-31T14:00:00+00:00", "end": "2027-01-31T16:00:00+00:00", "location": "BrewDog Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/d13c61c932a84635a141121b6ce9eb76/liverpool-vs-brighton/"}, {"id": "e1b556e3208de3774dc02ffc", "title": "Tottenham Hotspur vs. Chelsea", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-01-31T14:00:00+00:00", "end": "2027-01-31T16:00:00+00:00", "location": "BetWright Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/46461cc7f7ff4200b49a054aacac4b70/spurs-vs-chelsea/"}, {"id": "49cc035e3cc8bff96a1f9dcd", "title": "Aston Villa vs. Charlton Athletic", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-02-07T14:00:00+00:00", "end": "2027-02-07T16:00:00+00:00", "location": "Villa Park", "url": "https://www.wslfootball.com/match/barclays-wsl/1848cf9fdbaa4901a830d998c2f88e4d/aston-villa-vs-charlton/"}, {"id": "c6536601038436344bc1b36d", "title": "Birmingham City vs. Arsenal", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-02-07T14:00:00+00:00", "end": "2027-02-07T16:00:00+00:00", "location": "St. Andrew's @ Knighthead Park", "url": "https://www.wslfootball.com/match/barclays-wsl/ee7f33be3f7046418aa8b3104d026f1a/birmingham-vs-arsenal/"}, {"id": "47b1fcf4acc6e1b913fa5f7e", "title": "Brighton & Hove Albion vs. Everton", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-02-07T14:00:00+00:00", "end": "2027-02-07T16:00:00+00:00", "location": "Broadfield Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/fa150044d9814f50ae916d07dd015f75/brighton-vs-everton/"}, {"id": "2f5ed5c20769a8db31886a01", "title": "Chelsea vs. Liverpool", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-02-07T14:00:00+00:00", "end": "2027-02-07T16:00:00+00:00", "location": "Stamford Bridge", "url": "https://www.wslfootball.com/match/barclays-wsl/808160a65afb4119bb95ae144205cea1/chelsea-vs-liverpool/"}, {"id": "baee038527a559c7ae375a22", "title": "Crystal Palace vs. London City Lionesses", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-02-07T14:00:00+00:00", "end": "2027-02-07T16:00:00+00:00", "location": "VBS Community Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/3809fc6719ad4fa791363f57fd6fe726/crystal-palace-vs-london-city/"}, {"id": "6415e4c62550c9d43bab5345", "title": "Tottenham Hotspur vs. Manchester United", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-02-07T14:00:00+00:00", "end": "2027-02-07T16:00:00+00:00", "location": "Tottenham Hotspur Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/1d76e59882b74c26a6aeabf2dc96a206/spurs-vs-man-utd/"}, {"id": "bc1f5b85307257c45932945a", "title": "West Ham United vs. Manchester City", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-02-07T14:00:00+00:00", "end": "2027-02-07T16:00:00+00:00", "location": "Chigwell Construction Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/0a935a222ac744808add62033b4bf266/west-ham-vs-man-city/"}, {"id": "abcb19717df23d90f73b94da", "title": "Aston Villa vs. Brighton & Hove Albion", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-02-14T14:00:00+00:00", "end": "2027-02-14T16:00:00+00:00", "location": "Villa Park", "url": "https://www.wslfootball.com/match/barclays-wsl/ff1757f601de4d60a86c580c0492781a/aston-villa-vs-brighton/"}, {"id": "b27ca217477dda307ba5856f", "title": "Charlton Athletic vs. West Ham United", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-02-14T14:00:00+00:00", "end": "2027-02-14T16:00:00+00:00", "location": "The Valley", "url": "https://www.wslfootball.com/match/barclays-wsl/70c7b22d58904fa1b39bf4bc7b6711f7/charlton-vs-west-ham/"}, {"id": "5d697584e9c26476a7efb089", "title": "Crystal Palace vs. Arsenal", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-02-14T14:00:00+00:00", "end": "2027-02-14T16:00:00+00:00", "location": "VBS Community Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/e3b082fd375c451f804c21cfe5f9836e/crystal-palace-vs-arsenal/"}, {"id": "7fb23784d9ec5ab9c4f75432", "title": "Everton vs. Tottenham Hotspur", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-02-14T14:00:00+00:00", "end": "2027-02-14T16:00:00+00:00", "location": "Goodison Park", "url": "https://www.wslfootball.com/match/barclays-wsl/153230aec0bd4f759c3d62b10d7219a9/everton-vs-spurs/"}, {"id": "78bb6c10633a868f313b605e", "title": "Liverpool vs. Birmingham City", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-02-14T14:00:00+00:00", "end": "2027-02-14T16:00:00+00:00", "location": "BrewDog Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/fdd7d3e512b443e9a170330be37f994d/liverpool-vs-birmingham/"}, {"id": "4b01a14f4233d2a083c8ed21", "title": "London City Lionesses vs. Chelsea", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-02-14T14:00:00+00:00", "end": "2027-02-14T16:00:00+00:00", "location": "Copperjax Community Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/2c8a4ad38bf746db9a48ba54544eec85/london-city-vs-chelsea/"}, {"id": "16c6eb5c304836e5b17183e0", "title": "Manchester City vs. Manchester United", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-02-14T14:30:00+00:00", "end": "2027-02-14T16:30:00+00:00", "location": "Etihad Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/8d75a542881c4242b4010218251d5f63/man-city-vs-man-utd/"}, {"id": "903ae717119de6afcf895695", "title": "Birmingham City vs. Chelsea", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-03-13T12:30:00+00:00", "end": "2027-03-13T14:30:00+00:00", "location": "St. Andrew's @ Knighthead Park", "url": "https://www.wslfootball.com/match/barclays-wsl/082a7fe6b05a4b6bb6dbcc3c062745b0/birmingham-vs-chelsea/"}, {"id": "819710e6a34e4531addc5a99", "title": "Arsenal vs. Tottenham Hotspur", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-03-13T17:30:00+00:00", "end": "2027-03-13T19:30:00+00:00", "location": "Emirates Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/aa01d475d622498987db4541ace64be9/arsenal-vs-spurs/"}, {"id": "5f8bcafea09059972e1c34fa", "title": "Manchester United vs. Charlton Athletic", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-03-14T13:00:00+00:00", "end": "2027-03-14T15:00:00+00:00", "location": "Progress with Unity Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/f4bd8d6bf4d24539b92a26d9d04d4ecf/man-utd-vs-charlton/"}, {"id": "2a7b54270cb001d6e3e61baf", "title": "Everton vs. Crystal Palace", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-03-14T14:00:00+00:00", "end": "2027-03-14T16:00:00+00:00", "location": "Goodison Park", "url": "https://www.wslfootball.com/match/barclays-wsl/b8887b7da085487abdd395a7adfb90e1/everton-vs-crystal-palace/"}, {"id": "19d2b31537861ad124490886", "title": "London City Lionesses vs. Liverpool", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-03-14T14:00:00+00:00", "end": "2027-03-14T16:00:00+00:00", "location": "Copperjax Community Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/5cfc52a28a304b38b28d275e161cb033/london-city-vs-liverpool/"}, {"id": "b2d89328c8cda22f99f69904", "title": "Manchester City vs. Aston Villa", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-03-14T14:00:00+00:00", "end": "2027-03-14T16:00:00+00:00", "location": "Joie Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/1f2f4ea5ef5d47ab8626933337b8a265/man-city-vs-aston-villa/"}, {"id": "551630ca3515defb08c6d2f4", "title": "West Ham United vs. Brighton & Hove Albion", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-03-14T14:00:00+00:00", "end": "2027-03-14T16:00:00+00:00", "location": "Chigwell Construction Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/3638fc83620f4c6491c48d7b018a6577/west-ham-vs-brighton/"}, {"id": "0751e2f40ecc17f3baf6d184", "title": "Charlton Athletic vs. Everton", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-03-17T19:00:00+00:00", "end": "2027-03-17T21:00:00+00:00", "location": "The Valley", "url": "https://www.wslfootball.com/match/barclays-wsl/52c1ca501b834b36ae44eeefb0f34957/charlton-vs-everton/"}, {"id": "091502d6975f5790737417c6", "title": "Chelsea vs. West Ham United", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-03-17T19:00:00+00:00", "end": "2027-03-17T21:00:00+00:00", "location": "Stamford Bridge", "url": "https://www.wslfootball.com/match/barclays-wsl/d64917b503e8451ea8387b3fa9d63793/chelsea-vs-west-ham/"}, {"id": "148dd89db1e0fe9a5361f7d1", "title": "Liverpool vs. Manchester United", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-03-17T19:00:00+00:00", "end": "2027-03-17T21:00:00+00:00", "location": "BrewDog Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/388c8d971cdd4a37878e4544ecb61da6/liverpool-vs-man-utd/"}, {"id": "4882810cb2210532e5efce9b", "title": "Aston Villa vs. Arsenal", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-03-17T19:30:00+00:00", "end": "2027-03-17T21:30:00+00:00", "location": "Villa Park", "url": "https://www.wslfootball.com/match/barclays-wsl/2672624268444593a07532cd24fcdc94/aston-villa-vs-arsenal/"}, {"id": "58eb24f45346e875e870c19d", "title": "Tottenham Hotspur vs. Manchester City", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-03-17T19:30:00+00:00", "end": "2027-03-17T21:30:00+00:00", "location": "BetWright Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/157930e85a924cb2ac9a97bf1e0a8b40/spurs-vs-man-city/"}, {"id": "e3d3f3e60b919e4b64c226e9", "title": "Brighton & Hove Albion vs. London City Lionesses", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-03-17T19:45:00+00:00", "end": "2027-03-17T21:45:00+00:00", "location": "Broadfield Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/b71b88c7a8ae43d5b21d426eb8648ab3/brighton-vs-london-city/"}, {"id": "ff9d79f16f257903ff21e4c5", "title": "Crystal Palace vs. Birmingham City", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-03-17T20:00:00+00:00", "end": "2027-03-17T22:00:00+00:00", "location": "VBS Community Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/27829a5c565d4235b24cc23794107714/crystal-palace-vs-birmingham/"}, {"id": "27fa5537bb098fec5361bb88", "title": "Manchester City vs. Crystal Palace", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-03-27T14:00:00+00:00", "end": "2027-03-27T16:00:00+00:00", "location": "Joie Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/43fe463d1a3143278221e892bbe6dd41/man-city-vs-crystal-palace/"}, {"id": "f7dce08d7cea59e1635656d0", "title": "Manchester United vs. Aston Villa", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-03-28T12:00:00+00:00", "end": "2027-03-28T14:00:00+00:00", "location": "Progress with Unity Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/693c95a5b9dc44cc81dad7ebc5f89335/man-utd-vs-aston-villa/"}, {"id": "9d78b0c504866f13e8d9039c", "title": "Arsenal vs. Chelsea", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-03-28T13:00:00+00:00", "end": "2027-03-28T15:00:00+00:00", "location": "Emirates Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/e7f80cf79a204fba8d0ab445a517fd47/arsenal-vs-chelsea/"}, {"id": "08dc85335b76dac4b9ce526d", "title": "Birmingham City vs. London City Lionesses", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-03-28T13:00:00+00:00", "end": "2027-03-28T15:00:00+00:00", "location": "St. Andrew's @ Knighthead Park", "url": "https://www.wslfootball.com/match/barclays-wsl/7acbd8503d2a40c7824770b6664ed250/birmingham-vs-london-city/"}, {"id": "932161db02b9b96025041815", "title": "Charlton Athletic vs. Brighton & Hove Albion", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-03-28T13:00:00+00:00", "end": "2027-03-28T15:00:00+00:00", "location": "The Valley", "url": "https://www.wslfootball.com/match/barclays-wsl/f91d2a141a174bfdb1a0a50f9fde7226/charlton-vs-brighton/"}, {"id": "52208416261d7677c86dec94", "title": "Everton vs. Liverpool", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-03-28T13:00:00+00:00", "end": "2027-03-28T15:00:00+00:00", "location": "Goodison Park", "url": "https://www.wslfootball.com/match/barclays-wsl/dac0fdaa87ea4a6f8f34a276d44aff9a/everton-vs-liverpool/"}, {"id": "ff83054487cfa19a39c73d21", "title": "West Ham United vs. Tottenham Hotspur", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-03-28T13:00:00+00:00", "end": "2027-03-28T15:00:00+00:00", "location": "Chigwell Construction Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/1598a7e4e7c547f388075eb3a8567287/west-ham-vs-spurs/"}, {"id": "f20e95321c2f946895f2dadf", "title": "Arsenal vs. Everton", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-04-04T13:00:00+00:00", "end": "2027-04-04T15:00:00+00:00", "location": "Emirates Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/946872aeef2f4217a3ef401cb84f4e49/arsenal-vs-everton/"}, {"id": "0ab6cb57a819a0d398e5f447", "title": "Birmingham City vs. West Ham United", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-04-04T13:00:00+00:00", "end": "2027-04-04T15:00:00+00:00", "location": "St. Andrew's @ Knighthead Park", "url": "https://www.wslfootball.com/match/barclays-wsl/e55d895d9734462a9b53cf3756441a8e/birmingham-vs-west-ham/"}, {"id": "794f5437d4e4540d1f3db3a4", "title": "Brighton & Hove Albion vs. Manchester City", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-04-04T13:00:00+00:00", "end": "2027-04-04T15:00:00+00:00", "location": "Broadfield Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/bb58965d35cc4f08860840039b203644/brighton-vs-man-city/"}, {"id": "7858df7fed61055565f78449", "title": "Chelsea vs. Manchester United", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-04-04T13:00:00+00:00", "end": "2027-04-04T15:00:00+00:00", "location": "Stamford Bridge", "url": "https://www.wslfootball.com/match/barclays-wsl/431a930a84b245058a1ddf4d58820904/chelsea-vs-man-utd/"}, {"id": "9df9e90ad02057c6e7dad663", "title": "Liverpool vs. Aston Villa", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-04-04T13:00:00+00:00", "end": "2027-04-04T15:00:00+00:00", "location": "Anfield", "url": "https://www.wslfootball.com/match/barclays-wsl/519db7d391c84623b28fc1d6b05c5b18/liverpool-vs-aston-villa/"}, {"id": "ac94e68d9704f1ce7d8c4e0a", "title": "London City Lionesses vs. Charlton Athletic", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-04-04T13:00:00+00:00", "end": "2027-04-04T15:00:00+00:00", "location": "Copperjax Community Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/d20b143edecc4506bca04b803a7a87ff/london-city-vs-charlton/"}, {"id": "1bc5a04db2e6c38114d89f81", "title": "Tottenham Hotspur vs. Crystal Palace", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-04-04T13:00:00+00:00", "end": "2027-04-04T15:00:00+00:00", "location": "Tottenham Hotspur Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/2730fd2a005b4c7a95646ea5504931bd/spurs-vs-crystal-palace/"}, {"id": "ab78054fec884db0fbe6f026", "title": "Everton vs. Manchester City", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-04-30T18:00:00+00:00", "end": "2027-04-30T20:00:00+00:00", "location": "Goodison Park", "url": "https://www.wslfootball.com/match/barclays-wsl/c041bc6ebbf84724a99c7c884be9ea16/everton-vs-man-city/"}, {"id": "3dae8f55f49df9eae8e0d57f", "title": "Manchester United vs. Birmingham City", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-05-02T12:00:00+00:00", "end": "2027-05-02T14:00:00+00:00", "location": "Progress with Unity Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/523978fae1114c61aca9b3d9b278ef11/man-utd-vs-birmingham/"}, {"id": "9123050922fca5cd2f30f61d", "title": "Crystal Palace vs. Brighton & Hove Albion", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-05-02T13:00:00+00:00", "end": "2027-05-02T15:00:00+00:00", "location": "VBS Community Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/6d59089480d44b4c8027d315b5d0c0ab/crystal-palace-vs-brighton/"}, {"id": "003f1c506fce0a1a67a14cf2", "title": "Liverpool vs. Charlton Athletic", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-05-02T13:00:00+00:00", "end": "2027-05-02T15:00:00+00:00", "location": "BrewDog Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/de70de9263364fb3bc6689dd524b09a4/liverpool-vs-charlton/"}, {"id": "c486f1f6fc8f3db88e1a2262", "title": "London City Lionesses vs. Tottenham Hotspur", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-05-02T13:00:00+00:00", "end": "2027-05-02T15:00:00+00:00", "location": "Copperjax Community Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/b21cd4cbec364eccb93a7c6f115b5db8/london-city-vs-spurs/"}, {"id": "9284ae8dd2cac6995e1fd663", "title": "West Ham United vs. Arsenal", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-05-02T13:00:00+00:00", "end": "2027-05-02T15:00:00+00:00", "location": "Chigwell Construction Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/1751ecbb8cf042f2a307b9e8b01226bc/west-ham-vs-arsenal/"}, {"id": "0af3665a494aafa76b56a2b0", "title": "Aston Villa vs. Chelsea", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-05-02T17:00:00+00:00", "end": "2027-05-02T19:00:00+00:00", "location": "Villa Park", "url": "https://www.wslfootball.com/match/barclays-wsl/90c8ed1691dc46839dc2955cd5bef6a0/aston-villa-vs-chelsea/"}, {"id": "ef9b5e1981da46f8df45e946", "title": "Manchester United vs. Arsenal", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-05-09T12:00:00+00:00", "end": "2027-05-09T14:00:00+00:00", "location": "Old Trafford", "url": "https://www.wslfootball.com/match/barclays-wsl/59d84233c1284fb0a692d5f80057f7e3/man-utd-vs-arsenal/"}, {"id": "2d5afa81e203a8a89b746646", "title": "Aston Villa vs. West Ham United", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-05-09T13:00:00+00:00", "end": "2027-05-09T15:00:00+00:00", "location": "Villa Park", "url": "https://www.wslfootball.com/match/barclays-wsl/aef6a50f627b4b8f8b658a4f2c0e66ef/aston-villa-vs-west-ham/"}, {"id": "cb4fb71e4a6ec2e15c7d507e", "title": "Birmingham City vs. Everton", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-05-09T13:00:00+00:00", "end": "2027-05-09T15:00:00+00:00", "location": "St. Andrew's @ Knighthead Park", "url": "https://www.wslfootball.com/match/barclays-wsl/3a911484f575418b82dbc40b41601352/birmingham-vs-everton/"}, {"id": "e58d0ea17d52090520fd9129", "title": "Charlton Athletic vs. Tottenham Hotspur", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-05-09T13:00:00+00:00", "end": "2027-05-09T15:00:00+00:00", "location": "The Valley", "url": "https://www.wslfootball.com/match/barclays-wsl/7e31314e58c945a59b61f1611b048b09/charlton-vs-spurs/"}, {"id": "e4c58c51b2d2a3cfee8fb511", "title": "Chelsea vs. Brighton & Hove Albion", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-05-09T13:00:00+00:00", "end": "2027-05-09T15:00:00+00:00", "location": "Stamford Bridge", "url": "https://www.wslfootball.com/match/barclays-wsl/331e7b670d6a427f86c59bffe0161d77/chelsea-vs-brighton/"}, {"id": "751449f5ec03a34139eccc70", "title": "Crystal Palace vs. Liverpool", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-05-09T13:00:00+00:00", "end": "2027-05-09T15:00:00+00:00", "location": "VBS Community Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/88940845e4a6411fbda0c3be9b1a5da3/crystal-palace-vs-liverpool/"}, {"id": "54d70a38e1e3bfc24dcd2977", "title": "Manchester City vs. London City Lionesses", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-05-09T13:00:00+00:00", "end": "2027-05-09T15:00:00+00:00", "location": "Joie Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/44610749851b4139b8b817a6130a7249/man-city-vs-london-city/"}, {"id": "2cb7831d9409fdd891797e13", "title": "Arsenal vs. Charlton Athletic", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-05-22T11:00:00+00:00", "end": "2027-05-22T13:00:00+00:00", "location": "Emirates Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/a142ac12f15d4ec3bf53a787dfee5ab8/arsenal-vs-charlton/"}, {"id": "3155d04bdfb0f56dacf3c915", "title": "Brighton & Hove Albion vs. Manchester United", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-05-22T11:00:00+00:00", "end": "2027-05-22T13:00:00+00:00", "location": "Broadfield Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/6bb646cbf9624599886b64075bc8ab06/brighton-vs-man-utd/"}, {"id": "184bf018c10ecabc80d71450", "title": "Everton vs. Chelsea", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-05-22T11:00:00+00:00", "end": "2027-05-22T13:00:00+00:00", "location": "Goodison Park", "url": "https://www.wslfootball.com/match/barclays-wsl/8605d78ebf6c4a0a8cd71c8ecbff6d0f/everton-vs-chelsea/"}, {"id": "5c1148a4467ec39ca75c3303", "title": "Liverpool vs. Manchester City", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-05-22T11:00:00+00:00", "end": "2027-05-22T13:00:00+00:00", "location": "BrewDog Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/6aae027a2a974b799b7d377625d23939/liverpool-vs-man-city/"}, {"id": "0dffa0d9ca2fa86011b859d4", "title": "London City Lionesses vs. Aston Villa", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-05-22T11:00:00+00:00", "end": "2027-05-22T13:00:00+00:00", "location": "Copperjax Community Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/c311bd38be5143cf86b61a82f82c27b4/london-city-vs-aston-villa/"}, {"id": "53c00cfbfdcf35f27f78495a", "title": "Tottenham Hotspur vs. Birmingham City", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-05-22T11:00:00+00:00", "end": "2027-05-22T13:00:00+00:00", "location": "BetWright Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/bc93da50126e44d283860357f66caf65/spurs-vs-birmingham/"}, {"id": "4d2316437271a522dd0c00e9", "title": "West Ham United vs. Crystal Palace", "sport": "Soccer", "competition": "Women's Super League", "start": "2027-05-22T11:00:00+00:00", "end": "2027-05-22T13:00:00+00:00", "location": "Chigwell Construction Stadium", "url": "https://www.wslfootball.com/match/barclays-wsl/24428eb4cda647c6b47cdfb8268dcc9b/west-ham-vs-crystal-palace/"}];
+window.HER_MATCH_EVENTS = [
+  {
+    "id": "8dd290214dab0eca786762bd",
+    "title": "New York vs Los Angeles – Sep 3, 2026",
+    "sport": "Baseball",
+    "competition": "Women's Pro Baseball League",
+    "start": "2026-09-03T23:30:00+00:00",
+    "end": "2026-09-04T02:30:00+00:00",
+    "location": "Robin Roberts Stadium, Springfield, Illinois",
+    "url": "https://www.womensprobaseballleague.com/games/new-york-vs-los-angeles-sep-3-2026/"
+  },
+  {
+    "id": "0d677deed61edd3a88685364",
+    "title": "London City Lionesses vs. Manchester United",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-09-04T18:00:00+00:00",
+    "end": "2026-09-04T20:00:00+00:00",
+    "location": "Copperjax Community Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/54dda4624a104eacb8a662f15f2ff7fa/london-city-vs-man-utd/"
+  },
+  {
+    "id": "b20cdf2b750122e2472d2ec6",
+    "title": "San Francisco vs New York – Sep 4, 2026",
+    "sport": "Baseball",
+    "competition": "Women's Pro Baseball League",
+    "start": "2026-09-04T23:30:00+00:00",
+    "end": "2026-09-05T02:30:00+00:00",
+    "location": "Robin Roberts Stadium, Springfield, Illinois",
+    "url": "https://www.womensprobaseballleague.com/games/san-francisco-vs-new-york-sep-4-2026/"
+  },
+  {
+    "id": "3eba407345680a8161bb4779",
+    "title": "⚽️ Utah Royals FC vs Boston Legacy FC",
+    "sport": "Soccer",
+    "competition": "National Women’s Soccer League",
+    "start": "2026-09-05T01:30:00+00:00",
+    "end": "2026-09-05T03:30:00+00:00",
+    "location": "America First Field, Sandy, Utah",
+    "url": ""
+  },
+  {
+    "id": "981f1f3f22e1a07ae84834c7",
+    "title": "⚽️ Bay FC vs Kansas City Current",
+    "sport": "Soccer",
+    "competition": "National Women’s Soccer League",
+    "start": "2026-09-05T02:00:00+00:00",
+    "end": "2026-09-05T04:00:00+00:00",
+    "location": "PayPal Park, San Jose, California",
+    "url": ""
+  },
+  {
+    "id": "d577db2d5ed1dbb59cd8380e",
+    "title": "Chelsea vs. Aston Villa",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-09-05T11:30:00+00:00",
+    "end": "2026-09-05T13:30:00+00:00",
+    "location": "Stamford Bridge",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/25ef6af2d5dd4816bdd4c5cf38a12b5e/chelsea-vs-aston-villa/"
+  },
+  {
+    "id": "ea2e66dbe9b34bbe03a66922",
+    "title": "⚽️ Racing Louisville FC vs Angel City FC",
+    "sport": "Soccer",
+    "competition": "National Women’s Soccer League",
+    "start": "2026-09-05T22:30:00+00:00",
+    "end": "2026-09-06T00:30:00+00:00",
+    "location": "Lynn Family Stadium, Louisville, Kentucky",
+    "url": ""
+  },
+  {
+    "id": "403f7bf8a8780aa30fb6ac19",
+    "title": "Vancouver Rise FC vs. Halifax Tides FC",
+    "sport": "Soccer",
+    "competition": "Northern Super League",
+    "start": "2026-09-05T23:00:00+00:00",
+    "end": "2026-09-06T01:00:00+00:00",
+    "location": "Swangard Stadium",
+    "url": ""
+  },
+  {
+    "id": "d93e6c215d92fed6bc626229",
+    "title": "Los Angeles vs Boston – Sep 5, 2026",
+    "sport": "Baseball",
+    "competition": "Women's Pro Baseball League",
+    "start": "2026-09-05T23:30:00+00:00",
+    "end": "2026-09-06T02:30:00+00:00",
+    "location": "Robin Roberts Stadium, Springfield, Illinois",
+    "url": "https://www.womensprobaseballleague.com/games/los-angeles-vs-boston-sep-5-2026/"
+  },
+  {
+    "id": "d978d54a1c8f00cab804b857",
+    "title": "Brighton & Hove Albion vs. Arsenal",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-09-06T11:00:00+00:00",
+    "end": "2026-09-06T13:00:00+00:00",
+    "location": "Broadfield Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/0312ae31cfc047378ec39fc20e195919/brighton-vs-arsenal/"
+  },
+  {
+    "id": "2372bcbf10e428ec6fd8e6c9",
+    "title": "Tottenham Hotspur vs. West Ham United",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-09-06T11:00:00+00:00",
+    "end": "2026-09-06T13:00:00+00:00",
+    "location": "BetWright Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/72090b8862974a82bf321b1887f960d9/spurs-vs-west-ham/"
+  },
+  {
+    "id": "fd7670faa645888d12cd8416",
+    "title": "Charlton Athletic vs. Liverpool",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-09-06T13:00:00+00:00",
+    "end": "2026-09-06T15:00:00+00:00",
+    "location": "The Valley",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/7f4adbf487bc4d09a9416e08b3a112d8/charlton-vs-liverpool/"
+  },
+  {
+    "id": "504cc2e141f0c369a0fbc379",
+    "title": "Crystal Palace vs. Everton",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-09-06T13:00:00+00:00",
+    "end": "2026-09-06T15:00:00+00:00",
+    "location": "VBS Community Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/3696616e181347aca770cd6e34a2ea7c/crystal-palace-vs-everton/"
+  },
+  {
+    "id": "0df710907f21783051af0869",
+    "title": "Manchester City vs. Birmingham City",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-09-06T13:30:00+00:00",
+    "end": "2026-09-06T15:30:00+00:00",
+    "location": "Joie Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/e8af306d026d4841ac254787a1f44c1f/man-city-vs-birmingham/"
+  },
+  {
+    "id": "aacce24f7677e25bf51ca66c",
+    "title": "Ottawa Rapid FC vs. Montreal Roses FC",
+    "sport": "Soccer",
+    "competition": "Northern Super League",
+    "start": "2026-09-06T16:00:00+00:00",
+    "end": "2026-09-06T18:00:00+00:00",
+    "location": "TD Place",
+    "url": ""
+  },
+  {
+    "id": "6dbcdd28338320a6b5bd50dd",
+    "title": "⚽️ Denver Summit FC vs Gotham FC",
+    "sport": "Soccer",
+    "competition": "National Women’s Soccer League",
+    "start": "2026-09-06T18:00:00+00:00",
+    "end": "2026-09-06T20:00:00+00:00",
+    "location": "Centennial Stadium, Centennial, Colorado",
+    "url": ""
+  },
+  {
+    "id": "fc4f008bd67143b50fcace03",
+    "title": "AFC Toronto vs. Calgary Wild FC",
+    "sport": "Soccer",
+    "competition": "Northern Super League",
+    "start": "2026-09-06T18:00:00+00:00",
+    "end": "2026-09-06T20:00:00+00:00",
+    "location": "BMO Field",
+    "url": ""
+  },
+  {
+    "id": "f148e07bdf4f74f59d91a552",
+    "title": "⚽️ Chicago Stars FC vs North Carolina Courage",
+    "sport": "Soccer",
+    "competition": "National Women’s Soccer League",
+    "start": "2026-09-06T20:00:00+00:00",
+    "end": "2026-09-06T22:00:00+00:00",
+    "location": "Northwestern Medicine Field at Martin Stadium, Evanston, Illinois",
+    "url": ""
+  },
+  {
+    "id": "a11403dd709bca2051f07448",
+    "title": "⚽️ Portland Thorns FC vs Washington Spirit",
+    "sport": "Soccer",
+    "competition": "National Women’s Soccer League",
+    "start": "2026-09-06T20:00:00+00:00",
+    "end": "2026-09-06T22:00:00+00:00",
+    "location": "Providence Park, Portland, Oregon",
+    "url": ""
+  },
+  {
+    "id": "51ae070e4f7a98eb2a35541d",
+    "title": "⚽️ Orlando Pride vs Houston Dash",
+    "sport": "Soccer",
+    "competition": "National Women’s Soccer League",
+    "start": "2026-09-06T23:00:00+00:00",
+    "end": "2026-09-07T01:00:00+00:00",
+    "location": "Inter.co Stadium, Orlando, Florida",
+    "url": ""
+  },
+  {
+    "id": "5564fafb87a8c55419e96b79",
+    "title": "Boston vs San Francisco – Sep 6, 2026",
+    "sport": "Baseball",
+    "competition": "Women's Pro Baseball League",
+    "start": "2026-09-06T23:30:00+00:00",
+    "end": "2026-09-07T02:30:00+00:00",
+    "location": "Robin Roberts Stadium, Springfield, Illinois",
+    "url": "https://www.womensprobaseballleague.com/games/boston-vs-san-francisco-sep-6-2026/"
+  },
+  {
+    "id": "0096040d5e817262fe87fc7f",
+    "title": "⚽️ Seattle Reign FC vs San Diego Wave FC",
+    "sport": "Soccer",
+    "competition": "National Women’s Soccer League",
+    "start": "2026-09-07T01:00:00+00:00",
+    "end": "2026-09-07T03:00:00+00:00",
+    "location": "Seattle Stadium, Seattle, Washington",
+    "url": ""
+  },
+  {
+    "id": "a9957bef93765529520899d1",
+    "title": "Semi-Final Series A Playoff Game #1",
+    "sport": "Baseball",
+    "competition": "Women's Pro Baseball League",
+    "start": "2026-09-09T23:00:00+00:00",
+    "end": "2026-09-10T02:00:00+00:00",
+    "location": "Robin Roberts Stadium, Springfield, Illinois",
+    "url": "https://www.womensprobaseballleague.com/games/semi-final-series-a-playoff-game-1/"
+  },
+  {
+    "id": "4fa23ad763909733daa1e833",
+    "title": "Semi-Final Series B Playoff Game #1",
+    "sport": "Baseball",
+    "competition": "Women's Pro Baseball League",
+    "start": "2026-09-10T23:00:00+00:00",
+    "end": "2026-09-11T02:00:00+00:00",
+    "location": "Robin Roberts Stadium, Springfield, Illinois",
+    "url": "https://www.womensprobaseballleague.com/games/semi-final-series-b-playoff-game-1/"
+  },
+  {
+    "id": "42b9c9693a2ea56b485c0340",
+    "title": "Montreal Roses FC vs. AFC Toronto",
+    "sport": "Soccer",
+    "competition": "Northern Super League",
+    "start": "2026-09-10T23:00:00+00:00",
+    "end": "2026-09-11T01:00:00+00:00",
+    "location": "Stade Boréale",
+    "url": ""
+  },
+  {
+    "id": "90789aaae708ccffb2af165c",
+    "title": "Semi-Final Series A Playoff Game #2",
+    "sport": "Baseball",
+    "competition": "Women's Pro Baseball League",
+    "start": "2026-09-11T22:00:00+00:00",
+    "end": "2026-09-12T01:00:00+00:00",
+    "location": "Robin Roberts Stadium, Springfield, Illinois",
+    "url": "https://www.womensprobaseballleague.com/games/semi-final-series-a-playoff-game-2/"
+  },
+  {
+    "id": "7e5837b3b1714975a8bdfd97",
+    "title": "⚽️ Racing Louisville FC vs Gotham FC",
+    "sport": "Soccer",
+    "competition": "National Women’s Soccer League",
+    "start": "2026-09-11T22:30:00+00:00",
+    "end": "2026-09-12T00:30:00+00:00",
+    "location": "Lynn Family Stadium, Louisville, Kentucky",
+    "url": ""
+  },
+  {
+    "id": "8b59d9aa058f56c7a74bd1be",
+    "title": "⚽️ Kansas City Current vs Orlando Pride",
+    "sport": "Soccer",
+    "competition": "National Women’s Soccer League",
+    "start": "2026-09-12T00:00:00+00:00",
+    "end": "2026-09-12T02:00:00+00:00",
+    "location": "CPKC Stadium, Kansas City, Missouri",
+    "url": ""
+  },
+  {
+    "id": "4ffa5b96817febcb3b30d075",
+    "title": "⚽️ Angel City FC vs Denver Summit FC",
+    "sport": "Soccer",
+    "competition": "National Women’s Soccer League",
+    "start": "2026-09-12T02:00:00+00:00",
+    "end": "2026-09-12T04:00:00+00:00",
+    "location": "BMO Stadium, Los Angeles, California",
+    "url": ""
+  },
+  {
+    "id": "0cbe08e07c5b4a030e09bcdb",
+    "title": "West Ham United vs. London City Lionesses",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-09-12T11:45:00+00:00",
+    "end": "2026-09-12T13:45:00+00:00",
+    "location": "Chigwell Construction Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/17b69372c12543dfac1b88f4f6435f56/west-ham-vs-london-city/"
+  },
+  {
+    "id": "9eaad51e08c1543d4ef3a52c",
+    "title": "Calgary Wild FC vs. Halifax Tides FC",
+    "sport": "Soccer",
+    "competition": "Northern Super League",
+    "start": "2026-09-12T18:00:00+00:00",
+    "end": "2026-09-12T20:00:00+00:00",
+    "location": "McMahon Stadium",
+    "url": ""
+  },
+  {
+    "id": "b4d2eab2fdba4f421fc06543",
+    "title": "⚽️ San Diego Wave FC vs North Carolina Courage",
+    "sport": "Soccer",
+    "competition": "National Women’s Soccer League",
+    "start": "2026-09-12T22:30:00+00:00",
+    "end": "2026-09-13T00:30:00+00:00",
+    "location": "Snapdragon Stadium, San Diego, California",
+    "url": ""
+  },
+  {
+    "id": "4cf08ae7a31a09f339f1faa9",
+    "title": "Semi-Final Series B Playoff Game #2",
+    "sport": "Baseball",
+    "competition": "Women's Pro Baseball League",
+    "start": "2026-09-12T23:00:00+00:00",
+    "end": "2026-09-13T02:00:00+00:00",
+    "location": "Robin Roberts Stadium, Springfield, Illinois",
+    "url": "https://www.womensprobaseballleague.com/games/semi-final-series-b-playoff-game-2/"
+  },
+  {
+    "id": "d0a1c6e806c6fad06d626982",
+    "title": "⚽️ Seattle Reign FC vs Bay FC",
+    "sport": "Soccer",
+    "competition": "National Women’s Soccer League",
+    "start": "2026-09-13T00:00:00+00:00",
+    "end": "2026-09-13T02:00:00+00:00",
+    "location": "Seattle Stadium, Seattle, Washington",
+    "url": ""
+  },
+  {
+    "id": "ad2b338a2a5761fe393cb576",
+    "title": "⚽️ Houston Dash vs Utah Royals FC",
+    "sport": "Soccer",
+    "competition": "National Women’s Soccer League",
+    "start": "2026-09-13T00:45:00+00:00",
+    "end": "2026-09-13T02:45:00+00:00",
+    "location": "Shell Energy Stadium, Houston, Texas",
+    "url": ""
+  },
+  {
+    "id": "5dfad3987081235ac0c1d65c",
+    "title": "Manchester United vs. Chelsea",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-09-13T11:00:00+00:00",
+    "end": "2026-09-13T13:00:00+00:00",
+    "location": "Progress with Unity Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/c3fd4039b100435bb0bccaa40e870abe/man-utd-vs-chelsea/"
+  },
+  {
+    "id": "9c44f255ead06b7630e081d5",
+    "title": "Birmingham City vs. Brighton & Hove Albion",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-09-13T13:00:00+00:00",
+    "end": "2026-09-13T15:00:00+00:00",
+    "location": "St. Andrew's @ Knighthead Park",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/b95f88240acb44d39700abb73ff7bd9d/birmingham-vs-brighton/"
+  },
+  {
+    "id": "23fb17cbad437066f92e9d9d",
+    "title": "Everton vs. Charlton Athletic",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-09-13T13:00:00+00:00",
+    "end": "2026-09-13T15:00:00+00:00",
+    "location": "Goodison Park",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/749701a2ff474fef8267f412eb96400d/everton-vs-charlton/"
+  },
+  {
+    "id": "0b6b25189f1c734c03978a79",
+    "title": "Liverpool vs. Tottenham Hotspur",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-09-13T13:00:00+00:00",
+    "end": "2026-09-13T15:00:00+00:00",
+    "location": "BrewDog Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/ca0d4c14b8c648e5a4275f019f8c935c/liverpool-vs-spurs/"
+  },
+  {
+    "id": "672e96f728fcc93a35b810ce",
+    "title": "Arsenal vs. Crystal Palace",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-09-13T13:45:00+00:00",
+    "end": "2026-09-13T15:45:00+00:00",
+    "location": "Emirates Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/6cfd6441fd864fdd935bb6cd3a362d25/arsenal-vs-crystal-palace/"
+  },
+  {
+    "id": "014404dec37810ab26103178",
+    "title": "⚽️ Washington Spirit vs Boston Legacy FC",
+    "sport": "Soccer",
+    "competition": "National Women’s Soccer League",
+    "start": "2026-09-13T17:00:00+00:00",
+    "end": "2026-09-13T19:00:00+00:00",
+    "location": "Audi Field, Washington, District of Columbia",
+    "url": ""
+  },
+  {
+    "id": "131dc514bcc5234584b6adec",
+    "title": "Aston Villa vs. Manchester City",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-09-13T17:30:00+00:00",
+    "end": "2026-09-13T19:30:00+00:00",
+    "location": "Villa Park",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/fa8b542859484d4d932096d59549aaed/aston-villa-vs-man-city/"
+  },
+  {
+    "id": "5b8e4fbef36b61efc428bb94",
+    "title": "Semi-Final Series A Playoff Game #3, if needed",
+    "sport": "Baseball",
+    "competition": "Women's Pro Baseball League",
+    "start": "2026-09-13T19:00:00+00:00",
+    "end": "2026-09-13T22:00:00+00:00",
+    "location": "Robin Roberts Stadium, Springfield, Illinois",
+    "url": "https://www.womensprobaseballleague.com/games/semi-final-series-a-playoff-game-3-if-needed/"
+  },
+  {
+    "id": "f9c12416aa2a9e9c4f9921f5",
+    "title": "Vancouver Rise FC vs. Ottawa Rapid FC",
+    "sport": "Soccer",
+    "competition": "Northern Super League",
+    "start": "2026-09-13T20:00:00+00:00",
+    "end": "2026-09-13T22:00:00+00:00",
+    "location": "Swangard Stadium",
+    "url": ""
+  },
+  {
+    "id": "e5c109f49729e6eac3ee6549",
+    "title": "⚽️ Portland Thorns FC vs Chicago Stars FC",
+    "sport": "Soccer",
+    "competition": "National Women’s Soccer League",
+    "start": "2026-09-13T23:00:00+00:00",
+    "end": "2026-09-14T01:00:00+00:00",
+    "location": "Providence Park, Portland, Oregon",
+    "url": ""
+  },
+  {
+    "id": "687a479c009059fda6f31be0",
+    "title": "Semi-Final Series B Playoff Game #3, if needed",
+    "sport": "Baseball",
+    "competition": "Women's Pro Baseball League",
+    "start": "2026-09-14T23:00:00+00:00",
+    "end": "2026-09-15T02:00:00+00:00",
+    "location": "Robin Roberts Stadium, Springfield, Illinois",
+    "url": "https://www.womensprobaseballleague.com/games/semi-final-series-b-playoff-game-3-if-needed/"
+  },
+  {
+    "id": "7e5cbf63e2efc04a06561e90",
+    "title": "WPBL Championship Game #1",
+    "sport": "Baseball",
+    "competition": "Women's Pro Baseball League",
+    "start": "2026-09-16T23:00:00+00:00",
+    "end": "2026-09-17T02:00:00+00:00",
+    "location": "Robin Roberts Stadium, Springfield, Illinois",
+    "url": "https://www.womensprobaseballleague.com/games/wpbl-championship-game-1/"
+  },
+  {
+    "id": "7da61ef04442e1020c4ae8ab",
+    "title": "⚽️ Denver Summit FC vs Bay FC",
+    "sport": "Soccer",
+    "competition": "National Women’s Soccer League",
+    "start": "2026-09-17T01:30:00+00:00",
+    "end": "2026-09-17T03:30:00+00:00",
+    "location": "Centennial Stadium, Centennial, Colorado",
+    "url": ""
+  },
+  {
+    "id": "7365f9638f3d909a61fab866",
+    "title": "⚽️ Angel City FC vs Seattle Reign FC",
+    "sport": "Soccer",
+    "competition": "National Women’s Soccer League",
+    "start": "2026-09-17T02:00:00+00:00",
+    "end": "2026-09-17T04:00:00+00:00",
+    "location": "BMO Stadium, Los Angeles, California",
+    "url": ""
+  },
+  {
+    "id": "617271f10c45f24657edb612",
+    "title": "WPBL Championship Game #2",
+    "sport": "Baseball",
+    "competition": "Women's Pro Baseball League",
+    "start": "2026-09-17T23:00:00+00:00",
+    "end": "2026-09-18T02:00:00+00:00",
+    "location": "Robin Roberts Stadium, Springfield, Illinois",
+    "url": "https://www.womensprobaseballleague.com/games/wpbl-championship-game-2/"
+  },
+  {
+    "id": "611f61b70b1be80e90d8c514",
+    "title": "Connecticut Sun vs. Atlanta Dream",
+    "sport": "Basketball",
+    "competition": "WNBA",
+    "start": "2026-09-17T23:30:00+00:00",
+    "end": "2026-09-18T02:00:00+00:00",
+    "location": "Gateway Center Arena @ College Park, Atlanta, GA",
+    "url": "https://www.wnba.com/schedule?month=all&season=2026"
+  },
+  {
+    "id": "944c9f2d7d4f3a5856d2db92",
+    "title": "Los Angeles Sparks vs. Dallas Wings",
+    "sport": "Basketball",
+    "competition": "WNBA",
+    "start": "2026-09-18T00:00:00+00:00",
+    "end": "2026-09-18T02:30:00+00:00",
+    "location": "College Park Center, Arlington, TX",
+    "url": "https://www.wnba.com/schedule?month=all&season=2026"
+  },
+  {
+    "id": "040cac131e722ae78d52b3b4",
+    "title": "Washington Mystics vs. Chicago Sky",
+    "sport": "Basketball",
+    "competition": "WNBA",
+    "start": "2026-09-18T00:00:00+00:00",
+    "end": "2026-09-18T02:30:00+00:00",
+    "location": "Wintrust Arena, Chicago, IL",
+    "url": "https://www.wnba.com/schedule?month=all&season=2026"
+  },
+  {
+    "id": "f3eac08afac6ff54e6566865",
+    "title": "Las Vegas Aces vs. Seattle Storm",
+    "sport": "Basketball",
+    "competition": "WNBA",
+    "start": "2026-09-18T02:00:00+00:00",
+    "end": "2026-09-18T04:30:00+00:00",
+    "location": "Climate Pledge Arena, Seattle, WA",
+    "url": "https://www.wnba.com/schedule?month=all&season=2026"
+  },
+  {
+    "id": "5b41940730f30e69d48b9a65",
+    "title": "Phoenix Mercury vs. Portland Fire",
+    "sport": "Basketball",
+    "competition": "WNBA",
+    "start": "2026-09-18T02:00:00+00:00",
+    "end": "2026-09-18T04:30:00+00:00",
+    "location": "Moda Center, Portland, OR",
+    "url": "https://www.wnba.com/schedule?month=all&season=2026"
+  },
+  {
+    "id": "e3c1f55abce7588c6e2c73a5",
+    "title": "Manchester City vs. Liverpool",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-09-18T18:00:00+00:00",
+    "end": "2026-09-18T20:00:00+00:00",
+    "location": "Joie Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/9c8826e6e4c64eda83f6ce0adc752e7a/man-city-vs-liverpool/"
+  },
+  {
+    "id": "82e84c2d1d89523c67a9629b",
+    "title": "Indiana Fever vs. Toronto Tempo",
+    "sport": "Basketball",
+    "competition": "WNBA",
+    "start": "2026-09-18T23:30:00+00:00",
+    "end": "2026-09-19T02:00:00+00:00",
+    "location": "Coca-Cola Coliseum, Toronto, ON",
+    "url": "https://www.wnba.com/schedule?month=all&season=2026"
+  },
+  {
+    "id": "e3131b136195bd76a4ff8e29",
+    "title": "New York Liberty vs. Minnesota Lynx",
+    "sport": "Basketball",
+    "competition": "WNBA",
+    "start": "2026-09-18T23:30:00+00:00",
+    "end": "2026-09-19T02:00:00+00:00",
+    "location": "Target Center, Minneapolis, MN",
+    "url": "https://www.wnba.com/schedule?month=all&season=2026"
+  },
+  {
+    "id": "0d869bd9151d1ce7dcdf61a3",
+    "title": "Portland Fire vs. Golden State Valkyries",
+    "sport": "Basketball",
+    "competition": "WNBA",
+    "start": "2026-09-19T02:00:00+00:00",
+    "end": "2026-09-19T04:30:00+00:00",
+    "location": "Chase Center, San Francisco, CA",
+    "url": "https://www.wnba.com/schedule?month=all&season=2026"
+  },
+  {
+    "id": "dd9b37a8a857ce0a4a85e015",
+    "title": "⚽️ San Diego Wave FC vs Kansas City Current",
+    "sport": "Soccer",
+    "competition": "National Women’s Soccer League",
+    "start": "2026-09-19T02:00:00+00:00",
+    "end": "2026-09-19T04:00:00+00:00",
+    "location": "Snapdragon Stadium, San Diego, California",
+    "url": ""
+  },
+  {
+    "id": "ca847aa8c91990e904e496cb",
+    "title": "Charlton Athletic vs. London City Lionesses",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-09-19T11:30:00+00:00",
+    "end": "2026-09-19T13:30:00+00:00",
+    "location": "The Valley",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/ef62c1e58fa2499c9b9f8b31d8377401/charlton-vs-london-city/"
+  },
+  {
+    "id": "2db22aa5da7040b2a0b5d6f3",
+    "title": "Chelsea vs. Birmingham City",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-09-19T11:45:00+00:00",
+    "end": "2026-09-19T13:45:00+00:00",
+    "location": "Stamford Bridge",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/4f7de4e451d54c11b0e2ff8644855354/chelsea-vs-birmingham/"
+  },
+  {
+    "id": "84d11922b91abeb664f35cb4",
+    "title": "Arsenal vs. Manchester United",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-09-19T16:30:00+00:00",
+    "end": "2026-09-19T18:30:00+00:00",
+    "location": "Emirates Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/78822e157876488bbc6e4550ba5116d0/arsenal-vs-man-utd/"
+  },
+  {
+    "id": "d0b63460824e2b3d38bc6dde",
+    "title": "Phoenix Mercury vs. Dallas Wings",
+    "sport": "Basketball",
+    "competition": "WNBA",
+    "start": "2026-09-19T17:00:00+00:00",
+    "end": "2026-09-19T19:30:00+00:00",
+    "location": "College Park Center, Arlington, TX",
+    "url": "https://www.wnba.com/schedule?month=all&season=2026"
+  },
+  {
+    "id": "e1457b7141f325fbf833e524",
+    "title": "Halifax Tides FC vs. AFC Toronto",
+    "sport": "Soccer",
+    "competition": "Northern Super League",
+    "start": "2026-09-19T18:00:00+00:00",
+    "end": "2026-09-19T20:00:00+00:00",
+    "location": "Wanderers Grounds",
+    "url": ""
+  },
+  {
+    "id": "a8a407676ddef5189cadf153",
+    "title": "⚽️ Orlando Pride vs Portland Thorns FC",
+    "sport": "Soccer",
+    "competition": "National Women’s Soccer League",
+    "start": "2026-09-19T20:00:00+00:00",
+    "end": "2026-09-19T22:00:00+00:00",
+    "location": "Inter.co Stadium, Orlando, Florida",
+    "url": ""
+  },
+  {
+    "id": "47fced08327b9160f1118abf",
+    "title": "Vancouver Rise FC vs. Montreal Roses FC",
+    "sport": "Soccer",
+    "competition": "Northern Super League",
+    "start": "2026-09-19T21:00:00+00:00",
+    "end": "2026-09-19T23:00:00+00:00",
+    "location": "Swangard Stadium",
+    "url": ""
+  },
+  {
+    "id": "5ea050b1e057398f0ec9c60c",
+    "title": "⚽️ North Carolina Courage vs Gotham FC",
+    "sport": "Soccer",
+    "competition": "National Women’s Soccer League",
+    "start": "2026-09-19T22:30:00+00:00",
+    "end": "2026-09-20T00:30:00+00:00",
+    "location": "First Horizon Stadium at WakeMed Soccer Park, Cary, North Carolina",
+    "url": ""
+  },
+  {
+    "id": "2efc34748525bd8d301a2aa7",
+    "title": "WPBL Championship Game #3",
+    "sport": "Baseball",
+    "competition": "Women's Pro Baseball League",
+    "start": "2026-09-19T23:00:00+00:00",
+    "end": "2026-09-20T02:00:00+00:00",
+    "location": "Robin Roberts Stadium, Springfield, Illinois",
+    "url": "https://www.womensprobaseballleague.com/games/wpbl-championship-game-3/"
+  },
+  {
+    "id": "765749bca967b8a7ab3855c9",
+    "title": "Chicago Sky vs. Atlanta Dream",
+    "sport": "Basketball",
+    "competition": "WNBA",
+    "start": "2026-09-19T23:00:00+00:00",
+    "end": "2026-09-20T01:30:00+00:00",
+    "location": "State Farm Arena, Atlanta, GA",
+    "url": "https://www.wnba.com/schedule?month=all&season=2026"
+  },
+  {
+    "id": "28d5b6b949c4d80a8bb26b18",
+    "title": "⚽️ Denver Summit FC vs Seattle Reign FC",
+    "sport": "Soccer",
+    "competition": "National Women’s Soccer League",
+    "start": "2026-09-20T00:45:00+00:00",
+    "end": "2026-09-20T02:45:00+00:00",
+    "location": "Centennial Stadium, Centennial, Colorado",
+    "url": ""
+  },
+  {
+    "id": "a5ed6863d4c925cc33e94a39",
+    "title": "Seattle Storm vs. Golden State Valkyries",
+    "sport": "Basketball",
+    "competition": "WNBA",
+    "start": "2026-09-20T01:00:00+00:00",
+    "end": "2026-09-20T03:30:00+00:00",
+    "location": "Chase Center, San Francisco, CA",
+    "url": "https://www.wnba.com/schedule?month=all&season=2026"
+  },
+  {
+    "id": "c69d48a083ee690b8b424530",
+    "title": "Brighton & Hove Albion vs. Aston Villa",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-09-20T13:00:00+00:00",
+    "end": "2026-09-20T15:00:00+00:00",
+    "location": "American Express Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/6f358d0ebcd3472d934d0cfea8a3a2a2/brighton-vs-aston-villa/"
+  },
+  {
+    "id": "b405694816afb12d427e64ee",
+    "title": "Crystal Palace vs. Tottenham Hotspur",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-09-20T13:00:00+00:00",
+    "end": "2026-09-20T15:00:00+00:00",
+    "location": "Selhurst Park",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/612d1f7a7a4944cbbe37c618c3e02819/crystal-palace-vs-spurs/"
+  },
+  {
+    "id": "0ec167ae5663789f3df4ea8b",
+    "title": "West Ham United vs. Everton",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-09-20T13:00:00+00:00",
+    "end": "2026-09-20T15:00:00+00:00",
+    "location": "Chigwell Construction Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/c45b5861aff54163b87b0fbcb6ecd941/west-ham-vs-everton/"
+  },
+  {
+    "id": "d402f7a414c395cb099b6521",
+    "title": "Minnesota Lynx vs. Connecticut Sun",
+    "sport": "Basketball",
+    "competition": "WNBA",
+    "start": "2026-09-20T17:00:00+00:00",
+    "end": "2026-09-20T19:30:00+00:00",
+    "location": "Mohegan Sun Arena, Uncasville, CT",
+    "url": "https://www.wnba.com/schedule?month=all&season=2026"
+  },
+  {
+    "id": "db11da1f0cfb18117cf622e8",
+    "title": "⚽️ Boston Legacy FC vs Houston Dash",
+    "sport": "Soccer",
+    "competition": "National Women’s Soccer League",
+    "start": "2026-09-20T18:00:00+00:00",
+    "end": "2026-09-20T20:00:00+00:00",
+    "location": "Centreville Bank Stadium, Pawtucket, Rhode Island",
+    "url": ""
+  },
+  {
+    "id": "609bb7b39fe71d599b14f0d8",
+    "title": "WPBL Championship Game #4, if needed",
+    "sport": "Baseball",
+    "competition": "Women's Pro Baseball League",
+    "start": "2026-09-20T19:00:00+00:00",
+    "end": "2026-09-20T22:00:00+00:00",
+    "location": "Robin Roberts Stadium, Springfield, Illinois",
+    "url": "https://www.womensprobaseballleague.com/games/wpbl-championship-game-4-if-needed/"
+  },
+  {
+    "id": "18ed555e934071226b077d0a",
+    "title": "New York Liberty vs. Toronto Tempo",
+    "sport": "Basketball",
+    "competition": "WNBA",
+    "start": "2026-09-20T19:00:00+00:00",
+    "end": "2026-09-20T21:30:00+00:00",
+    "location": "Coca-Cola Coliseum, Toronto, ON",
+    "url": "https://www.wnba.com/schedule?month=all&season=2026"
+  },
+  {
+    "id": "a7562194993754a3bec8e4a8",
+    "title": "Washington Mystics vs. Indiana Fever",
+    "sport": "Basketball",
+    "competition": "WNBA",
+    "start": "2026-09-20T20:00:00+00:00",
+    "end": "2026-09-20T22:30:00+00:00",
+    "location": "Gainbridge Fieldhouse, Indianapolis, IN",
+    "url": "https://www.wnba.com/schedule?month=all&season=2026"
+  },
+  {
+    "id": "329624734a08545ccee95ff3",
+    "title": "⚽️ Chicago Stars FC vs Washington Spirit",
+    "sport": "Soccer",
+    "competition": "National Women’s Soccer League",
+    "start": "2026-09-20T21:00:00+00:00",
+    "end": "2026-09-20T23:00:00+00:00",
+    "location": "Northwestern Medicine Field at Martin Stadium, Evanston, Illinois",
+    "url": ""
+  },
+  {
+    "id": "464159b8c1c78f5966586536",
+    "title": "Portland Fire vs. Los Angeles Sparks",
+    "sport": "Basketball",
+    "competition": "WNBA",
+    "start": "2026-09-20T23:00:00+00:00",
+    "end": "2026-09-21T01:30:00+00:00",
+    "location": "Crypto.com Arena, Los Angeles, CA",
+    "url": "https://www.wnba.com/schedule?month=all&season=2026"
+  },
+  {
+    "id": "39242b117eb02e976f0e07b9",
+    "title": "⚽️ Bay FC vs Racing Louisville FC",
+    "sport": "Soccer",
+    "competition": "National Women’s Soccer League",
+    "start": "2026-09-20T23:00:00+00:00",
+    "end": "2026-09-21T01:00:00+00:00",
+    "location": "PayPal Park, San Jose, California",
+    "url": ""
+  },
+  {
+    "id": "c52ded6f3eae1132aa76de5e",
+    "title": "⚽️ Utah Royals FC vs Angel City FC",
+    "sport": "Soccer",
+    "competition": "National Women’s Soccer League",
+    "start": "2026-09-20T23:00:00+00:00",
+    "end": "2026-09-21T01:00:00+00:00",
+    "location": "America First Field, Sandy, Utah",
+    "url": ""
+  },
+  {
+    "id": "5a1272d014d607369063f7ce",
+    "title": "Ottawa Rapid FC vs. Calgary Wild FC",
+    "sport": "Soccer",
+    "competition": "Northern Super League",
+    "start": "2026-09-20T23:00:00+00:00",
+    "end": "2026-09-21T01:00:00+00:00",
+    "location": "TD Place",
+    "url": ""
+  },
+  {
+    "id": "6b50ffe879fdbbedafe059e7",
+    "title": "Seattle Storm vs. Las Vegas Aces",
+    "sport": "Basketball",
+    "competition": "WNBA",
+    "start": "2026-09-21T01:00:00+00:00",
+    "end": "2026-09-21T03:30:00+00:00",
+    "location": "Michelob ULTRA Arena, Las Vegas, NV",
+    "url": "https://www.wnba.com/schedule?month=all&season=2026"
+  },
+  {
+    "id": "a1c3baff8781cef47e8941e5",
+    "title": "Atlanta Dream vs. New York Liberty",
+    "sport": "Basketball",
+    "competition": "WNBA",
+    "start": "2026-09-22T00:00:00+00:00",
+    "end": "2026-09-22T02:30:00+00:00",
+    "location": "Barclays Center, Brooklyn, NY",
+    "url": "https://www.wnba.com/schedule?month=all&season=2026"
+  },
+  {
+    "id": "92f15d81d2fe2eb29ffb0c9f",
+    "title": "Dallas Wings vs. Phoenix Mercury",
+    "sport": "Basketball",
+    "competition": "WNBA",
+    "start": "2026-09-22T02:00:00+00:00",
+    "end": "2026-09-22T04:30:00+00:00",
+    "location": "Mortgage Matchup Center, Phoenix, AZ",
+    "url": "https://www.wnba.com/schedule?month=all&season=2026"
+  },
+  {
+    "id": "7d9eb1445bd44f65901a5c83",
+    "title": "WPBL Championship Game #5, if needed",
+    "sport": "Baseball",
+    "competition": "Women's Pro Baseball League",
+    "start": "2026-09-22T23:00:00+00:00",
+    "end": "2026-09-23T02:00:00+00:00",
+    "location": "Robin Roberts Stadium, Springfield, Illinois",
+    "url": "https://www.womensprobaseballleague.com/games/wpbl-championship-game-5-if-needed/"
+  },
+  {
+    "id": "fd39f05885d4eec7624710b0",
+    "title": "Connecticut Sun vs. Washington Mystics",
+    "sport": "Basketball",
+    "competition": "WNBA",
+    "start": "2026-09-22T23:30:00+00:00",
+    "end": "2026-09-23T02:00:00+00:00",
+    "location": "CareFirst Arena, Washington, DC",
+    "url": "https://www.wnba.com/schedule?month=all&season=2026"
+  },
+  {
+    "id": "76c25d058b7af632db3536fd",
+    "title": "Minnesota Lynx vs. Indiana Fever",
+    "sport": "Basketball",
+    "competition": "WNBA",
+    "start": "2026-09-23T00:00:00+00:00",
+    "end": "2026-09-23T02:30:00+00:00",
+    "location": "Gainbridge Fieldhouse, Indianapolis, IN",
+    "url": "https://www.wnba.com/schedule?month=all&season=2026"
+  },
+  {
+    "id": "335b6972e20bbe781bed69f2",
+    "title": "Toronto Tempo vs. Chicago Sky",
+    "sport": "Basketball",
+    "competition": "WNBA",
+    "start": "2026-09-23T00:00:00+00:00",
+    "end": "2026-09-23T02:30:00+00:00",
+    "location": "Wintrust Arena, Chicago, IL",
+    "url": "https://www.wnba.com/schedule?month=all&season=2026"
+  },
+  {
+    "id": "0d7c210dfa7ebda28e9a89b4",
+    "title": "Golden State Valkyries vs. Portland Fire",
+    "sport": "Basketball",
+    "competition": "WNBA",
+    "start": "2026-09-23T02:00:00+00:00",
+    "end": "2026-09-23T04:30:00+00:00",
+    "location": "Moda Center, Portland, OR",
+    "url": "https://www.wnba.com/schedule?month=all&season=2026"
+  },
+  {
+    "id": "276eb87f81696020d786a148",
+    "title": "Los Angeles Sparks vs. Las Vegas Aces",
+    "sport": "Basketball",
+    "competition": "WNBA",
+    "start": "2026-09-23T02:00:00+00:00",
+    "end": "2026-09-23T04:30:00+00:00",
+    "location": "Michelob ULTRA Arena, Las Vegas, NV",
+    "url": "https://www.wnba.com/schedule?month=all&season=2026"
+  },
+  {
+    "id": "8134376aa9b8420f251057e4",
+    "title": "Atlanta Dream vs. New York Liberty",
+    "sport": "Basketball",
+    "competition": "WNBA",
+    "start": "2026-09-24T00:00:00+00:00",
+    "end": "2026-09-24T02:30:00+00:00",
+    "location": "Barclays Center, Brooklyn, NY",
+    "url": "https://www.wnba.com/schedule?month=all&season=2026"
+  },
+  {
+    "id": "fc0922114b4193cde52fdc60",
+    "title": "Dallas Wings vs. Seattle Storm",
+    "sport": "Basketball",
+    "competition": "WNBA",
+    "start": "2026-09-24T02:00:00+00:00",
+    "end": "2026-09-24T04:30:00+00:00",
+    "location": "Climate Pledge Arena, Seattle, WA",
+    "url": "https://www.wnba.com/schedule?month=all&season=2026"
+  },
+  {
+    "id": "86ac3942d53ef556ce5b5319",
+    "title": "Toronto Tempo vs. Connecticut Sun",
+    "sport": "Basketball",
+    "competition": "WNBA",
+    "start": "2026-09-24T23:00:00+00:00",
+    "end": "2026-09-25T01:30:00+00:00",
+    "location": "Mohegan Sun Arena, Uncasville, CT",
+    "url": "https://www.wnba.com/schedule?month=all&season=2026"
+  },
+  {
+    "id": "d3239b0e26300167997771bf",
+    "title": "Chicago Sky vs. Washington Mystics",
+    "sport": "Basketball",
+    "competition": "WNBA",
+    "start": "2026-09-24T23:30:00+00:00",
+    "end": "2026-09-25T02:00:00+00:00",
+    "location": "Capital One Arena, Washington, DC",
+    "url": "https://www.wnba.com/schedule?month=all&season=2026"
+  },
+  {
+    "id": "bdca765d2d315d4f1136e8ec",
+    "title": "Indiana Fever vs. Minnesota Lynx",
+    "sport": "Basketball",
+    "competition": "WNBA",
+    "start": "2026-09-25T00:00:00+00:00",
+    "end": "2026-09-25T02:30:00+00:00",
+    "location": "Target Center, Minneapolis, MN",
+    "url": "https://www.wnba.com/schedule?month=all&season=2026"
+  },
+  {
+    "id": "b0c17223fb5f6a347791a951",
+    "title": "Golden State Valkyries vs. Los Angeles Sparks",
+    "sport": "Basketball",
+    "competition": "WNBA",
+    "start": "2026-09-25T02:00:00+00:00",
+    "end": "2026-09-25T04:30:00+00:00",
+    "location": "Crypto.com Arena, Los Angeles, CA",
+    "url": "https://www.wnba.com/schedule?month=all&season=2026"
+  },
+  {
+    "id": "b5964834fefe7b3e4b51142c",
+    "title": "Las Vegas Aces vs. Phoenix Mercury",
+    "sport": "Basketball",
+    "competition": "WNBA",
+    "start": "2026-09-25T02:00:00+00:00",
+    "end": "2026-09-25T04:30:00+00:00",
+    "location": "Mortgage Matchup Center, Phoenix, AZ",
+    "url": "https://www.wnba.com/schedule?month=all&season=2026"
+  },
+  {
+    "id": "2155a994112f8d305948a0de",
+    "title": "⚽️ Racing Louisville FC vs San Diego Wave FC",
+    "sport": "Soccer",
+    "competition": "National Women’s Soccer League",
+    "start": "2026-09-25T22:30:00+00:00",
+    "end": "2026-09-26T00:30:00+00:00",
+    "location": "Lynn Family Stadium, Louisville, Kentucky",
+    "url": ""
+  },
+  {
+    "id": "b1950450c71cfb119dc45e7e",
+    "title": "⚽️ Gotham FC vs Chicago Stars FC",
+    "sport": "Soccer",
+    "competition": "National Women’s Soccer League",
+    "start": "2026-09-26T00:00:00+00:00",
+    "end": "2026-09-26T02:00:00+00:00",
+    "location": "Sports Illustrated Stadium, Harrison, New Jersey",
+    "url": ""
+  },
+  {
+    "id": "b0e59b81c39fb632b9ec2fc3",
+    "title": "⚽️ Seattle Reign FC vs Boston Legacy FC",
+    "sport": "Soccer",
+    "competition": "National Women’s Soccer League",
+    "start": "2026-09-26T00:30:00+00:00",
+    "end": "2026-09-26T02:30:00+00:00",
+    "location": "Seattle Stadium, Seattle, Washington",
+    "url": ""
+  },
+  {
+    "id": "1ebd0842861170a2addb1d84",
+    "title": "Charlton Athletic vs. Manchester City",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-09-26T12:30:00+00:00",
+    "end": "2026-09-26T14:30:00+00:00",
+    "location": "The Valley",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/45fa16f02e3f44e0a6973826d4e9ed00/charlton-vs-man-city/"
+  },
+  {
+    "id": "939683e363540f44391f9a7e",
+    "title": "London City Lionesses vs. Brighton & Hove Albion",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-09-26T16:00:00+00:00",
+    "end": "2026-09-26T18:00:00+00:00",
+    "location": "Copperjax Community Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/38fffa5c79e44a84b70a0d188300b414/london-city-vs-brighton/"
+  },
+  {
+    "id": "b512e98fafacddaf6d9bdb7b",
+    "title": "⚽️ Kansas City Current vs Denver Summit FC",
+    "sport": "Soccer",
+    "competition": "National Women’s Soccer League",
+    "start": "2026-09-26T16:30:00+00:00",
+    "end": "2026-09-26T18:30:00+00:00",
+    "location": "CPKC Stadium, Kansas City, Missouri",
+    "url": ""
+  },
+  {
+    "id": "d4b307bd238087880349522b",
+    "title": "AFC Toronto vs. Ottawa Rapid FC",
+    "sport": "Soccer",
+    "competition": "Northern Super League",
+    "start": "2026-09-26T18:00:00+00:00",
+    "end": "2026-09-26T20:00:00+00:00",
+    "location": "York Lions Stadium",
+    "url": ""
+  },
+  {
+    "id": "c2a82db05c86858838c3dab7",
+    "title": "⚽️ Washington Spirit vs Angel City FC",
+    "sport": "Soccer",
+    "competition": "National Women’s Soccer League",
+    "start": "2026-09-26T22:30:00+00:00",
+    "end": "2026-09-27T00:30:00+00:00",
+    "location": "Audi Field, Washington, District of Columbia",
+    "url": ""
+  },
+  {
+    "id": "60bac54194135e45cdbdd837",
+    "title": "⚽️ Portland Thorns FC vs Houston Dash",
+    "sport": "Soccer",
+    "competition": "National Women’s Soccer League",
+    "start": "2026-09-27T00:45:00+00:00",
+    "end": "2026-09-27T02:45:00+00:00",
+    "location": "Providence Park, Portland, Oregon",
+    "url": ""
+  },
+  {
+    "id": "ba2da5c7d7a58ca140624e99",
+    "title": "Manchester United vs. West Ham United",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-09-27T12:00:00+00:00",
+    "end": "2026-09-27T14:00:00+00:00",
+    "location": "Progress with Unity Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/e532f5703fed4cf785fdb10ea5aec6ed/man-utd-vs-west-ham/"
+  },
+  {
+    "id": "74c1342ae92b6cc169741429",
+    "title": "Birmingham City vs. Crystal Palace",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-09-27T13:00:00+00:00",
+    "end": "2026-09-27T15:00:00+00:00",
+    "location": "St. Andrew's @ Knighthead Park",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/441e06b858aa4367894fb9c93131c22e/birmingham-vs-crystal-palace/"
+  },
+  {
+    "id": "631d8765800618e34b2cb5a4",
+    "title": "Liverpool vs. Everton",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-09-27T13:00:00+00:00",
+    "end": "2026-09-27T15:00:00+00:00",
+    "location": "Anfield",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/b508005aced84d6a87ad2dfbdc3c7a31/liverpool-vs-everton/"
+  },
+  {
+    "id": "1cec2897392b308257b55218",
+    "title": "Tottenham Hotspur vs. Aston Villa",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-09-27T13:00:00+00:00",
+    "end": "2026-09-27T15:00:00+00:00",
+    "location": "BetWright Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/14547ff6e9cc4965bb506aa2c04e8b27/spurs-vs-aston-villa/"
+  },
+  {
+    "id": "8662061e17dd5ade702c6a99",
+    "title": "Chelsea vs. Arsenal",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-09-27T15:30:00+00:00",
+    "end": "2026-09-27T17:30:00+00:00",
+    "location": "Stamford Bridge",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/e41e9112d45845d8906deb66c4b8cd73/chelsea-vs-arsenal/"
+  },
+  {
+    "id": "a1498fc676af5343c9e9adb3",
+    "title": "Halifax Tides FC vs. Montreal Roses FC",
+    "sport": "Soccer",
+    "competition": "Northern Super League",
+    "start": "2026-09-27T16:00:00+00:00",
+    "end": "2026-09-27T18:00:00+00:00",
+    "location": "Wanderers Grounds",
+    "url": ""
+  },
+  {
+    "id": "f7fa7f424f974a4c3080dd7d",
+    "title": "Calgary Wild FC vs. Vancouver Rise FC",
+    "sport": "Soccer",
+    "competition": "Northern Super League",
+    "start": "2026-09-27T20:00:00+00:00",
+    "end": "2026-09-27T22:00:00+00:00",
+    "location": "McMahon Stadium",
+    "url": ""
+  },
+  {
+    "id": "a7c7a526a08e013affc9664d",
+    "title": "⚽️ Bay FC vs Orlando Pride",
+    "sport": "Soccer",
+    "competition": "National Women’s Soccer League",
+    "start": "2026-09-27T21:00:00+00:00",
+    "end": "2026-09-27T23:00:00+00:00",
+    "location": "PayPal Park, San Jose, California",
+    "url": ""
+  },
+  {
+    "id": "327a42054b9266001ebb14ea",
+    "title": "⚽️ Utah Royals FC vs North Carolina Courage",
+    "sport": "Soccer",
+    "competition": "National Women’s Soccer League",
+    "start": "2026-09-27T23:00:00+00:00",
+    "end": "2026-09-28T01:00:00+00:00",
+    "location": "America First Field, Sandy, Utah",
+    "url": ""
+  },
+  {
+    "id": "b66a1a915fb89086ac9aa7af",
+    "title": "Montreal Roses FC vs. Ottawa Rapid FC",
+    "sport": "Soccer",
+    "competition": "Northern Super League",
+    "start": "2026-10-02T23:00:00+00:00",
+    "end": "2026-10-03T01:00:00+00:00",
+    "location": "Stade Boréale",
+    "url": ""
+  },
+  {
+    "id": "ee1297e8033d66debdc5dd6d",
+    "title": "⚽️ Orlando Pride vs San Diego Wave FC",
+    "sport": "Soccer",
+    "competition": "National Women’s Soccer League",
+    "start": "2026-10-03T00:00:00+00:00",
+    "end": "2026-10-03T02:00:00+00:00",
+    "location": "Inter.co Stadium, Orlando, Florida",
+    "url": ""
+  },
+  {
+    "id": "f5b4ce854d35a6acf925b4c9",
+    "title": "⚽️ Seattle Reign FC vs North Carolina Courage",
+    "sport": "Soccer",
+    "competition": "National Women’s Soccer League",
+    "start": "2026-10-03T02:00:00+00:00",
+    "end": "2026-10-03T04:00:00+00:00",
+    "location": "Seattle Stadium, Seattle, Washington",
+    "url": ""
+  },
+  {
+    "id": "76061569e87be332171bcaf9",
+    "title": "Halifax Tides FC vs. Calgary Wild FC",
+    "sport": "Soccer",
+    "competition": "Northern Super League",
+    "start": "2026-10-03T18:00:00+00:00",
+    "end": "2026-10-03T20:00:00+00:00",
+    "location": "Wanderers Grounds",
+    "url": ""
+  },
+  {
+    "id": "b6d4c09e8d9c3bba10cd2f34",
+    "title": "⚽️ Racing Louisville FC vs Utah Royals FC",
+    "sport": "Soccer",
+    "competition": "National Women’s Soccer League",
+    "start": "2026-10-03T20:00:00+00:00",
+    "end": "2026-10-03T22:00:00+00:00",
+    "location": "Lynn Family Stadium, Louisville, Kentucky",
+    "url": ""
+  },
+  {
+    "id": "7cc32246789826e72d0b6159",
+    "title": "⚽️ Kansas City Current vs Bay FC",
+    "sport": "Soccer",
+    "competition": "National Women’s Soccer League",
+    "start": "2026-10-03T22:30:00+00:00",
+    "end": "2026-10-04T00:30:00+00:00",
+    "location": "CPKC Stadium, Kansas City, Missouri",
+    "url": ""
+  },
+  {
+    "id": "a29b25e8ba813c097b7d7a6c",
+    "title": "⚽️ Portland Thorns FC vs Boston Legacy FC",
+    "sport": "Soccer",
+    "competition": "National Women’s Soccer League",
+    "start": "2026-10-04T00:45:00+00:00",
+    "end": "2026-10-04T02:45:00+00:00",
+    "location": "Providence Park, Portland, Oregon",
+    "url": ""
+  },
+  {
+    "id": "837106bb961a4050809db947",
+    "title": "Tottenham Hotspur vs. London City Lionesses",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-10-04T11:00:00+00:00",
+    "end": "2026-10-04T13:00:00+00:00",
+    "location": "BetWright Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/66bd149875594226a072bb3f0865bf36/spurs-vs-london-city/"
+  },
+  {
+    "id": "d5f0d7a28ed4468d830bc007",
+    "title": "Manchester United vs. Liverpool",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-10-04T12:00:00+00:00",
+    "end": "2026-10-04T14:00:00+00:00",
+    "location": "Progress with Unity Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/afab794465174afab54552809d76f5fb/man-utd-vs-liverpool/"
+  },
+  {
+    "id": "83ea9f3a7a47fb867aee3f28",
+    "title": "Aston Villa vs. Crystal Palace",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-10-04T13:00:00+00:00",
+    "end": "2026-10-04T15:00:00+00:00",
+    "location": "Villa Park",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/fc019b5da1e44147a6e9303f86a21932/aston-villa-vs-crystal-palace/"
+  },
+  {
+    "id": "1c49c03dd81c99a6a3b09fe9",
+    "title": "Brighton & Hove Albion vs. Charlton Athletic",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-10-04T13:00:00+00:00",
+    "end": "2026-10-04T15:00:00+00:00",
+    "location": "American Express Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/38eba1106b6548f3935a0dfad86516bf/brighton-vs-charlton/"
+  },
+  {
+    "id": "79ee319dc17369489eb96fe5",
+    "title": "Everton vs. Birmingham City",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-10-04T13:00:00+00:00",
+    "end": "2026-10-04T15:00:00+00:00",
+    "location": "Goodison Park",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/8fe891577df04ec6a9ff0b8d9dd3ebf2/everton-vs-birmingham/"
+  },
+  {
+    "id": "e928bc138292a7bfa3bc20fd",
+    "title": "West Ham United vs. Chelsea",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-10-04T13:00:00+00:00",
+    "end": "2026-10-04T15:00:00+00:00",
+    "location": "Chigwell Construction Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/24afafc14446459989582f21b2381074/west-ham-vs-chelsea/"
+  },
+  {
+    "id": "4a7dfe22c36bb1b7269073db",
+    "title": "Manchester City vs. Arsenal",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-10-04T13:30:00+00:00",
+    "end": "2026-10-04T15:30:00+00:00",
+    "location": "Etihad Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/356ca3ca1e7c4883b06e17bcba0d99fe/man-city-vs-arsenal/"
+  },
+  {
+    "id": "66641dbe3f41c46e1b3ca962",
+    "title": "⚽️ Gotham FC vs Angel City FC",
+    "sport": "Soccer",
+    "competition": "National Women’s Soccer League",
+    "start": "2026-10-04T16:00:00+00:00",
+    "end": "2026-10-04T18:00:00+00:00",
+    "location": "Sports Illustrated Stadium, Harrison, New Jersey",
+    "url": ""
+  },
+  {
+    "id": "ae3736ee4afc91f676a2ee3c",
+    "title": "AFC Toronto vs. Vancouver Rise FC",
+    "sport": "Soccer",
+    "competition": "Northern Super League",
+    "start": "2026-10-04T17:00:00+00:00",
+    "end": "2026-10-04T19:00:00+00:00",
+    "location": "York Lions Stadium",
+    "url": ""
+  },
+  {
+    "id": "c900c3532e237cf2efd1c54f",
+    "title": "⚽️ Chicago Stars FC vs Denver Summit FC",
+    "sport": "Soccer",
+    "competition": "National Women’s Soccer League",
+    "start": "2026-10-04T20:00:00+00:00",
+    "end": "2026-10-04T22:00:00+00:00",
+    "location": "Northwestern Medicine Field at Martin Stadium, Evanston, Illinois",
+    "url": ""
+  },
+  {
+    "id": "4840f893f55d30ad28f52b9d",
+    "title": "⚽️ Houston Dash vs Washington Spirit",
+    "sport": "Soccer",
+    "competition": "National Women’s Soccer League",
+    "start": "2026-10-04T23:00:00+00:00",
+    "end": "2026-10-05T01:00:00+00:00",
+    "location": "Shell Energy Stadium, Houston, Texas",
+    "url": ""
+  },
+  {
+    "id": "0496e5d0f7bb1d9a8e507c00",
+    "title": "⚽️ Boston Legacy FC vs Racing Louisville FC",
+    "sport": "Soccer",
+    "competition": "National Women’s Soccer League",
+    "start": "2026-10-17T00:00:00+00:00",
+    "end": "2026-10-17T02:00:00+00:00",
+    "location": "Gillette Stadium, Foxborough, Massachusetts",
+    "url": ""
+  },
+  {
+    "id": "8b5301518d6ea1825f72246e",
+    "title": "Aston Villa vs. Liverpool",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-10-17T11:00:00+00:00",
+    "end": "2026-10-17T13:00:00+00:00",
+    "location": "Villa Park",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/9ed899fbbfc6456381b40ce1d0142a40/aston-villa-vs-liverpool/"
+  },
+  {
+    "id": "d84cc4548b12bc878c8b4d42",
+    "title": "⚽️ Washington Spirit vs Gotham FC",
+    "sport": "Soccer",
+    "competition": "National Women’s Soccer League",
+    "start": "2026-10-17T16:30:00+00:00",
+    "end": "2026-10-17T18:30:00+00:00",
+    "location": "Audi Field, Washington, District of Columbia",
+    "url": ""
+  },
+  {
+    "id": "216fea27b0f5d87b98b8a7d6",
+    "title": "Halifax Tides FC vs. Montreal Roses FC",
+    "sport": "Soccer",
+    "competition": "Northern Super League",
+    "start": "2026-10-17T18:00:00+00:00",
+    "end": "2026-10-17T20:00:00+00:00",
+    "location": "Wanderers Grounds",
+    "url": ""
+  },
+  {
+    "id": "338729f6ed353a240b321910",
+    "title": "⚽️ Utah Royals FC vs Kansas City Current",
+    "sport": "Soccer",
+    "competition": "National Women’s Soccer League",
+    "start": "2026-10-17T22:30:00+00:00",
+    "end": "2026-10-18T00:30:00+00:00",
+    "location": "America First Field, Sandy, Utah",
+    "url": ""
+  },
+  {
+    "id": "20eeb2059b62cc1768c299c2",
+    "title": "⚽️ North Carolina Courage vs San Diego Wave FC",
+    "sport": "Soccer",
+    "competition": "National Women’s Soccer League",
+    "start": "2026-10-17T23:00:00+00:00",
+    "end": "2026-10-18T01:00:00+00:00",
+    "location": "First Horizon Stadium at WakeMed Soccer Park, Cary, North Carolina",
+    "url": ""
+  },
+  {
+    "id": "43092d530f7b38c91e7dee75",
+    "title": "⚽️ Denver Summit FC vs Angel City FC",
+    "sport": "Soccer",
+    "competition": "National Women’s Soccer League",
+    "start": "2026-10-18T00:45:00+00:00",
+    "end": "2026-10-18T02:45:00+00:00",
+    "location": "Centennial Stadium, Centennial, Colorado",
+    "url": ""
+  },
+  {
+    "id": "44efedfc9c0a8b7902315264",
+    "title": "Arsenal vs. Birmingham City",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-10-18T11:30:00+00:00",
+    "end": "2026-10-18T13:30:00+00:00",
+    "location": "Emirates Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/c18b112b3f9b464b894c473030404bd2/arsenal-vs-birmingham/"
+  },
+  {
+    "id": "2d1d29d909ef2fb4df7b0af3",
+    "title": "Charlton Athletic vs. Manchester United",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-10-18T13:00:00+00:00",
+    "end": "2026-10-18T15:00:00+00:00",
+    "location": "The Valley",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/ae8ee0c2c93d4555bce4c40fb0d6c39f/charlton-vs-man-utd/"
+  },
+  {
+    "id": "d84d7cfd1eb86d12c5ea9a08",
+    "title": "Chelsea vs. Tottenham Hotspur",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-10-18T13:00:00+00:00",
+    "end": "2026-10-18T15:00:00+00:00",
+    "location": "Stamford Bridge",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/9cebd47ddf2b44ad98ba5b078ed9ef88/chelsea-vs-spurs/"
+  },
+  {
+    "id": "860e0f408f7694bcedfe6696",
+    "title": "Crystal Palace vs. West Ham United",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-10-18T13:00:00+00:00",
+    "end": "2026-10-18T15:00:00+00:00",
+    "location": "VBS Community Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/909ff58064b0437b959c489a55d0b936/crystal-palace-vs-west-ham/"
+  },
+  {
+    "id": "a072b717cdf8f6cfd8b43892",
+    "title": "London City Lionesses vs. Everton",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-10-18T13:00:00+00:00",
+    "end": "2026-10-18T15:00:00+00:00",
+    "location": "Copperjax Community Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/da644cc38fb8430081e3c25e5c828bca/london-city-vs-everton/"
+  },
+  {
+    "id": "f538fdda0be436d2b68065c9",
+    "title": "Manchester City vs. Brighton & Hove Albion",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-10-18T13:00:00+00:00",
+    "end": "2026-10-18T15:00:00+00:00",
+    "location": "Joie Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/88f1060db0464a16a85a9112afcaf45b/man-city-vs-brighton/"
+  },
+  {
+    "id": "64fc2e96a31169a898cdf5ac",
+    "title": "⚽️ Houston Dash vs Orlando Pride",
+    "sport": "Soccer",
+    "competition": "National Women’s Soccer League",
+    "start": "2026-10-18T17:00:00+00:00",
+    "end": "2026-10-18T19:00:00+00:00",
+    "location": "Shell Energy Stadium, Houston, Texas",
+    "url": ""
+  },
+  {
+    "id": "872190ec2bb373c5a3e07b0e",
+    "title": "AFC Toronto vs. Calgary Wild FC",
+    "sport": "Soccer",
+    "competition": "Northern Super League",
+    "start": "2026-10-18T17:00:00+00:00",
+    "end": "2026-10-18T19:00:00+00:00",
+    "location": "BMO Field",
+    "url": ""
+  },
+  {
+    "id": "729acf4a8c0019f5e177de3e",
+    "title": "Ottawa Rapid FC vs. Vancouver Rise FC",
+    "sport": "Soccer",
+    "competition": "Northern Super League",
+    "start": "2026-10-18T20:00:00+00:00",
+    "end": "2026-10-18T22:00:00+00:00",
+    "location": "TD Place",
+    "url": ""
+  },
+  {
+    "id": "08530b52ccb126a42b1549ec",
+    "title": "⚽️ Bay FC vs Portland Thorns FC",
+    "sport": "Soccer",
+    "competition": "National Women’s Soccer League",
+    "start": "2026-10-18T21:00:00+00:00",
+    "end": "2026-10-18T23:00:00+00:00",
+    "location": "PayPal Park, San Jose, California",
+    "url": ""
+  },
+  {
+    "id": "dbb57172ebc696a658f9a232",
+    "title": "⚽️ Chicago Stars FC vs Seattle Reign FC",
+    "sport": "Soccer",
+    "competition": "National Women’s Soccer League",
+    "start": "2026-10-18T23:00:00+00:00",
+    "end": "2026-10-19T01:00:00+00:00",
+    "location": "Northwestern Medicine Field at Martin Stadium, Evanston, Illinois",
+    "url": ""
+  },
+  {
+    "id": "79a89d960f22e569d3cfbffe",
+    "title": "Montreal Roses FC vs. Ottawa Rapid FC",
+    "sport": "Soccer",
+    "competition": "Northern Super League",
+    "start": "2026-10-23T23:00:00+00:00",
+    "end": "2026-10-24T01:00:00+00:00",
+    "location": "Stade Boréale",
+    "url": ""
+  },
+  {
+    "id": "772b2345764501d3241a200e",
+    "title": "⚽️ Chicago Stars FC vs Houston Dash",
+    "sport": "Soccer",
+    "competition": "National Women’s Soccer League",
+    "start": "2026-10-24T00:00:00+00:00",
+    "end": "2026-10-24T02:00:00+00:00",
+    "location": "Northwestern Medicine Field at Martin Stadium, Evanston, Illinois",
+    "url": ""
+  },
+  {
+    "id": "ff3ebd8e1d6b135ff6243fac",
+    "title": "⚽️ Utah Royals FC vs Seattle Reign FC",
+    "sport": "Soccer",
+    "competition": "National Women’s Soccer League",
+    "start": "2026-10-24T01:30:00+00:00",
+    "end": "2026-10-24T03:30:00+00:00",
+    "location": "America First Field, Sandy, Utah",
+    "url": ""
+  },
+  {
+    "id": "696253923d19bb6f7957b046",
+    "title": "⚽️ Portland Thorns FC vs North Carolina Courage",
+    "sport": "Soccer",
+    "competition": "National Women’s Soccer League",
+    "start": "2026-10-24T02:00:00+00:00",
+    "end": "2026-10-24T04:00:00+00:00",
+    "location": "Providence Park, Portland, Oregon",
+    "url": ""
+  },
+  {
+    "id": "7636274f70bec88ff702270a",
+    "title": "⚽️ Denver Summit FC vs Racing Louisville FC",
+    "sport": "Soccer",
+    "competition": "National Women’s Soccer League",
+    "start": "2026-10-24T22:30:00+00:00",
+    "end": "2026-10-25T00:30:00+00:00",
+    "location": "Centennial Stadium, Centennial, Colorado",
+    "url": ""
+  },
+  {
+    "id": "43661f4a20b47a530ca7abdd",
+    "title": "⚽️ Angel City FC vs Bay FC",
+    "sport": "Soccer",
+    "competition": "National Women’s Soccer League",
+    "start": "2026-10-25T00:45:00+00:00",
+    "end": "2026-10-25T02:45:00+00:00",
+    "location": "BMO Stadium, Los Angeles, California",
+    "url": ""
+  },
+  {
+    "id": "ff4f378ccc7286a710cd79c1",
+    "title": "Manchester United vs. Manchester City",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-10-25T13:00:00+00:00",
+    "end": "2026-10-25T15:00:00+00:00",
+    "location": "Progress with Unity Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/3817aa43b204470eb614a0c287f5e12a/man-utd-vs-man-city/"
+  },
+  {
+    "id": "84978cfb4518dbbd8d938dc3",
+    "title": "Birmingham City vs. Charlton Athletic",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-10-25T14:00:00+00:00",
+    "end": "2026-10-25T16:00:00+00:00",
+    "location": "St. Andrew's @ Knighthead Park",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/ce1d80eb3bfb46d9bab300a849cad12b/birmingham-vs-charlton/"
+  },
+  {
+    "id": "c94ca966e86ed0fe85e9ebee",
+    "title": "Brighton & Hove Albion vs. West Ham United",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-10-25T14:00:00+00:00",
+    "end": "2026-10-25T16:00:00+00:00",
+    "location": "American Express Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/e36c961a24bb409498029478475ec755/brighton-vs-west-ham/"
+  },
+  {
+    "id": "a9eeff368b48e86e738a6710",
+    "title": "Crystal Palace vs. Chelsea",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-10-25T14:00:00+00:00",
+    "end": "2026-10-25T16:00:00+00:00",
+    "location": "VBS Community Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/6f940dddfaf64dbf99c146e1589d31e9/crystal-palace-vs-chelsea/"
+  },
+  {
+    "id": "7cd171cbfbdada6ee8e4b3c5",
+    "title": "Everton vs. Aston Villa",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-10-25T14:00:00+00:00",
+    "end": "2026-10-25T16:00:00+00:00",
+    "location": "Goodison Park",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/c3d44b152442461887491dc12e2f18d0/everton-vs-aston-villa/"
+  },
+  {
+    "id": "2a8371cd906f452516310b04",
+    "title": "Liverpool vs. London City Lionesses",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-10-25T14:00:00+00:00",
+    "end": "2026-10-25T16:00:00+00:00",
+    "location": "BrewDog Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/fd960a9a87dc4e44998306b90bfb34bb/liverpool-vs-london-city/"
+  },
+  {
+    "id": "7153b97de4dfacbe2fdc630e",
+    "title": "Tottenham Hotspur vs. Arsenal",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-10-25T14:00:00+00:00",
+    "end": "2026-10-25T16:00:00+00:00",
+    "location": "Tottenham Hotspur Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/1a930a80fc1a45668fbd3087e5289961/spurs-vs-arsenal/"
+  },
+  {
+    "id": "49886fc05e86eadfce0b278c",
+    "title": "⚽️ Orlando Pride vs Gotham FC",
+    "sport": "Soccer",
+    "competition": "National Women’s Soccer League",
+    "start": "2026-10-25T19:00:00+00:00",
+    "end": "2026-10-25T21:00:00+00:00",
+    "location": "Inter.co Stadium, Orlando, Florida",
+    "url": ""
+  },
+  {
+    "id": "189c3444a38c5437849e503e",
+    "title": "Vancouver Rise FC vs. Calgary Wild FC",
+    "sport": "Soccer",
+    "competition": "Northern Super League",
+    "start": "2026-10-25T20:00:00+00:00",
+    "end": "2026-10-25T22:00:00+00:00",
+    "location": "Swangard Stadium",
+    "url": ""
+  },
+  {
+    "id": "5d9585c5e6822792bbbff8d7",
+    "title": "⚽️ Kansas City Current vs Washington Spirit",
+    "sport": "Soccer",
+    "competition": "National Women’s Soccer League",
+    "start": "2026-10-25T21:00:00+00:00",
+    "end": "2026-10-25T23:00:00+00:00",
+    "location": "CPKC Stadium, Kansas City, Missouri",
+    "url": ""
+  },
+  {
+    "id": "e1c27b0ed82529ee7c5fe61d",
+    "title": "⚽️ San Diego Wave FC vs Boston Legacy FC",
+    "sport": "Soccer",
+    "competition": "National Women’s Soccer League",
+    "start": "2026-10-25T23:00:00+00:00",
+    "end": "2026-10-26T01:00:00+00:00",
+    "location": "Snapdragon Stadium, San Diego, California",
+    "url": ""
+  },
+  {
+    "id": "79784df26dd60549373495a3",
+    "title": "AFC Toronto vs. Halifax Tides FC",
+    "sport": "Soccer",
+    "competition": "Northern Super League",
+    "start": "2026-10-26T23:00:00+00:00",
+    "end": "2026-10-27T01:00:00+00:00",
+    "location": "BMO Field",
+    "url": ""
+  },
+  {
+    "id": "cc5c08884b1887de2d9d3075",
+    "title": "Everton vs. Manchester United",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-10-31T12:30:00+00:00",
+    "end": "2026-10-31T14:30:00+00:00",
+    "location": "Goodison Park",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/71ef1958bd1f4ecdb687f744972e5f65/everton-vs-man-utd/"
+  },
+  {
+    "id": "5bc2075379856f2528755a34",
+    "title": "2026 Semi-Final A - Leg 1",
+    "sport": "Soccer",
+    "competition": "Northern Super League",
+    "start": "2026-10-31T19:00:00+00:00",
+    "end": "2026-10-31T21:00:00+00:00",
+    "location": "TBD",
+    "url": ""
+  },
+  {
+    "id": "4da8768aa70994061217bb9e",
+    "title": "Arsenal vs. Aston Villa",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-11-01T12:30:00+00:00",
+    "end": "2026-11-01T14:30:00+00:00",
+    "location": "Emirates Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/61b0b7ce8475419292d11da218b35a2c/arsenal-vs-aston-villa/"
+  },
+  {
+    "id": "5b2e2e9e16d23bd1f67bb2ef",
+    "title": "Birmingham City vs. Tottenham Hotspur",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-11-01T14:00:00+00:00",
+    "end": "2026-11-01T16:00:00+00:00",
+    "location": "St. Andrew's @ Knighthead Park",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/bf724ef604af47b59e50749419cc7c9c/birmingham-vs-spurs/"
+  },
+  {
+    "id": "b5d88593f992293a6d32bbea",
+    "title": "Brighton & Hove Albion vs. Crystal Palace",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-11-01T14:00:00+00:00",
+    "end": "2026-11-01T16:00:00+00:00",
+    "location": "Broadfield Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/8bc32672e79d41f9b44e22202c3bbe9f/brighton-vs-crystal-palace/"
+  },
+  {
+    "id": "6be1f803d7aaedb2c7ac98fd",
+    "title": "Charlton Athletic vs. Chelsea",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-11-01T14:00:00+00:00",
+    "end": "2026-11-01T16:00:00+00:00",
+    "location": "The Valley",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/f8f32826f28a43d1b4e22ef48042d098/charlton-vs-chelsea/"
+  },
+  {
+    "id": "e6966030526ea98a9e31b784",
+    "title": "London City Lionesses vs. Manchester City",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-11-01T14:00:00+00:00",
+    "end": "2026-11-01T16:00:00+00:00",
+    "location": "Copperjax Community Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/59061be131b74430b9dfc47d7a9dc5ad/london-city-vs-man-city/"
+  },
+  {
+    "id": "44de3dec186906d993977ef6",
+    "title": "West Ham United vs. Liverpool",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-11-01T14:00:00+00:00",
+    "end": "2026-11-01T16:00:00+00:00",
+    "location": "Chigwell Construction Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/2460c2f26a8f4426adb7b80afa548ed5/west-ham-vs-liverpool/"
+  },
+  {
+    "id": "1ebaaef1e311872902a5397a",
+    "title": "2026 Semi-Final B - Leg 1",
+    "sport": "Soccer",
+    "competition": "Northern Super League",
+    "start": "2026-11-01T20:00:00+00:00",
+    "end": "2026-11-01T22:00:00+00:00",
+    "location": "TBD",
+    "url": ""
+  },
+  {
+    "id": "430f19b388bc0a374842e889",
+    "title": "⚽️ Angel City FC vs Boston Legacy FC",
+    "sport": "Soccer",
+    "competition": "National Women’s Soccer League",
+    "start": "2026-11-01T22:00:00+00:00",
+    "end": "2026-11-02T00:00:00+00:00",
+    "location": "Dignity Health Sports Park, Carson, California",
+    "url": ""
+  },
+  {
+    "id": "74a08311acea178fdb2a6629",
+    "title": "⚽️ Bay FC vs San Diego Wave FC",
+    "sport": "Soccer",
+    "competition": "National Women’s Soccer League",
+    "start": "2026-11-01T22:00:00+00:00",
+    "end": "2026-11-02T00:00:00+00:00",
+    "location": "PayPal Park, San Jose, California",
+    "url": ""
+  },
+  {
+    "id": "d06cdd6117ce2f94fe141164",
+    "title": "⚽️ Gotham FC vs Utah Royals FC",
+    "sport": "Soccer",
+    "competition": "National Women’s Soccer League",
+    "start": "2026-11-01T22:00:00+00:00",
+    "end": "2026-11-02T00:00:00+00:00",
+    "location": "Sports Illustrated Stadium, Harrison, New Jersey",
+    "url": ""
+  },
+  {
+    "id": "82217288415b324ea1c5961d",
+    "title": "⚽️ Houston Dash vs Portland Thorns FC",
+    "sport": "Soccer",
+    "competition": "National Women’s Soccer League",
+    "start": "2026-11-01T22:00:00+00:00",
+    "end": "2026-11-02T00:00:00+00:00",
+    "location": "Shell Energy Stadium, Houston, Texas",
+    "url": ""
+  },
+  {
+    "id": "946a6f9911bcf8ebf98c86de",
+    "title": "⚽️ North Carolina Courage vs Denver Summit FC",
+    "sport": "Soccer",
+    "competition": "National Women’s Soccer League",
+    "start": "2026-11-01T22:00:00+00:00",
+    "end": "2026-11-02T00:00:00+00:00",
+    "location": "First Horizon Stadium at WakeMed Soccer Park, Cary, North Carolina",
+    "url": ""
+  },
+  {
+    "id": "97e45031236d15461d100522",
+    "title": "⚽️ Racing Louisville FC vs Kansas City Current",
+    "sport": "Soccer",
+    "competition": "National Women’s Soccer League",
+    "start": "2026-11-01T22:00:00+00:00",
+    "end": "2026-11-02T00:00:00+00:00",
+    "location": "Lynn Family Stadium, Louisville, Kentucky",
+    "url": ""
+  },
+  {
+    "id": "b1560cc6c53ea571e0abacf4",
+    "title": "⚽️ Seattle Reign FC vs Orlando Pride",
+    "sport": "Soccer",
+    "competition": "National Women’s Soccer League",
+    "start": "2026-11-01T22:00:00+00:00",
+    "end": "2026-11-02T00:00:00+00:00",
+    "location": "Seattle Stadium, Seattle, Washington",
+    "url": ""
+  },
+  {
+    "id": "7b44f4603366a006f02ba10d",
+    "title": "⚽️ Washington Spirit vs Chicago Stars FC",
+    "sport": "Soccer",
+    "competition": "National Women’s Soccer League",
+    "start": "2026-11-01T22:00:00+00:00",
+    "end": "2026-11-02T00:00:00+00:00",
+    "location": "Audi Field, Washington, District of Columbia",
+    "url": ""
+  },
+  {
+    "id": "b9513fce70f0fc2ee5f46940",
+    "title": "Liverpool vs. Arsenal",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-11-07T12:00:00+00:00",
+    "end": "2026-11-07T14:00:00+00:00",
+    "location": "Anfield",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/2c57460983694e388dfc1d0db688beac/liverpool-vs-arsenal/"
+  },
+  {
+    "id": "8ae75fe76042afafacb29f61",
+    "title": "London City Lionesses vs. Birmingham City",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-11-07T12:00:00+00:00",
+    "end": "2026-11-07T14:00:00+00:00",
+    "location": "Copperjax Community Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/6f26948105984863a1640a9b8f29e05b/london-city-vs-birmingham/"
+  },
+  {
+    "id": "524ab6e78c940e8f78302fb8",
+    "title": "Aston Villa vs. Manchester United",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-11-07T12:30:00+00:00",
+    "end": "2026-11-07T14:30:00+00:00",
+    "location": "Villa Park",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/08325bf7b99a4c4191666861a1e5e5d1/aston-villa-vs-man-utd/"
+  },
+  {
+    "id": "5116af8b3bc7803598a17c33",
+    "title": "Chelsea vs. Everton",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-11-07T12:30:00+00:00",
+    "end": "2026-11-07T14:30:00+00:00",
+    "location": "Stamford Bridge",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/4177f701a617479e97d04c2bbc91a5e0/chelsea-vs-everton/"
+  },
+  {
+    "id": "0db6eff295e3f462f1a3cd5b",
+    "title": "Manchester City vs. West Ham United",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-11-07T12:30:00+00:00",
+    "end": "2026-11-07T14:30:00+00:00",
+    "location": "Joie Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/f7898a23d79643e7817c9a58090c215f/man-city-vs-west-ham/"
+  },
+  {
+    "id": "91d14d1178456e33ef38ae3a",
+    "title": "2026 Semi-Final A - Leg 2",
+    "sport": "Soccer",
+    "competition": "Northern Super League",
+    "start": "2026-11-07T20:00:00+00:00",
+    "end": "2026-11-07T22:00:00+00:00",
+    "location": "TBD",
+    "url": ""
+  },
+  {
+    "id": "57ec0033efc51e0afd231ae8",
+    "title": "Crystal Palace vs. Charlton Athletic",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-11-08T14:00:00+00:00",
+    "end": "2026-11-08T16:00:00+00:00",
+    "location": "VBS Community Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/fad5e1d8beef4f89a0fd9a8dcf9ac05a/crystal-palace-vs-charlton/"
+  },
+  {
+    "id": "93aaf17a0fa24c541f905b27",
+    "title": "Tottenham Hotspur vs. Brighton & Hove Albion",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-11-08T14:00:00+00:00",
+    "end": "2026-11-08T16:00:00+00:00",
+    "location": "BetWright Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/6ad347d7c3d14ceaa4877a9c33e32604/spurs-vs-brighton/"
+  },
+  {
+    "id": "96ba9a726ad4a56e3c899afe",
+    "title": "2026 Semi-Final B - Leg 2",
+    "sport": "Soccer",
+    "competition": "Northern Super League",
+    "start": "2026-11-08T20:00:00+00:00",
+    "end": "2026-11-08T22:00:00+00:00",
+    "location": "TBD",
+    "url": ""
+  },
+  {
+    "id": "70cc5cad1e69c20196505cbd",
+    "title": "Chelsea vs. Manchester City",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-11-14T14:00:00+00:00",
+    "end": "2026-11-14T16:00:00+00:00",
+    "location": "Stamford Bridge",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/59667cd4eb584858941283945914c374/chelsea-vs-man-city/"
+  },
+  {
+    "id": "a4bb82d8995abb7675324dda",
+    "title": "Arsenal vs. London City Lionesses",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-11-14T17:30:00+00:00",
+    "end": "2026-11-14T19:30:00+00:00",
+    "location": "Emirates Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/b984ad480ff64136b236bebf24087ae5/arsenal-vs-london-city/"
+  },
+  {
+    "id": "0aa5f9fcb4f56a851fb06d27",
+    "title": "2026 NSL Championship",
+    "sport": "Soccer",
+    "competition": "Northern Super League",
+    "start": "2026-11-14T20:00:00+00:00",
+    "end": "2026-11-14T22:00:00+00:00",
+    "location": "TBD",
+    "url": ""
+  },
+  {
+    "id": "7cad5f2629bd9cb8fa973282",
+    "title": "Manchester United vs. Crystal Palace",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-11-15T13:00:00+00:00",
+    "end": "2026-11-15T15:00:00+00:00",
+    "location": "Progress with Unity Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/ced23f61654344d7afa963d24f8651bd/man-utd-vs-crystal-palace/"
+  },
+  {
+    "id": "17c45603e6dfd21bd642498f",
+    "title": "Brighton & Hove Albion vs. Liverpool",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-11-15T14:00:00+00:00",
+    "end": "2026-11-15T16:00:00+00:00",
+    "location": "American Express Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/b9503963101a4f10b72de49ed3310122/brighton-vs-liverpool/"
+  },
+  {
+    "id": "63c899f76beb858e41029050",
+    "title": "Tottenham Hotspur vs. Everton",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-11-15T14:00:00+00:00",
+    "end": "2026-11-15T16:00:00+00:00",
+    "location": "BetWright Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/e9c1433c391b4fa98806d94e289f7944/spurs-vs-everton/"
+  },
+  {
+    "id": "693d1a003ca7423afc6588d6",
+    "title": "West Ham United vs. Charlton Athletic",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-11-15T14:00:00+00:00",
+    "end": "2026-11-15T16:00:00+00:00",
+    "location": "Chigwell Construction Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/7b032db3f5554e84a0ab4ab8b93192fc/west-ham-vs-charlton/"
+  },
+  {
+    "id": "d14092b4e393f94161b80b08",
+    "title": "Aston Villa vs. Birmingham City",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-11-15T14:30:00+00:00",
+    "end": "2026-11-15T16:30:00+00:00",
+    "location": "Villa Park",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/4189809f663540da96ce8ce58d2d5b91/aston-villa-vs-birmingham/"
+  },
+  {
+    "id": "f41a541413dc4362dcc2e275",
+    "title": "Arsenal vs. West Ham United",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-11-22T12:30:00+00:00",
+    "end": "2026-11-22T14:30:00+00:00",
+    "location": "Emirates Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/e00d7067a71543ef922a8cf9313cfd35/arsenal-vs-west-ham/"
+  },
+  {
+    "id": "be52f267d62a25c5deaa9723",
+    "title": "Birmingham City vs. Manchester United",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-11-22T14:00:00+00:00",
+    "end": "2026-11-22T16:00:00+00:00",
+    "location": "St. Andrew's @ Knighthead Park",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/b1eb2661ddf9444b9313db0ebf22392f/birmingham-vs-man-utd/"
+  },
+  {
+    "id": "dcadf0767a2994945c175fea",
+    "title": "Charlton Athletic vs. Aston Villa",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-11-22T14:00:00+00:00",
+    "end": "2026-11-22T16:00:00+00:00",
+    "location": "The Valley",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/eb0fccd05ba54d64aae329f80fbe00a0/charlton-vs-aston-villa/"
+  },
+  {
+    "id": "4c18e66a238deef1e5e48b52",
+    "title": "Everton vs. Brighton & Hove Albion",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-11-22T14:00:00+00:00",
+    "end": "2026-11-22T16:00:00+00:00",
+    "location": "Goodison Park",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/e371ca0b78f44550b1deee274a86b365/everton-vs-brighton/"
+  },
+  {
+    "id": "25d2c3cd5397ba185885008e",
+    "title": "Liverpool vs. Chelsea",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-11-22T14:00:00+00:00",
+    "end": "2026-11-22T16:00:00+00:00",
+    "location": "BrewDog Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/b5dad0723a7d4a2bbf0f873783ac4f99/liverpool-vs-chelsea/"
+  },
+  {
+    "id": "5ffd9e643556b90a461e2a1a",
+    "title": "London City Lionesses vs. Crystal Palace",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-11-22T14:00:00+00:00",
+    "end": "2026-11-22T16:00:00+00:00",
+    "location": "Copperjax Community Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/5a9d8431663b41aba71f339ff4acd5ae/london-city-vs-crystal-palace/"
+  },
+  {
+    "id": "1408b53dbe0ddfb4f3797aaa",
+    "title": "Manchester City vs. Tottenham Hotspur",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-11-22T14:00:00+00:00",
+    "end": "2026-11-22T16:00:00+00:00",
+    "location": "Joie Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/93fc89e9cf1047458448acd55d5f4581/man-city-vs-spurs/"
+  },
+  {
+    "id": "0eec54f6dd0b601d9e6f8545",
+    "title": "Everton vs. Arsenal",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-12-12T12:30:00+00:00",
+    "end": "2026-12-12T14:30:00+00:00",
+    "location": "Goodison Park",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/c7c83bedba8347e6bce17d7723373d71/everton-vs-arsenal/"
+  },
+  {
+    "id": "d6af35552acc8d9e3de5add3",
+    "title": "Manchester United vs. Brighton & Hove Albion",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-12-13T13:00:00+00:00",
+    "end": "2026-12-13T15:00:00+00:00",
+    "location": "Progress with Unity Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/c9ffa471afe5434bb85bc6f888c2094e/man-utd-vs-brighton/"
+  },
+  {
+    "id": "262dec544256afb2d878719d",
+    "title": "Birmingham City vs. Liverpool",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-12-13T14:00:00+00:00",
+    "end": "2026-12-13T16:00:00+00:00",
+    "location": "St. Andrew's @ Knighthead Park",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/57dfc8e9188b4e90ad3e280f97a1e448/birmingham-vs-liverpool/"
+  },
+  {
+    "id": "af30e090417b8493b24f0aa7",
+    "title": "Chelsea vs. London City Lionesses",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-12-13T14:00:00+00:00",
+    "end": "2026-12-13T16:00:00+00:00",
+    "location": "Stamford Bridge",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/8f0ab8b17dcc4ad5b06eb5158bab7c23/chelsea-vs-london-city/"
+  },
+  {
+    "id": "43835b49304715984a5dd816",
+    "title": "Crystal Palace vs. Manchester City",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-12-13T14:00:00+00:00",
+    "end": "2026-12-13T16:00:00+00:00",
+    "location": "VBS Community Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/120c2d21240d428883fdb2cdd59d9a20/crystal-palace-vs-man-city/"
+  },
+  {
+    "id": "004e35af45ff351fe659c442",
+    "title": "Tottenham Hotspur vs. Charlton Athletic",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-12-13T14:00:00+00:00",
+    "end": "2026-12-13T16:00:00+00:00",
+    "location": "BetWright Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/943bc41885d04d819c8f211cd2e62da0/spurs-vs-charlton/"
+  },
+  {
+    "id": "3a7722e6fe991850266da57e",
+    "title": "West Ham United vs. Aston Villa",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-12-13T14:00:00+00:00",
+    "end": "2026-12-13T16:00:00+00:00",
+    "location": "Chigwell Construction Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/f2f583cf64374287aa3546cce15a2ca5/west-ham-vs-aston-villa/"
+  },
+  {
+    "id": "360b32799577b4363b424a64",
+    "title": "Brighton & Hove Albion vs. Chelsea",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-12-19T12:30:00+00:00",
+    "end": "2026-12-19T14:30:00+00:00",
+    "location": "Broadfield Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/c9cb2e2965d346d1af1e64b87cc146b5/brighton-vs-chelsea/"
+  },
+  {
+    "id": "d41b9731b44e1ae8f6571cb4",
+    "title": "Charlton Athletic vs. Arsenal",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-12-20T12:30:00+00:00",
+    "end": "2026-12-20T14:30:00+00:00",
+    "location": "The Valley",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/c019612341b54ac9a3dde8b3d0639954/charlton-vs-arsenal/"
+  },
+  {
+    "id": "8654a754354e8a3985db2aeb",
+    "title": "Manchester United vs. Tottenham Hotspur",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-12-20T13:00:00+00:00",
+    "end": "2026-12-20T15:00:00+00:00",
+    "location": "Progress with Unity Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/c9185207365948958f5fc8abdfeaa336/man-utd-vs-spurs/"
+  },
+  {
+    "id": "1cec182dbb96e79b22d60812",
+    "title": "Aston Villa vs. London City Lionesses",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-12-20T14:00:00+00:00",
+    "end": "2026-12-20T16:00:00+00:00",
+    "location": "Villa Park",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/c7476155edb74f6985bb47a73057cfa6/aston-villa-vs-london-city/"
+  },
+  {
+    "id": "a5e47cdc7c95213bafd6f946",
+    "title": "Liverpool vs. Crystal Palace",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-12-20T14:00:00+00:00",
+    "end": "2026-12-20T16:00:00+00:00",
+    "location": "BrewDog Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/d34da01058ba48c2b55415cbe79f989f/liverpool-vs-crystal-palace/"
+  },
+  {
+    "id": "7b06d4361b3592ed633a1e9e",
+    "title": "Manchester City vs. Everton",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-12-20T14:00:00+00:00",
+    "end": "2026-12-20T16:00:00+00:00",
+    "location": "Joie Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/65829246cb1f460fb15f114587ba91ed/man-city-vs-everton/"
+  },
+  {
+    "id": "579f4015b31ce497600b7f6e",
+    "title": "West Ham United vs. Birmingham City",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2026-12-20T14:00:00+00:00",
+    "end": "2026-12-20T16:00:00+00:00",
+    "location": "Chigwell Construction Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/b5b4e829f2d14ce88064051422724f7d/west-ham-vs-birmingham/"
+  },
+  {
+    "id": "2f360c58a281378670c13aba",
+    "title": "Arsenal vs. Brighton & Hove Albion",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-01-10T12:30:00+00:00",
+    "end": "2027-01-10T14:30:00+00:00",
+    "location": "Emirates Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/dd326c8df3174c1cb5482c304bb09fe7/arsenal-vs-brighton/"
+  },
+  {
+    "id": "0e53486f9d9799242e9e3efa",
+    "title": "Aston Villa vs. Everton",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-01-10T14:00:00+00:00",
+    "end": "2027-01-10T16:00:00+00:00",
+    "location": "Villa Park",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/44dad15e4f8e42068f8e38df84537924/aston-villa-vs-everton/"
+  },
+  {
+    "id": "2d097476f0bdc14e7eca843d",
+    "title": "Charlton Athletic vs. Birmingham City",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-01-10T14:00:00+00:00",
+    "end": "2027-01-10T16:00:00+00:00",
+    "location": "The Valley",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/14944381bda5406281a3c74c71312ad8/charlton-vs-birmingham/"
+  },
+  {
+    "id": "97ec5e0f4a9eea9559739f7d",
+    "title": "Crystal Palace vs. Manchester United",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-01-10T14:00:00+00:00",
+    "end": "2027-01-10T16:00:00+00:00",
+    "location": "VBS Community Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/348809f87ec343259ac4d134074eabad/crystal-palace-vs-man-utd/"
+  },
+  {
+    "id": "de421cd0f2ba283106d91d59",
+    "title": "London City Lionesses vs. West Ham United",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-01-10T14:00:00+00:00",
+    "end": "2027-01-10T16:00:00+00:00",
+    "location": "Copperjax Community Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/4dd34a92093848109fe9755c008743a0/london-city-vs-west-ham/"
+  },
+  {
+    "id": "4c3c97ffbb50229e43902d52",
+    "title": "Manchester City vs. Chelsea",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-01-10T14:00:00+00:00",
+    "end": "2027-01-10T16:00:00+00:00",
+    "location": "Joie Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/42a3da998fbf41b2b6dea1c4d35a2e91/man-city-vs-chelsea/"
+  },
+  {
+    "id": "fc4634de3932c3c25e54ad43",
+    "title": "Tottenham Hotspur vs. Liverpool",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-01-10T14:00:00+00:00",
+    "end": "2027-01-10T16:00:00+00:00",
+    "location": "BetWright Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/fc633cf5bdb74522866fab32e6c520f4/spurs-vs-liverpool/"
+  },
+  {
+    "id": "6534517bae94012d6318fd40",
+    "title": "Chelsea vs. Charlton Athletic",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-01-20T19:00:00+00:00",
+    "end": "2027-01-20T21:00:00+00:00",
+    "location": "Stamford Bridge",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/f3693ae40aa5490da85d68442a28c7bf/chelsea-vs-charlton/"
+  },
+  {
+    "id": "7d0515f30c6f0fcfade5bed8",
+    "title": "Crystal Palace vs. Aston Villa",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-01-20T19:00:00+00:00",
+    "end": "2027-01-20T21:00:00+00:00",
+    "location": "VBS Community Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/03a5339ae43d45d1b4c19e3da2db43d3/crystal-palace-vs-aston-villa/"
+  },
+  {
+    "id": "4716eee19ead9eece8735387",
+    "title": "Everton vs. London City Lionesses",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-01-20T19:00:00+00:00",
+    "end": "2027-01-20T21:00:00+00:00",
+    "location": "Goodison Park",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/e98e3b164f8246b6a7de75b09d21ed22/everton-vs-london-city/"
+  },
+  {
+    "id": "fe62838ba1801bad6035d405",
+    "title": "West Ham United vs. Manchester United",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-01-20T19:00:00+00:00",
+    "end": "2027-01-20T21:00:00+00:00",
+    "location": "Chigwell Construction Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/f604fab9856347aeb942e25f56453c9a/west-ham-vs-man-utd/"
+  },
+  {
+    "id": "d130660c2178693b80937d1f",
+    "title": "Birmingham City vs. Manchester City",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-01-20T19:30:00+00:00",
+    "end": "2027-01-20T21:30:00+00:00",
+    "location": "St. Andrew's @ Knighthead Park",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/74b5b6ce5e2b42f886ead11ffdc27249/birmingham-vs-man-city/"
+  },
+  {
+    "id": "b4b6a2b4c4fc86f978843ee2",
+    "title": "Brighton & Hove Albion vs. Tottenham Hotspur",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-01-20T19:45:00+00:00",
+    "end": "2027-01-20T21:45:00+00:00",
+    "location": "Broadfield Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/9b9578da1a0a4a02b507dde87369eac3/brighton-vs-spurs/"
+  },
+  {
+    "id": "48394ef681ff029d789960d3",
+    "title": "Arsenal vs. Liverpool",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-01-21T19:00:00+00:00",
+    "end": "2027-01-21T21:00:00+00:00",
+    "location": "Emirates Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/5a09f217a26e4127b0d9b48bd1a74fd0/arsenal-vs-liverpool/"
+  },
+  {
+    "id": "a6393c46ec89bdef5e1214dd",
+    "title": "Manchester United vs. Everton",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-01-24T13:00:00+00:00",
+    "end": "2027-01-24T15:00:00+00:00",
+    "location": "Progress with Unity Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/cef0540632204c30acf6f4ab3dccd242/man-utd-vs-everton/"
+  },
+  {
+    "id": "ae3c81aaa83fbf6fd5a2256c",
+    "title": "Aston Villa vs. Tottenham Hotspur",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-01-24T14:00:00+00:00",
+    "end": "2027-01-24T16:00:00+00:00",
+    "location": "Villa Park",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/aa00a5af9daf4937a0e807357b6a4a6e/aston-villa-vs-spurs/"
+  },
+  {
+    "id": "ea63bfd2c9169e5074e49f0c",
+    "title": "Brighton & Hove Albion vs. Birmingham City",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-01-24T14:00:00+00:00",
+    "end": "2027-01-24T16:00:00+00:00",
+    "location": "Broadfield Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/c50b09aa25b04617aac57c6309fed795/brighton-vs-birmingham/"
+  },
+  {
+    "id": "8b3c680fba631cfd98b4a884",
+    "title": "Chelsea vs. Crystal Palace",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-01-24T14:00:00+00:00",
+    "end": "2027-01-24T16:00:00+00:00",
+    "location": "Stamford Bridge",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/dd83162b7c5f487b939b4ebd2ac2c13d/chelsea-vs-crystal-palace/"
+  },
+  {
+    "id": "674886d9d61b21f813bb61da",
+    "title": "Liverpool vs. West Ham United",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-01-24T14:00:00+00:00",
+    "end": "2027-01-24T16:00:00+00:00",
+    "location": "BrewDog Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/baa627f751ae47dcbb2e5f10baf9e549/liverpool-vs-west-ham/"
+  },
+  {
+    "id": "f03c1e368ef241f390f50b66",
+    "title": "London City Lionesses vs. Arsenal",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-01-24T14:00:00+00:00",
+    "end": "2027-01-24T16:00:00+00:00",
+    "location": "Copperjax Community Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/9f35ae1c441b44739b50b0096733ed40/london-city-vs-arsenal/"
+  },
+  {
+    "id": "14d22b17be21f11bf047de39",
+    "title": "Manchester City vs. Charlton Athletic",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-01-24T14:00:00+00:00",
+    "end": "2027-01-24T16:00:00+00:00",
+    "location": "Joie Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/d5cd305b60e5493fa2d61f38027644e9/man-city-vs-charlton/"
+  },
+  {
+    "id": "06eb67904603538cced2a97f",
+    "title": "Arsenal vs. Manchester City",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-01-30T17:30:00+00:00",
+    "end": "2027-01-30T19:30:00+00:00",
+    "location": "Emirates Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/84c9fcbc0c74463db7b01e840a009eb1/arsenal-vs-man-city/"
+  },
+  {
+    "id": "caf4c13613b78d2138685c2f",
+    "title": "Manchester United vs. London City Lionesses",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-01-31T13:00:00+00:00",
+    "end": "2027-01-31T15:00:00+00:00",
+    "location": "Progress with Unity Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/4381e42ab47e40778abf07ce11fd7b62/man-utd-vs-london-city/"
+  },
+  {
+    "id": "9523d72257698ef37547a7fb",
+    "title": "Birmingham City vs. Aston Villa",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-01-31T14:00:00+00:00",
+    "end": "2027-01-31T16:00:00+00:00",
+    "location": "St. Andrew's @ Knighthead Park",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/3cf8bdd04df44b2e825eafe27bc8371c/birmingham-vs-aston-villa/"
+  },
+  {
+    "id": "2310d1567a5907ea01fd330a",
+    "title": "Charlton Athletic vs. Crystal Palace",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-01-31T14:00:00+00:00",
+    "end": "2027-01-31T16:00:00+00:00",
+    "location": "The Valley",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/ed79c0a395754bfd937c4cb93babaf62/charlton-vs-crystal-palace/"
+  },
+  {
+    "id": "b4bfa7ca3adf194832631431",
+    "title": "Everton vs. West Ham United",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-01-31T14:00:00+00:00",
+    "end": "2027-01-31T16:00:00+00:00",
+    "location": "Goodison Park",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/c080055c5bb0460a9d26b9d21ae1a050/everton-vs-west-ham/"
+  },
+  {
+    "id": "2684b8eb21af15f36a88f2da",
+    "title": "Liverpool vs. Brighton & Hove Albion",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-01-31T14:00:00+00:00",
+    "end": "2027-01-31T16:00:00+00:00",
+    "location": "BrewDog Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/d13c61c932a84635a141121b6ce9eb76/liverpool-vs-brighton/"
+  },
+  {
+    "id": "e1b556e3208de3774dc02ffc",
+    "title": "Tottenham Hotspur vs. Chelsea",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-01-31T14:00:00+00:00",
+    "end": "2027-01-31T16:00:00+00:00",
+    "location": "BetWright Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/46461cc7f7ff4200b49a054aacac4b70/spurs-vs-chelsea/"
+  },
+  {
+    "id": "49cc035e3cc8bff96a1f9dcd",
+    "title": "Aston Villa vs. Charlton Athletic",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-02-07T14:00:00+00:00",
+    "end": "2027-02-07T16:00:00+00:00",
+    "location": "Villa Park",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/1848cf9fdbaa4901a830d998c2f88e4d/aston-villa-vs-charlton/"
+  },
+  {
+    "id": "c6536601038436344bc1b36d",
+    "title": "Birmingham City vs. Arsenal",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-02-07T14:00:00+00:00",
+    "end": "2027-02-07T16:00:00+00:00",
+    "location": "St. Andrew's @ Knighthead Park",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/ee7f33be3f7046418aa8b3104d026f1a/birmingham-vs-arsenal/"
+  },
+  {
+    "id": "47b1fcf4acc6e1b913fa5f7e",
+    "title": "Brighton & Hove Albion vs. Everton",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-02-07T14:00:00+00:00",
+    "end": "2027-02-07T16:00:00+00:00",
+    "location": "Broadfield Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/fa150044d9814f50ae916d07dd015f75/brighton-vs-everton/"
+  },
+  {
+    "id": "2f5ed5c20769a8db31886a01",
+    "title": "Chelsea vs. Liverpool",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-02-07T14:00:00+00:00",
+    "end": "2027-02-07T16:00:00+00:00",
+    "location": "Stamford Bridge",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/808160a65afb4119bb95ae144205cea1/chelsea-vs-liverpool/"
+  },
+  {
+    "id": "baee038527a559c7ae375a22",
+    "title": "Crystal Palace vs. London City Lionesses",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-02-07T14:00:00+00:00",
+    "end": "2027-02-07T16:00:00+00:00",
+    "location": "VBS Community Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/3809fc6719ad4fa791363f57fd6fe726/crystal-palace-vs-london-city/"
+  },
+  {
+    "id": "6415e4c62550c9d43bab5345",
+    "title": "Tottenham Hotspur vs. Manchester United",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-02-07T14:00:00+00:00",
+    "end": "2027-02-07T16:00:00+00:00",
+    "location": "Tottenham Hotspur Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/1d76e59882b74c26a6aeabf2dc96a206/spurs-vs-man-utd/"
+  },
+  {
+    "id": "bc1f5b85307257c45932945a",
+    "title": "West Ham United vs. Manchester City",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-02-07T14:00:00+00:00",
+    "end": "2027-02-07T16:00:00+00:00",
+    "location": "Chigwell Construction Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/0a935a222ac744808add62033b4bf266/west-ham-vs-man-city/"
+  },
+  {
+    "id": "abcb19717df23d90f73b94da",
+    "title": "Aston Villa vs. Brighton & Hove Albion",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-02-14T14:00:00+00:00",
+    "end": "2027-02-14T16:00:00+00:00",
+    "location": "Villa Park",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/ff1757f601de4d60a86c580c0492781a/aston-villa-vs-brighton/"
+  },
+  {
+    "id": "b27ca217477dda307ba5856f",
+    "title": "Charlton Athletic vs. West Ham United",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-02-14T14:00:00+00:00",
+    "end": "2027-02-14T16:00:00+00:00",
+    "location": "The Valley",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/70c7b22d58904fa1b39bf4bc7b6711f7/charlton-vs-west-ham/"
+  },
+  {
+    "id": "5d697584e9c26476a7efb089",
+    "title": "Crystal Palace vs. Arsenal",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-02-14T14:00:00+00:00",
+    "end": "2027-02-14T16:00:00+00:00",
+    "location": "VBS Community Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/e3b082fd375c451f804c21cfe5f9836e/crystal-palace-vs-arsenal/"
+  },
+  {
+    "id": "7fb23784d9ec5ab9c4f75432",
+    "title": "Everton vs. Tottenham Hotspur",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-02-14T14:00:00+00:00",
+    "end": "2027-02-14T16:00:00+00:00",
+    "location": "Goodison Park",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/153230aec0bd4f759c3d62b10d7219a9/everton-vs-spurs/"
+  },
+  {
+    "id": "78bb6c10633a868f313b605e",
+    "title": "Liverpool vs. Birmingham City",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-02-14T14:00:00+00:00",
+    "end": "2027-02-14T16:00:00+00:00",
+    "location": "BrewDog Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/fdd7d3e512b443e9a170330be37f994d/liverpool-vs-birmingham/"
+  },
+  {
+    "id": "4b01a14f4233d2a083c8ed21",
+    "title": "London City Lionesses vs. Chelsea",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-02-14T14:00:00+00:00",
+    "end": "2027-02-14T16:00:00+00:00",
+    "location": "Copperjax Community Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/2c8a4ad38bf746db9a48ba54544eec85/london-city-vs-chelsea/"
+  },
+  {
+    "id": "16c6eb5c304836e5b17183e0",
+    "title": "Manchester City vs. Manchester United",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-02-14T14:30:00+00:00",
+    "end": "2027-02-14T16:30:00+00:00",
+    "location": "Etihad Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/8d75a542881c4242b4010218251d5f63/man-city-vs-man-utd/"
+  },
+  {
+    "id": "903ae717119de6afcf895695",
+    "title": "Birmingham City vs. Chelsea",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-03-13T12:30:00+00:00",
+    "end": "2027-03-13T14:30:00+00:00",
+    "location": "St. Andrew's @ Knighthead Park",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/082a7fe6b05a4b6bb6dbcc3c062745b0/birmingham-vs-chelsea/"
+  },
+  {
+    "id": "819710e6a34e4531addc5a99",
+    "title": "Arsenal vs. Tottenham Hotspur",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-03-13T17:30:00+00:00",
+    "end": "2027-03-13T19:30:00+00:00",
+    "location": "Emirates Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/aa01d475d622498987db4541ace64be9/arsenal-vs-spurs/"
+  },
+  {
+    "id": "5f8bcafea09059972e1c34fa",
+    "title": "Manchester United vs. Charlton Athletic",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-03-14T13:00:00+00:00",
+    "end": "2027-03-14T15:00:00+00:00",
+    "location": "Progress with Unity Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/f4bd8d6bf4d24539b92a26d9d04d4ecf/man-utd-vs-charlton/"
+  },
+  {
+    "id": "2a7b54270cb001d6e3e61baf",
+    "title": "Everton vs. Crystal Palace",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-03-14T14:00:00+00:00",
+    "end": "2027-03-14T16:00:00+00:00",
+    "location": "Goodison Park",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/b8887b7da085487abdd395a7adfb90e1/everton-vs-crystal-palace/"
+  },
+  {
+    "id": "19d2b31537861ad124490886",
+    "title": "London City Lionesses vs. Liverpool",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-03-14T14:00:00+00:00",
+    "end": "2027-03-14T16:00:00+00:00",
+    "location": "Copperjax Community Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/5cfc52a28a304b38b28d275e161cb033/london-city-vs-liverpool/"
+  },
+  {
+    "id": "b2d89328c8cda22f99f69904",
+    "title": "Manchester City vs. Aston Villa",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-03-14T14:00:00+00:00",
+    "end": "2027-03-14T16:00:00+00:00",
+    "location": "Joie Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/1f2f4ea5ef5d47ab8626933337b8a265/man-city-vs-aston-villa/"
+  },
+  {
+    "id": "551630ca3515defb08c6d2f4",
+    "title": "West Ham United vs. Brighton & Hove Albion",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-03-14T14:00:00+00:00",
+    "end": "2027-03-14T16:00:00+00:00",
+    "location": "Chigwell Construction Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/3638fc83620f4c6491c48d7b018a6577/west-ham-vs-brighton/"
+  },
+  {
+    "id": "0751e2f40ecc17f3baf6d184",
+    "title": "Charlton Athletic vs. Everton",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-03-17T19:00:00+00:00",
+    "end": "2027-03-17T21:00:00+00:00",
+    "location": "The Valley",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/52c1ca501b834b36ae44eeefb0f34957/charlton-vs-everton/"
+  },
+  {
+    "id": "091502d6975f5790737417c6",
+    "title": "Chelsea vs. West Ham United",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-03-17T19:00:00+00:00",
+    "end": "2027-03-17T21:00:00+00:00",
+    "location": "Stamford Bridge",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/d64917b503e8451ea8387b3fa9d63793/chelsea-vs-west-ham/"
+  },
+  {
+    "id": "148dd89db1e0fe9a5361f7d1",
+    "title": "Liverpool vs. Manchester United",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-03-17T19:00:00+00:00",
+    "end": "2027-03-17T21:00:00+00:00",
+    "location": "BrewDog Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/388c8d971cdd4a37878e4544ecb61da6/liverpool-vs-man-utd/"
+  },
+  {
+    "id": "4882810cb2210532e5efce9b",
+    "title": "Aston Villa vs. Arsenal",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-03-17T19:30:00+00:00",
+    "end": "2027-03-17T21:30:00+00:00",
+    "location": "Villa Park",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/2672624268444593a07532cd24fcdc94/aston-villa-vs-arsenal/"
+  },
+  {
+    "id": "58eb24f45346e875e870c19d",
+    "title": "Tottenham Hotspur vs. Manchester City",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-03-17T19:30:00+00:00",
+    "end": "2027-03-17T21:30:00+00:00",
+    "location": "BetWright Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/157930e85a924cb2ac9a97bf1e0a8b40/spurs-vs-man-city/"
+  },
+  {
+    "id": "e3d3f3e60b919e4b64c226e9",
+    "title": "Brighton & Hove Albion vs. London City Lionesses",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-03-17T19:45:00+00:00",
+    "end": "2027-03-17T21:45:00+00:00",
+    "location": "Broadfield Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/b71b88c7a8ae43d5b21d426eb8648ab3/brighton-vs-london-city/"
+  },
+  {
+    "id": "ff9d79f16f257903ff21e4c5",
+    "title": "Crystal Palace vs. Birmingham City",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-03-17T20:00:00+00:00",
+    "end": "2027-03-17T22:00:00+00:00",
+    "location": "VBS Community Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/27829a5c565d4235b24cc23794107714/crystal-palace-vs-birmingham/"
+  },
+  {
+    "id": "27fa5537bb098fec5361bb88",
+    "title": "Manchester City vs. Crystal Palace",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-03-27T14:00:00+00:00",
+    "end": "2027-03-27T16:00:00+00:00",
+    "location": "Joie Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/43fe463d1a3143278221e892bbe6dd41/man-city-vs-crystal-palace/"
+  },
+  {
+    "id": "f7dce08d7cea59e1635656d0",
+    "title": "Manchester United vs. Aston Villa",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-03-28T12:00:00+00:00",
+    "end": "2027-03-28T14:00:00+00:00",
+    "location": "Progress with Unity Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/693c95a5b9dc44cc81dad7ebc5f89335/man-utd-vs-aston-villa/"
+  },
+  {
+    "id": "9d78b0c504866f13e8d9039c",
+    "title": "Arsenal vs. Chelsea",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-03-28T13:00:00+00:00",
+    "end": "2027-03-28T15:00:00+00:00",
+    "location": "Emirates Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/e7f80cf79a204fba8d0ab445a517fd47/arsenal-vs-chelsea/"
+  },
+  {
+    "id": "08dc85335b76dac4b9ce526d",
+    "title": "Birmingham City vs. London City Lionesses",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-03-28T13:00:00+00:00",
+    "end": "2027-03-28T15:00:00+00:00",
+    "location": "St. Andrew's @ Knighthead Park",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/7acbd8503d2a40c7824770b6664ed250/birmingham-vs-london-city/"
+  },
+  {
+    "id": "932161db02b9b96025041815",
+    "title": "Charlton Athletic vs. Brighton & Hove Albion",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-03-28T13:00:00+00:00",
+    "end": "2027-03-28T15:00:00+00:00",
+    "location": "The Valley",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/f91d2a141a174bfdb1a0a50f9fde7226/charlton-vs-brighton/"
+  },
+  {
+    "id": "52208416261d7677c86dec94",
+    "title": "Everton vs. Liverpool",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-03-28T13:00:00+00:00",
+    "end": "2027-03-28T15:00:00+00:00",
+    "location": "Goodison Park",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/dac0fdaa87ea4a6f8f34a276d44aff9a/everton-vs-liverpool/"
+  },
+  {
+    "id": "ff83054487cfa19a39c73d21",
+    "title": "West Ham United vs. Tottenham Hotspur",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-03-28T13:00:00+00:00",
+    "end": "2027-03-28T15:00:00+00:00",
+    "location": "Chigwell Construction Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/1598a7e4e7c547f388075eb3a8567287/west-ham-vs-spurs/"
+  },
+  {
+    "id": "f20e95321c2f946895f2dadf",
+    "title": "Arsenal vs. Everton",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-04-04T13:00:00+00:00",
+    "end": "2027-04-04T15:00:00+00:00",
+    "location": "Emirates Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/946872aeef2f4217a3ef401cb84f4e49/arsenal-vs-everton/"
+  },
+  {
+    "id": "0ab6cb57a819a0d398e5f447",
+    "title": "Birmingham City vs. West Ham United",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-04-04T13:00:00+00:00",
+    "end": "2027-04-04T15:00:00+00:00",
+    "location": "St. Andrew's @ Knighthead Park",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/e55d895d9734462a9b53cf3756441a8e/birmingham-vs-west-ham/"
+  },
+  {
+    "id": "794f5437d4e4540d1f3db3a4",
+    "title": "Brighton & Hove Albion vs. Manchester City",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-04-04T13:00:00+00:00",
+    "end": "2027-04-04T15:00:00+00:00",
+    "location": "Broadfield Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/bb58965d35cc4f08860840039b203644/brighton-vs-man-city/"
+  },
+  {
+    "id": "7858df7fed61055565f78449",
+    "title": "Chelsea vs. Manchester United",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-04-04T13:00:00+00:00",
+    "end": "2027-04-04T15:00:00+00:00",
+    "location": "Stamford Bridge",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/431a930a84b245058a1ddf4d58820904/chelsea-vs-man-utd/"
+  },
+  {
+    "id": "9df9e90ad02057c6e7dad663",
+    "title": "Liverpool vs. Aston Villa",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-04-04T13:00:00+00:00",
+    "end": "2027-04-04T15:00:00+00:00",
+    "location": "Anfield",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/519db7d391c84623b28fc1d6b05c5b18/liverpool-vs-aston-villa/"
+  },
+  {
+    "id": "ac94e68d9704f1ce7d8c4e0a",
+    "title": "London City Lionesses vs. Charlton Athletic",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-04-04T13:00:00+00:00",
+    "end": "2027-04-04T15:00:00+00:00",
+    "location": "Copperjax Community Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/d20b143edecc4506bca04b803a7a87ff/london-city-vs-charlton/"
+  },
+  {
+    "id": "1bc5a04db2e6c38114d89f81",
+    "title": "Tottenham Hotspur vs. Crystal Palace",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-04-04T13:00:00+00:00",
+    "end": "2027-04-04T15:00:00+00:00",
+    "location": "Tottenham Hotspur Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/2730fd2a005b4c7a95646ea5504931bd/spurs-vs-crystal-palace/"
+  },
+  {
+    "id": "ab78054fec884db0fbe6f026",
+    "title": "Everton vs. Manchester City",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-04-30T18:00:00+00:00",
+    "end": "2027-04-30T20:00:00+00:00",
+    "location": "Goodison Park",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/c041bc6ebbf84724a99c7c884be9ea16/everton-vs-man-city/"
+  },
+  {
+    "id": "3dae8f55f49df9eae8e0d57f",
+    "title": "Manchester United vs. Birmingham City",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-05-02T12:00:00+00:00",
+    "end": "2027-05-02T14:00:00+00:00",
+    "location": "Progress with Unity Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/523978fae1114c61aca9b3d9b278ef11/man-utd-vs-birmingham/"
+  },
+  {
+    "id": "9123050922fca5cd2f30f61d",
+    "title": "Crystal Palace vs. Brighton & Hove Albion",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-05-02T13:00:00+00:00",
+    "end": "2027-05-02T15:00:00+00:00",
+    "location": "VBS Community Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/6d59089480d44b4c8027d315b5d0c0ab/crystal-palace-vs-brighton/"
+  },
+  {
+    "id": "003f1c506fce0a1a67a14cf2",
+    "title": "Liverpool vs. Charlton Athletic",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-05-02T13:00:00+00:00",
+    "end": "2027-05-02T15:00:00+00:00",
+    "location": "BrewDog Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/de70de9263364fb3bc6689dd524b09a4/liverpool-vs-charlton/"
+  },
+  {
+    "id": "c486f1f6fc8f3db88e1a2262",
+    "title": "London City Lionesses vs. Tottenham Hotspur",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-05-02T13:00:00+00:00",
+    "end": "2027-05-02T15:00:00+00:00",
+    "location": "Copperjax Community Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/b21cd4cbec364eccb93a7c6f115b5db8/london-city-vs-spurs/"
+  },
+  {
+    "id": "9284ae8dd2cac6995e1fd663",
+    "title": "West Ham United vs. Arsenal",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-05-02T13:00:00+00:00",
+    "end": "2027-05-02T15:00:00+00:00",
+    "location": "Chigwell Construction Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/1751ecbb8cf042f2a307b9e8b01226bc/west-ham-vs-arsenal/"
+  },
+  {
+    "id": "0af3665a494aafa76b56a2b0",
+    "title": "Aston Villa vs. Chelsea",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-05-02T17:00:00+00:00",
+    "end": "2027-05-02T19:00:00+00:00",
+    "location": "Villa Park",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/90c8ed1691dc46839dc2955cd5bef6a0/aston-villa-vs-chelsea/"
+  },
+  {
+    "id": "ef9b5e1981da46f8df45e946",
+    "title": "Manchester United vs. Arsenal",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-05-09T12:00:00+00:00",
+    "end": "2027-05-09T14:00:00+00:00",
+    "location": "Old Trafford",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/59d84233c1284fb0a692d5f80057f7e3/man-utd-vs-arsenal/"
+  },
+  {
+    "id": "2d5afa81e203a8a89b746646",
+    "title": "Aston Villa vs. West Ham United",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-05-09T13:00:00+00:00",
+    "end": "2027-05-09T15:00:00+00:00",
+    "location": "Villa Park",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/aef6a50f627b4b8f8b658a4f2c0e66ef/aston-villa-vs-west-ham/"
+  },
+  {
+    "id": "cb4fb71e4a6ec2e15c7d507e",
+    "title": "Birmingham City vs. Everton",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-05-09T13:00:00+00:00",
+    "end": "2027-05-09T15:00:00+00:00",
+    "location": "St. Andrew's @ Knighthead Park",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/3a911484f575418b82dbc40b41601352/birmingham-vs-everton/"
+  },
+  {
+    "id": "e58d0ea17d52090520fd9129",
+    "title": "Charlton Athletic vs. Tottenham Hotspur",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-05-09T13:00:00+00:00",
+    "end": "2027-05-09T15:00:00+00:00",
+    "location": "The Valley",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/7e31314e58c945a59b61f1611b048b09/charlton-vs-spurs/"
+  },
+  {
+    "id": "e4c58c51b2d2a3cfee8fb511",
+    "title": "Chelsea vs. Brighton & Hove Albion",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-05-09T13:00:00+00:00",
+    "end": "2027-05-09T15:00:00+00:00",
+    "location": "Stamford Bridge",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/331e7b670d6a427f86c59bffe0161d77/chelsea-vs-brighton/"
+  },
+  {
+    "id": "751449f5ec03a34139eccc70",
+    "title": "Crystal Palace vs. Liverpool",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-05-09T13:00:00+00:00",
+    "end": "2027-05-09T15:00:00+00:00",
+    "location": "VBS Community Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/88940845e4a6411fbda0c3be9b1a5da3/crystal-palace-vs-liverpool/"
+  },
+  {
+    "id": "54d70a38e1e3bfc24dcd2977",
+    "title": "Manchester City vs. London City Lionesses",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-05-09T13:00:00+00:00",
+    "end": "2027-05-09T15:00:00+00:00",
+    "location": "Joie Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/44610749851b4139b8b817a6130a7249/man-city-vs-london-city/"
+  },
+  {
+    "id": "2cb7831d9409fdd891797e13",
+    "title": "Arsenal vs. Charlton Athletic",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-05-22T11:00:00+00:00",
+    "end": "2027-05-22T13:00:00+00:00",
+    "location": "Emirates Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/a142ac12f15d4ec3bf53a787dfee5ab8/arsenal-vs-charlton/"
+  },
+  {
+    "id": "3155d04bdfb0f56dacf3c915",
+    "title": "Brighton & Hove Albion vs. Manchester United",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-05-22T11:00:00+00:00",
+    "end": "2027-05-22T13:00:00+00:00",
+    "location": "Broadfield Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/6bb646cbf9624599886b64075bc8ab06/brighton-vs-man-utd/"
+  },
+  {
+    "id": "184bf018c10ecabc80d71450",
+    "title": "Everton vs. Chelsea",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-05-22T11:00:00+00:00",
+    "end": "2027-05-22T13:00:00+00:00",
+    "location": "Goodison Park",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/8605d78ebf6c4a0a8cd71c8ecbff6d0f/everton-vs-chelsea/"
+  },
+  {
+    "id": "5c1148a4467ec39ca75c3303",
+    "title": "Liverpool vs. Manchester City",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-05-22T11:00:00+00:00",
+    "end": "2027-05-22T13:00:00+00:00",
+    "location": "BrewDog Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/6aae027a2a974b799b7d377625d23939/liverpool-vs-man-city/"
+  },
+  {
+    "id": "0dffa0d9ca2fa86011b859d4",
+    "title": "London City Lionesses vs. Aston Villa",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-05-22T11:00:00+00:00",
+    "end": "2027-05-22T13:00:00+00:00",
+    "location": "Copperjax Community Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/c311bd38be5143cf86b61a82f82c27b4/london-city-vs-aston-villa/"
+  },
+  {
+    "id": "53c00cfbfdcf35f27f78495a",
+    "title": "Tottenham Hotspur vs. Birmingham City",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-05-22T11:00:00+00:00",
+    "end": "2027-05-22T13:00:00+00:00",
+    "location": "BetWright Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/bc93da50126e44d283860357f66caf65/spurs-vs-birmingham/"
+  },
+  {
+    "id": "4d2316437271a522dd0c00e9",
+    "title": "West Ham United vs. Crystal Palace",
+    "sport": "Soccer",
+    "competition": "Women's Super League",
+    "start": "2027-05-22T11:00:00+00:00",
+    "end": "2027-05-22T13:00:00+00:00",
+    "location": "Chigwell Construction Stadium",
+    "url": "https://www.wslfootball.com/match/barclays-wsl/24428eb4cda647c6b47cdfb8268dcc9b/west-ham-vs-crystal-palace/"
+  }
+];
