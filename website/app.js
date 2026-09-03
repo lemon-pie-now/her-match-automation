@@ -25,11 +25,15 @@ const escapeHtml = (value) =>
 const leagues = [...new Set(state.events.map((event) => event.competition))];
 
 const shortLeague = (name) => {
+  if (name === "Women's Pro Baseball League") return "WPBL";
   if (name.includes("National")) return "NWSL";
   if (name.includes("Northern")) return "NSL";
   if (name.includes("Super League")) return "WSL";
   return name;
 };
+
+const displayLeague = (name) =>
+  name === "Women's Pro Baseball League" ? "WPBL" : name;
 
 function visible() {
   return state.events.filter(
@@ -173,7 +177,7 @@ function renderLeagues() {
       return `<article class="league-card">
         <b>${escapeHtml(shortLeague(league))}</b>
         <div>
-          <h3>${escapeHtml(league)}</h3>
+          <h3>${escapeHtml(displayLeague(league))}</h3>
           <p>${count} upcoming matches</p>
         </div>
       </article>`;
