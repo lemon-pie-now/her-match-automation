@@ -64,6 +64,14 @@ Sunday, September 13 | 1:00 PM | Audi Field, Washington, District of Columbia
 
 Sunday, September 13 | 7:00 PM | Providence Park, Portland, Oregon
 
+### ⚽️ Denver Summit FC vs Bay FC
+
+Wednesday, September 16 | 9:30 PM | Centennial Stadium, Centennial, Colorado
+
+### ⚽️ Angel City FC vs Seattle Reign FC
+
+Wednesday, September 16 | 10:00 PM | BMO Stadium, Los Angeles, California
+
 
 ## Northern Super League
 
@@ -93,12 +101,6 @@ Sunday, September 13 | 4:00 PM | Swangard Stadium
 
 
 ## Women's Pro Baseball League
-
-### San Francisco vs Boston – Sep 2, 2026
-
-Wednesday, September 02 | 7:30 PM | Robin Roberts Stadium, Springfield, Illinois
-
-[Official match information](https://www.womensprobaseballleague.com/games/san-francisco-vs-boston-sep-2-2026/)
 
 ### New York vs Los Angeles – Sep 3, 2026
 
@@ -159,6 +161,12 @@ Sunday, September 13 | 3:00 PM | Robin Roberts Stadium, Springfield, Illinois
 Monday, September 14 | 7:00 PM | Robin Roberts Stadium, Springfield, Illinois
 
 [Official match information](https://www.womensprobaseballleague.com/games/semi-final-series-b-playoff-game-3-if-needed/)
+
+### WPBL Championship Game #1
+
+Wednesday, September 16 | 7:00 PM | Robin Roberts Stadium, Springfield, Illinois
+
+[Official match information](https://www.womensprobaseballleague.com/games/wpbl-championship-game-1/)
 
 
 ## Women's Super League
