@@ -11,6 +11,7 @@ from dataclasses import asdict, dataclass, fields
 from datetime import date, datetime, time, timedelta, timezone
 from pathlib import Path
 from typing import Any
+from urllib.parse import parse_qs, urlparse
 from zoneinfo import ZoneInfo
 
 import requests
@@ -146,7 +147,12 @@ def load_calendar_sources() -> list[CalendarSource]:
                 or "ics"
             )
 
-            if source_type not in {"ics", "wpbl_api", "wsl_official"}:
+            if source_type not in {
+                "ics",
+                "wnba_official",
+                "wpbl_api",
+                "wsl_official",
+            }:
                 raise ValueError(
                     f"Unsupported source_type {source_type!r} "
                     f"on row {row_number}."
@@ -501,6 +507,191 @@ def collect_wpbl_events(
     return collected_events
 
 
+def wnba_team_name(team: dict[str, Any]) -> str:
+    """Return the WNBA API's full display name for a team."""
+    city = str(team.get("teamCity") or "").strip()
+    name = str(team.get("teamName") or "").strip()
+    return " ".join(value for value in (city, name) if value) or "TBD"
+
+
+def wnba_season_from_source(source: str) -> str:
+    """Read the requested season from a WNBA schedule-page URL."""
+    season = parse_qs(urlparse(source).query).get("season", [""])[0]
+
+    if not re.fullmatch(r"\d{4}", season):
+        raise ValueError(
+            "The WNBA source URL must include a four-digit season, "
+            "for example '?season=2026'."
+        )
+
+    return season
+
+
+def load_wnba_schedule(source: str) -> dict[str, Any]:
+    """Load the structured schedule used by the official WNBA website."""
+    parsed_source = urlparse(source)
+    season = wnba_season_from_source(source)
+    api_url = f"{parsed_source.scheme}://{parsed_source.netloc}/api/schedule"
+    response = requests.get(
+        api_url,
+        params={"season": season, "regionId": "1"},
+        timeout=30,
+        headers={
+            "Accept": "application/json",
+            "User-Agent": (
+                "HerMatchCalendarBot/0.5 "
+                "(women's sports calendar)"
+            ),
+        },
+    )
+    response.raise_for_status()
+    payload = response.json()
+
+    if not isinstance(payload, dict):
+        raise ValueError("The WNBA schedule API returned invalid JSON.")
+
+    return payload
+
+
+def parse_wnba_schedule(
+    payload: dict[str, Any],
+    calendar_source: CalendarSource,
+) -> list[SportsEvent]:
+    """Convert an official WNBA schedule response into Her Match events."""
+    schedule = payload.get("leagueSchedule")
+
+    if not isinstance(schedule, dict):
+        raise ValueError(
+            "The WNBA schedule API response has no leagueSchedule object."
+        )
+
+    game_dates = schedule.get("gameDates")
+
+    if not isinstance(game_dates, list):
+        raise ValueError(
+            "The WNBA schedule API response has no gameDates list."
+        )
+
+    checked_at = datetime.now(timezone.utc).isoformat()
+    collected_events: list[SportsEvent] = []
+
+    for game_date in game_dates:
+        games = game_date.get("games", []) if isinstance(game_date, dict) else []
+
+        if not isinstance(games, list):
+            continue
+
+        for game in games:
+            if not isinstance(game, dict):
+                continue
+
+            game_id = str(game.get("gameId") or "").strip()
+            raw_start = str(game.get("gameDateTimeUTC") or "").strip()
+
+            if not game_id or not raw_start:
+                print(
+                    "Skipping WNBA game without a game ID or UTC tipoff.",
+                    file=sys.stderr,
+                )
+                continue
+
+            try:
+                start_time = datetime.fromisoformat(
+                    raw_start.replace("Z", "+00:00")
+                ).astimezone(timezone.utc)
+            except ValueError:
+                print(
+                    f"Skipping WNBA game {game_id} with invalid tipoff "
+                    f"{raw_start!r}.",
+                    file=sys.stderr,
+                )
+                continue
+
+            raw_end = str(game.get("actualEndTimeUTC") or "").strip()
+
+            try:
+                end_time = datetime.fromisoformat(
+                    raw_end.replace("Z", "+00:00")
+                ).astimezone(timezone.utc) if raw_end else (
+                    start_time + timedelta(hours=2, minutes=30)
+                )
+            except ValueError:
+                end_time = start_time + timedelta(hours=2, minutes=30)
+
+            away_team = game.get("awayTeam") or {}
+            home_team = game.get("homeTeam") or {}
+            away_name = wnba_team_name(away_team)
+            home_name = wnba_team_name(home_team)
+            title = f"{away_name} vs. {home_name}"
+            status_text = str(game.get("gameStatusText") or "").strip()
+            postponed_status = str(
+                game.get("postponedStatus") or ""
+            ).strip().upper()
+            normalized_status = status_text.lower()
+
+            if "cancel" in normalized_status:
+                status = "CANCELLED"
+            elif postponed_status == "Y" or "postpon" in normalized_status:
+                status = "TENTATIVE"
+            else:
+                status = "CONFIRMED"
+
+            location = ", ".join(
+                value
+                for value in (
+                    str(game.get("arenaName") or "").strip(),
+                    str(game.get("arenaCity") or "").strip(),
+                    str(game.get("arenaState") or "").strip(),
+                )
+                if value
+            )
+            season_type = str(game.get("seasonType") or "WNBA").strip()
+            description = f"Official WNBA {season_type} game."
+
+            if status_text:
+                description += f" Schedule status: {status_text}."
+
+            collected_events.append(
+                SportsEvent(
+                    event_id=create_event_id(
+                        source_id=calendar_source.source_id,
+                        source_uid=f"wnba-game-{game_id}",
+                        recurrence_id="",
+                        title=title,
+                        start_time_utc=start_time,
+                    ),
+                    source_id=calendar_source.source_id,
+                    source_uid=f"wnba-game-{game_id}",
+                    sport=calendar_source.sport,
+                    competition=calendar_source.competition,
+                    title=title,
+                    start_time_utc=start_time.isoformat(),
+                    end_time_utc=end_time.isoformat(),
+                    location=location,
+                    description=description,
+                    official_url=calendar_source.source,
+                    status=status,
+                    source_url=calendar_source.source,
+                    last_checked_utc=checked_at,
+                )
+            )
+
+    if not collected_events:
+        raise ValueError(
+            "The official WNBA schedule returned no games."
+        )
+
+    return collected_events
+
+
+def collect_wnba_events(
+    calendar_source: CalendarSource,
+) -> list[SportsEvent]:
+    """Collect games from the official WNBA schedule API."""
+    payload = load_wnba_schedule(calendar_source.source)
+    return parse_wnba_schedule(payload, calendar_source)
+
+
 WSL_COMPETITION_ID = "e32284e8a1214f1ca83a3245d690b336"
 
 
@@ -657,6 +848,9 @@ def collect_wsl_events(
 def collect_source_events(
     calendar_source: CalendarSource,
 ) -> list[SportsEvent]:
+    if calendar_source.source_type == "wnba_official":
+        return collect_wnba_events(calendar_source)
+
     if calendar_source.source_type == "wpbl_api":
         return collect_wpbl_events(calendar_source)
 

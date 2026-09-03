@@ -19,6 +19,11 @@ changed after a source is created. `enabled` accepts `true` or `false`.
 The event collector must support a source type before a row using it can be
 enabled successfully.
 
+Supported source types are `ics`, `wnba_official`, `wpbl_api`, and
+`wsl_official`. A `wnba_official` source must use an official WNBA schedule URL
+with a four-digit `season` query parameter, such as
+`https://www.wnba.com/schedule?month=all&season=2026`.
+
 After editing the workbook, generate the application CSV with:
 
 ```bash
