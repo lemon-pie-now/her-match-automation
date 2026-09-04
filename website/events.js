@@ -1,15 +1,5 @@
 window.HER_MATCH_EVENTS = [
   {
-    "id": "8dd290214dab0eca786762bd",
-    "title": "New York vs Los Angeles – Sep 3, 2026",
-    "sport": "Baseball",
-    "competition": "Women's Pro Baseball League",
-    "start": "2026-09-03T23:30:00+00:00",
-    "end": "2026-09-04T02:30:00+00:00",
-    "location": "Robin Roberts Stadium, Springfield, Illinois",
-    "url": "https://www.womensprobaseballleague.com/games/new-york-vs-los-angeles-sep-3-2026/"
-  },
-  {
     "id": "0d677deed61edd3a88685364",
     "title": "London City Lionesses vs. Manchester United",
     "sport": "Soccer",
@@ -500,56 +490,6 @@ window.HER_MATCH_EVENTS = [
     "url": "https://www.womensprobaseballleague.com/games/wpbl-championship-game-2/"
   },
   {
-    "id": "611f61b70b1be80e90d8c514",
-    "title": "Connecticut Sun vs. Atlanta Dream",
-    "sport": "Basketball",
-    "competition": "WNBA",
-    "start": "2026-09-17T23:30:00+00:00",
-    "end": "2026-09-18T02:00:00+00:00",
-    "location": "Gateway Center Arena @ College Park, Atlanta, GA",
-    "url": "https://www.wnba.com/schedule?month=all&season=2026"
-  },
-  {
-    "id": "944c9f2d7d4f3a5856d2db92",
-    "title": "Los Angeles Sparks vs. Dallas Wings",
-    "sport": "Basketball",
-    "competition": "WNBA",
-    "start": "2026-09-18T00:00:00+00:00",
-    "end": "2026-09-18T02:30:00+00:00",
-    "location": "College Park Center, Arlington, TX",
-    "url": "https://www.wnba.com/schedule?month=all&season=2026"
-  },
-  {
-    "id": "040cac131e722ae78d52b3b4",
-    "title": "Washington Mystics vs. Chicago Sky",
-    "sport": "Basketball",
-    "competition": "WNBA",
-    "start": "2026-09-18T00:00:00+00:00",
-    "end": "2026-09-18T02:30:00+00:00",
-    "location": "Wintrust Arena, Chicago, IL",
-    "url": "https://www.wnba.com/schedule?month=all&season=2026"
-  },
-  {
-    "id": "f3eac08afac6ff54e6566865",
-    "title": "Las Vegas Aces vs. Seattle Storm",
-    "sport": "Basketball",
-    "competition": "WNBA",
-    "start": "2026-09-18T02:00:00+00:00",
-    "end": "2026-09-18T04:30:00+00:00",
-    "location": "Climate Pledge Arena, Seattle, WA",
-    "url": "https://www.wnba.com/schedule?month=all&season=2026"
-  },
-  {
-    "id": "5b41940730f30e69d48b9a65",
-    "title": "Phoenix Mercury vs. Portland Fire",
-    "sport": "Basketball",
-    "competition": "WNBA",
-    "start": "2026-09-18T02:00:00+00:00",
-    "end": "2026-09-18T04:30:00+00:00",
-    "location": "Moda Center, Portland, OR",
-    "url": "https://www.wnba.com/schedule?month=all&season=2026"
-  },
-  {
     "id": "e3c1f55abce7588c6e2c73a5",
     "title": "Manchester City vs. Liverpool",
     "sport": "Soccer",
@@ -558,36 +498,6 @@ window.HER_MATCH_EVENTS = [
     "end": "2026-09-18T20:00:00+00:00",
     "location": "Joie Stadium",
     "url": "https://www.wslfootball.com/match/barclays-wsl/9c8826e6e4c64eda83f6ce0adc752e7a/man-city-vs-liverpool/"
-  },
-  {
-    "id": "82e84c2d1d89523c67a9629b",
-    "title": "Indiana Fever vs. Toronto Tempo",
-    "sport": "Basketball",
-    "competition": "WNBA",
-    "start": "2026-09-18T23:30:00+00:00",
-    "end": "2026-09-19T02:00:00+00:00",
-    "location": "Coca-Cola Coliseum, Toronto, ON",
-    "url": "https://www.wnba.com/schedule?month=all&season=2026"
-  },
-  {
-    "id": "e3131b136195bd76a4ff8e29",
-    "title": "New York Liberty vs. Minnesota Lynx",
-    "sport": "Basketball",
-    "competition": "WNBA",
-    "start": "2026-09-18T23:30:00+00:00",
-    "end": "2026-09-19T02:00:00+00:00",
-    "location": "Target Center, Minneapolis, MN",
-    "url": "https://www.wnba.com/schedule?month=all&season=2026"
-  },
-  {
-    "id": "0d869bd9151d1ce7dcdf61a3",
-    "title": "Portland Fire vs. Golden State Valkyries",
-    "sport": "Basketball",
-    "competition": "WNBA",
-    "start": "2026-09-19T02:00:00+00:00",
-    "end": "2026-09-19T04:30:00+00:00",
-    "location": "Chase Center, San Francisco, CA",
-    "url": "https://www.wnba.com/schedule?month=all&season=2026"
   },
   {
     "id": "dd9b37a8a857ce0a4a85e015",
@@ -628,16 +538,6 @@ window.HER_MATCH_EVENTS = [
     "end": "2026-09-19T18:30:00+00:00",
     "location": "Emirates Stadium",
     "url": "https://www.wslfootball.com/match/barclays-wsl/78822e157876488bbc6e4550ba5116d0/arsenal-vs-man-utd/"
-  },
-  {
-    "id": "d0b63460824e2b3d38bc6dde",
-    "title": "Phoenix Mercury vs. Dallas Wings",
-    "sport": "Basketball",
-    "competition": "WNBA",
-    "start": "2026-09-19T17:00:00+00:00",
-    "end": "2026-09-19T19:30:00+00:00",
-    "location": "College Park Center, Arlington, TX",
-    "url": "https://www.wnba.com/schedule?month=all&season=2026"
   },
   {
     "id": "e1457b7141f325fbf833e524",
@@ -690,16 +590,6 @@ window.HER_MATCH_EVENTS = [
     "url": "https://www.womensprobaseballleague.com/games/wpbl-championship-game-3/"
   },
   {
-    "id": "765749bca967b8a7ab3855c9",
-    "title": "Chicago Sky vs. Atlanta Dream",
-    "sport": "Basketball",
-    "competition": "WNBA",
-    "start": "2026-09-19T23:00:00+00:00",
-    "end": "2026-09-20T01:30:00+00:00",
-    "location": "State Farm Arena, Atlanta, GA",
-    "url": "https://www.wnba.com/schedule?month=all&season=2026"
-  },
-  {
     "id": "28d5b6b949c4d80a8bb26b18",
     "title": "⚽️ Denver Summit FC vs Seattle Reign FC",
     "sport": "Soccer",
@@ -708,16 +598,6 @@ window.HER_MATCH_EVENTS = [
     "end": "2026-09-20T02:45:00+00:00",
     "location": "Centennial Stadium, Centennial, Colorado",
     "url": ""
-  },
-  {
-    "id": "a5ed6863d4c925cc33e94a39",
-    "title": "Seattle Storm vs. Golden State Valkyries",
-    "sport": "Basketball",
-    "competition": "WNBA",
-    "start": "2026-09-20T01:00:00+00:00",
-    "end": "2026-09-20T03:30:00+00:00",
-    "location": "Chase Center, San Francisco, CA",
-    "url": "https://www.wnba.com/schedule?month=all&season=2026"
   },
   {
     "id": "c69d48a083ee690b8b424530",
@@ -750,16 +630,6 @@ window.HER_MATCH_EVENTS = [
     "url": "https://www.wslfootball.com/match/barclays-wsl/c45b5861aff54163b87b0fbcb6ecd941/west-ham-vs-everton/"
   },
   {
-    "id": "d402f7a414c395cb099b6521",
-    "title": "Minnesota Lynx vs. Connecticut Sun",
-    "sport": "Basketball",
-    "competition": "WNBA",
-    "start": "2026-09-20T17:00:00+00:00",
-    "end": "2026-09-20T19:30:00+00:00",
-    "location": "Mohegan Sun Arena, Uncasville, CT",
-    "url": "https://www.wnba.com/schedule?month=all&season=2026"
-  },
-  {
     "id": "db11da1f0cfb18117cf622e8",
     "title": "⚽️ Boston Legacy FC vs Houston Dash",
     "sport": "Soccer",
@@ -780,26 +650,6 @@ window.HER_MATCH_EVENTS = [
     "url": "https://www.womensprobaseballleague.com/games/wpbl-championship-game-4-if-needed/"
   },
   {
-    "id": "18ed555e934071226b077d0a",
-    "title": "New York Liberty vs. Toronto Tempo",
-    "sport": "Basketball",
-    "competition": "WNBA",
-    "start": "2026-09-20T19:00:00+00:00",
-    "end": "2026-09-20T21:30:00+00:00",
-    "location": "Coca-Cola Coliseum, Toronto, ON",
-    "url": "https://www.wnba.com/schedule?month=all&season=2026"
-  },
-  {
-    "id": "a7562194993754a3bec8e4a8",
-    "title": "Washington Mystics vs. Indiana Fever",
-    "sport": "Basketball",
-    "competition": "WNBA",
-    "start": "2026-09-20T20:00:00+00:00",
-    "end": "2026-09-20T22:30:00+00:00",
-    "location": "Gainbridge Fieldhouse, Indianapolis, IN",
-    "url": "https://www.wnba.com/schedule?month=all&season=2026"
-  },
-  {
     "id": "329624734a08545ccee95ff3",
     "title": "⚽️ Chicago Stars FC vs Washington Spirit",
     "sport": "Soccer",
@@ -808,16 +658,6 @@ window.HER_MATCH_EVENTS = [
     "end": "2026-09-20T23:00:00+00:00",
     "location": "Northwestern Medicine Field at Martin Stadium, Evanston, Illinois",
     "url": ""
-  },
-  {
-    "id": "464159b8c1c78f5966586536",
-    "title": "Portland Fire vs. Los Angeles Sparks",
-    "sport": "Basketball",
-    "competition": "WNBA",
-    "start": "2026-09-20T23:00:00+00:00",
-    "end": "2026-09-21T01:30:00+00:00",
-    "location": "Crypto.com Arena, Los Angeles, CA",
-    "url": "https://www.wnba.com/schedule?month=all&season=2026"
   },
   {
     "id": "39242b117eb02e976f0e07b9",
@@ -850,36 +690,6 @@ window.HER_MATCH_EVENTS = [
     "url": ""
   },
   {
-    "id": "6b50ffe879fdbbedafe059e7",
-    "title": "Seattle Storm vs. Las Vegas Aces",
-    "sport": "Basketball",
-    "competition": "WNBA",
-    "start": "2026-09-21T01:00:00+00:00",
-    "end": "2026-09-21T03:30:00+00:00",
-    "location": "Michelob ULTRA Arena, Las Vegas, NV",
-    "url": "https://www.wnba.com/schedule?month=all&season=2026"
-  },
-  {
-    "id": "a1c3baff8781cef47e8941e5",
-    "title": "Atlanta Dream vs. New York Liberty",
-    "sport": "Basketball",
-    "competition": "WNBA",
-    "start": "2026-09-22T00:00:00+00:00",
-    "end": "2026-09-22T02:30:00+00:00",
-    "location": "Barclays Center, Brooklyn, NY",
-    "url": "https://www.wnba.com/schedule?month=all&season=2026"
-  },
-  {
-    "id": "92f15d81d2fe2eb29ffb0c9f",
-    "title": "Dallas Wings vs. Phoenix Mercury",
-    "sport": "Basketball",
-    "competition": "WNBA",
-    "start": "2026-09-22T02:00:00+00:00",
-    "end": "2026-09-22T04:30:00+00:00",
-    "location": "Mortgage Matchup Center, Phoenix, AZ",
-    "url": "https://www.wnba.com/schedule?month=all&season=2026"
-  },
-  {
     "id": "7d9eb1445bd44f65901a5c83",
     "title": "WPBL Championship Game #5, if needed",
     "sport": "Baseball",
@@ -888,126 +698,6 @@ window.HER_MATCH_EVENTS = [
     "end": "2026-09-23T02:00:00+00:00",
     "location": "Robin Roberts Stadium, Springfield, Illinois",
     "url": "https://www.womensprobaseballleague.com/games/wpbl-championship-game-5-if-needed/"
-  },
-  {
-    "id": "fd39f05885d4eec7624710b0",
-    "title": "Connecticut Sun vs. Washington Mystics",
-    "sport": "Basketball",
-    "competition": "WNBA",
-    "start": "2026-09-22T23:30:00+00:00",
-    "end": "2026-09-23T02:00:00+00:00",
-    "location": "CareFirst Arena, Washington, DC",
-    "url": "https://www.wnba.com/schedule?month=all&season=2026"
-  },
-  {
-    "id": "76c25d058b7af632db3536fd",
-    "title": "Minnesota Lynx vs. Indiana Fever",
-    "sport": "Basketball",
-    "competition": "WNBA",
-    "start": "2026-09-23T00:00:00+00:00",
-    "end": "2026-09-23T02:30:00+00:00",
-    "location": "Gainbridge Fieldhouse, Indianapolis, IN",
-    "url": "https://www.wnba.com/schedule?month=all&season=2026"
-  },
-  {
-    "id": "335b6972e20bbe781bed69f2",
-    "title": "Toronto Tempo vs. Chicago Sky",
-    "sport": "Basketball",
-    "competition": "WNBA",
-    "start": "2026-09-23T00:00:00+00:00",
-    "end": "2026-09-23T02:30:00+00:00",
-    "location": "Wintrust Arena, Chicago, IL",
-    "url": "https://www.wnba.com/schedule?month=all&season=2026"
-  },
-  {
-    "id": "0d7c210dfa7ebda28e9a89b4",
-    "title": "Golden State Valkyries vs. Portland Fire",
-    "sport": "Basketball",
-    "competition": "WNBA",
-    "start": "2026-09-23T02:00:00+00:00",
-    "end": "2026-09-23T04:30:00+00:00",
-    "location": "Moda Center, Portland, OR",
-    "url": "https://www.wnba.com/schedule?month=all&season=2026"
-  },
-  {
-    "id": "276eb87f81696020d786a148",
-    "title": "Los Angeles Sparks vs. Las Vegas Aces",
-    "sport": "Basketball",
-    "competition": "WNBA",
-    "start": "2026-09-23T02:00:00+00:00",
-    "end": "2026-09-23T04:30:00+00:00",
-    "location": "Michelob ULTRA Arena, Las Vegas, NV",
-    "url": "https://www.wnba.com/schedule?month=all&season=2026"
-  },
-  {
-    "id": "8134376aa9b8420f251057e4",
-    "title": "Atlanta Dream vs. New York Liberty",
-    "sport": "Basketball",
-    "competition": "WNBA",
-    "start": "2026-09-24T00:00:00+00:00",
-    "end": "2026-09-24T02:30:00+00:00",
-    "location": "Barclays Center, Brooklyn, NY",
-    "url": "https://www.wnba.com/schedule?month=all&season=2026"
-  },
-  {
-    "id": "fc0922114b4193cde52fdc60",
-    "title": "Dallas Wings vs. Seattle Storm",
-    "sport": "Basketball",
-    "competition": "WNBA",
-    "start": "2026-09-24T02:00:00+00:00",
-    "end": "2026-09-24T04:30:00+00:00",
-    "location": "Climate Pledge Arena, Seattle, WA",
-    "url": "https://www.wnba.com/schedule?month=all&season=2026"
-  },
-  {
-    "id": "86ac3942d53ef556ce5b5319",
-    "title": "Toronto Tempo vs. Connecticut Sun",
-    "sport": "Basketball",
-    "competition": "WNBA",
-    "start": "2026-09-24T23:00:00+00:00",
-    "end": "2026-09-25T01:30:00+00:00",
-    "location": "Mohegan Sun Arena, Uncasville, CT",
-    "url": "https://www.wnba.com/schedule?month=all&season=2026"
-  },
-  {
-    "id": "d3239b0e26300167997771bf",
-    "title": "Chicago Sky vs. Washington Mystics",
-    "sport": "Basketball",
-    "competition": "WNBA",
-    "start": "2026-09-24T23:30:00+00:00",
-    "end": "2026-09-25T02:00:00+00:00",
-    "location": "Capital One Arena, Washington, DC",
-    "url": "https://www.wnba.com/schedule?month=all&season=2026"
-  },
-  {
-    "id": "bdca765d2d315d4f1136e8ec",
-    "title": "Indiana Fever vs. Minnesota Lynx",
-    "sport": "Basketball",
-    "competition": "WNBA",
-    "start": "2026-09-25T00:00:00+00:00",
-    "end": "2026-09-25T02:30:00+00:00",
-    "location": "Target Center, Minneapolis, MN",
-    "url": "https://www.wnba.com/schedule?month=all&season=2026"
-  },
-  {
-    "id": "b0c17223fb5f6a347791a951",
-    "title": "Golden State Valkyries vs. Los Angeles Sparks",
-    "sport": "Basketball",
-    "competition": "WNBA",
-    "start": "2026-09-25T02:00:00+00:00",
-    "end": "2026-09-25T04:30:00+00:00",
-    "location": "Crypto.com Arena, Los Angeles, CA",
-    "url": "https://www.wnba.com/schedule?month=all&season=2026"
-  },
-  {
-    "id": "b5964834fefe7b3e4b51142c",
-    "title": "Las Vegas Aces vs. Phoenix Mercury",
-    "sport": "Basketball",
-    "competition": "WNBA",
-    "start": "2026-09-25T02:00:00+00:00",
-    "end": "2026-09-25T04:30:00+00:00",
-    "location": "Mortgage Matchup Center, Phoenix, AZ",
-    "url": "https://www.wnba.com/schedule?month=all&season=2026"
   },
   {
     "id": "2155a994112f8d305948a0de",
@@ -2014,8 +1704,8 @@ window.HER_MATCH_EVENTS = [
     "title": "2026 NSL Championship",
     "sport": "Soccer",
     "competition": "Northern Super League",
-    "start": "2026-11-14T20:00:00+00:00",
-    "end": "2026-11-14T22:00:00+00:00",
+    "start": "2026-11-14T19:00:00+00:00",
+    "end": "2026-11-14T21:00:00+00:00",
     "location": "TBD",
     "url": ""
   },

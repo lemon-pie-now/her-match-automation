@@ -102,12 +102,6 @@ Sunday, September 13 | 4:00 PM | Swangard Stadium
 
 ## Women's Pro Baseball League
 
-### New York vs Los Angeles – Sep 3, 2026
-
-Thursday, September 03 | 7:30 PM | Robin Roberts Stadium, Springfield, Illinois
-
-[Official match information](https://www.womensprobaseballleague.com/games/new-york-vs-los-angeles-sep-3-2026/)
-
 ### San Francisco vs New York – Sep 4, 2026
 
 Friday, September 04 | 7:30 PM | Robin Roberts Stadium, Springfield, Illinois
@@ -167,6 +161,12 @@ Monday, September 14 | 7:00 PM | Robin Roberts Stadium, Springfield, Illinois
 Wednesday, September 16 | 7:00 PM | Robin Roberts Stadium, Springfield, Illinois
 
 [Official match information](https://www.womensprobaseballleague.com/games/wpbl-championship-game-1/)
+
+### WPBL Championship Game #2
+
+Thursday, September 17 | 7:00 PM | Robin Roberts Stadium, Springfield, Illinois
+
+[Official match information](https://www.womensprobaseballleague.com/games/wpbl-championship-game-2/)
 
 
 ## Women's Super League
