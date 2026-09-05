@@ -1736,3 +1736,5 @@ detected_at_utc,event_id,title,competition,change_type,changed_fields
 2026-09-04T14:59:12.208782+00:00,bdca765d2d315d4f1136e8ec,wnba,Indiana Fever vs. Minnesota Lynx,WNBA,removed_event,
 2026-09-04T14:59:12.208782+00:00,b0c17223fb5f6a347791a951,wnba,Golden State Valkyries vs. Los Angeles Sparks,WNBA,removed_event,
 2026-09-04T14:59:12.208782+00:00,b5964834fefe7b3e4b51142c,wnba,Las Vegas Aces vs. Phoenix Mercury,WNBA,removed_event,
+2026-09-05T13:52:08.615706+00:00,d577db2d5ed1dbb59cd8380e,WSL,Chelsea vs. Aston Villa,Women's Super League,updated_event,"start_time_utc,end_time_utc"
+2026-09-05T13:52:08.615706+00:00,b20cdf2b750122e2472d2ec6,WPBL,"San Francisco vs New York – Sep 4, 2026",Women's Pro Baseball League,updated_event,description

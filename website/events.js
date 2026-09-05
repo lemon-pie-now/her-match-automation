@@ -1,55 +1,5 @@
 window.HER_MATCH_EVENTS = [
   {
-    "id": "0d677deed61edd3a88685364",
-    "title": "London City Lionesses vs. Manchester United",
-    "sport": "Soccer",
-    "competition": "Women's Super League",
-    "start": "2026-09-04T18:00:00+00:00",
-    "end": "2026-09-04T20:00:00+00:00",
-    "location": "Copperjax Community Stadium",
-    "url": "https://www.wslfootball.com/match/barclays-wsl/54dda4624a104eacb8a662f15f2ff7fa/london-city-vs-man-utd/"
-  },
-  {
-    "id": "b20cdf2b750122e2472d2ec6",
-    "title": "San Francisco vs New York – Sep 4, 2026",
-    "sport": "Baseball",
-    "competition": "Women's Pro Baseball League",
-    "start": "2026-09-04T23:30:00+00:00",
-    "end": "2026-09-05T02:30:00+00:00",
-    "location": "Robin Roberts Stadium, Springfield, Illinois",
-    "url": "https://www.womensprobaseballleague.com/games/san-francisco-vs-new-york-sep-4-2026/"
-  },
-  {
-    "id": "3eba407345680a8161bb4779",
-    "title": "⚽️ Utah Royals FC vs Boston Legacy FC",
-    "sport": "Soccer",
-    "competition": "National Women’s Soccer League",
-    "start": "2026-09-05T01:30:00+00:00",
-    "end": "2026-09-05T03:30:00+00:00",
-    "location": "America First Field, Sandy, Utah",
-    "url": ""
-  },
-  {
-    "id": "981f1f3f22e1a07ae84834c7",
-    "title": "⚽️ Bay FC vs Kansas City Current",
-    "sport": "Soccer",
-    "competition": "National Women’s Soccer League",
-    "start": "2026-09-05T02:00:00+00:00",
-    "end": "2026-09-05T04:00:00+00:00",
-    "location": "PayPal Park, San Jose, California",
-    "url": ""
-  },
-  {
-    "id": "d577db2d5ed1dbb59cd8380e",
-    "title": "Chelsea vs. Aston Villa",
-    "sport": "Soccer",
-    "competition": "Women's Super League",
-    "start": "2026-09-05T11:30:00+00:00",
-    "end": "2026-09-05T13:30:00+00:00",
-    "location": "Stamford Bridge",
-    "url": "https://www.wslfootball.com/match/barclays-wsl/25ef6af2d5dd4816bdd4c5cf38a12b5e/chelsea-vs-aston-villa/"
-  },
-  {
     "id": "ea2e66dbe9b34bbe03a66922",
     "title": "⚽️ Racing Louisville FC vs Angel City FC",
     "sport": "Soccer",

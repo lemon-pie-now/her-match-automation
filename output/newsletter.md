@@ -1,13 +1,5 @@
 ## National Women’s Soccer League
 
-### ⚽️ Utah Royals FC vs Boston Legacy FC
-
-Friday, September 04 | 9:30 PM | America First Field, Sandy, Utah
-
-### ⚽️ Bay FC vs Kansas City Current
-
-Friday, September 04 | 10:00 PM | PayPal Park, San Jose, California
-
 ### ⚽️ Racing Louisville FC vs Angel City FC
 
 Saturday, September 05 | 6:30 PM | Lynn Family Stadium, Louisville, Kentucky
@@ -72,6 +64,10 @@ Wednesday, September 16 | 9:30 PM | Centennial Stadium, Centennial, Colorado
 
 Wednesday, September 16 | 10:00 PM | BMO Stadium, Los Angeles, California
 
+### ⚽️ San Diego Wave FC vs Kansas City Current
+
+Friday, September 18 | 10:00 PM | Snapdragon Stadium, San Diego, California
+
 
 ## Northern Super League
 
@@ -101,12 +97,6 @@ Sunday, September 13 | 4:00 PM | Swangard Stadium
 
 
 ## Women's Pro Baseball League
-
-### San Francisco vs New York – Sep 4, 2026
-
-Friday, September 04 | 7:30 PM | Robin Roberts Stadium, Springfield, Illinois
-
-[Official match information](https://www.womensprobaseballleague.com/games/san-francisco-vs-new-york-sep-4-2026/)
 
 ### Los Angeles vs Boston – Sep 5, 2026
 
@@ -170,18 +160,6 @@ Thursday, September 17 | 7:00 PM | Robin Roberts Stadium, Springfield, Illinois
 
 
 ## Women's Super League
-
-### London City Lionesses vs. Manchester United
-
-Friday, September 04 | 2:00 PM | Copperjax Community Stadium
-
-[Official match information](https://www.wslfootball.com/match/barclays-wsl/54dda4624a104eacb8a662f15f2ff7fa/london-city-vs-man-utd/)
-
-### Chelsea vs. Aston Villa
-
-Saturday, September 05 | 7:30 AM | Stamford Bridge
-
-[Official match information](https://www.wslfootball.com/match/barclays-wsl/25ef6af2d5dd4816bdd4c5cf38a12b5e/chelsea-vs-aston-villa/)
 
 ### Brighton & Hove Albion vs. Arsenal
 
@@ -254,3 +232,21 @@ Sunday, September 13 | 9:45 AM | Emirates Stadium
 Sunday, September 13 | 1:30 PM | Villa Park
 
 [Official match information](https://www.wslfootball.com/match/barclays-wsl/fa8b542859484d4d932096d59549aaed/aston-villa-vs-man-city/)
+
+### Manchester City vs. Liverpool
+
+Friday, September 18 | 2:00 PM | Joie Stadium
+
+[Official match information](https://www.wslfootball.com/match/barclays-wsl/9c8826e6e4c64eda83f6ce0adc752e7a/man-city-vs-liverpool/)
+
+### Charlton Athletic vs. London City Lionesses
+
+Saturday, September 19 | 7:30 AM | The Valley
+
+[Official match information](https://www.wslfootball.com/match/barclays-wsl/ef62c1e58fa2499c9b9f8b31d8377401/charlton-vs-london-city/)
+
+### Chelsea vs. Birmingham City
+
+Saturday, September 19 | 7:45 AM | Stamford Bridge
+
+[Official match information](https://www.wslfootball.com/match/barclays-wsl/4f7de4e451d54c11b0e2ff8644855354/chelsea-vs-birmingham/)
