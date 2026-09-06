@@ -1,9 +1,5 @@
 ## National Women’s Soccer League
 
-### ⚽️ Racing Louisville FC vs Angel City FC
-
-Saturday, September 05 | 6:30 PM | Lynn Family Stadium, Louisville, Kentucky
-
 ### ⚽️ Denver Summit FC vs Gotham FC
 
 Sunday, September 06 | 2:00 PM | Centennial Stadium, Centennial, Colorado
@@ -68,12 +64,20 @@ Wednesday, September 16 | 10:00 PM | BMO Stadium, Los Angeles, California
 
 Friday, September 18 | 10:00 PM | Snapdragon Stadium, San Diego, California
 
+### ⚽️ Orlando Pride vs Portland Thorns FC
+
+Saturday, September 19 | 4:00 PM | Inter.co Stadium, Orlando, Florida
+
+### ⚽️ North Carolina Courage vs Gotham FC
+
+Saturday, September 19 | 6:30 PM | First Horizon Stadium at WakeMed Soccer Park, Cary, North Carolina
+
+### ⚽️ Denver Summit FC vs Seattle Reign FC
+
+Saturday, September 19 | 8:45 PM | Centennial Stadium, Centennial, Colorado
+
 
 ## Northern Super League
-
-### Vancouver Rise FC vs. Halifax Tides FC
-
-Saturday, September 05 | 7:00 PM | Swangard Stadium
 
 ### Ottawa Rapid FC vs. Montreal Roses FC
 
@@ -95,14 +99,16 @@ Saturday, September 12 | 2:00 PM | McMahon Stadium
 
 Sunday, September 13 | 4:00 PM | Swangard Stadium
 
+### Halifax Tides FC vs. AFC Toronto
+
+Saturday, September 19 | 2:00 PM | Wanderers Grounds
+
+### Vancouver Rise FC vs. Montreal Roses FC
+
+Saturday, September 19 | 5:00 PM | Swangard Stadium
+
 
 ## Women's Pro Baseball League
-
-### Los Angeles vs Boston – Sep 5, 2026
-
-Saturday, September 05 | 7:30 PM | Robin Roberts Stadium, Springfield, Illinois
-
-[Official match information](https://www.womensprobaseballleague.com/games/los-angeles-vs-boston-sep-5-2026/)
 
 ### Boston vs San Francisco – Sep 6, 2026
 
@@ -158,38 +164,14 @@ Thursday, September 17 | 7:00 PM | Robin Roberts Stadium, Springfield, Illinois
 
 [Official match information](https://www.womensprobaseballleague.com/games/wpbl-championship-game-2/)
 
+### WPBL Championship Game #3
+
+Saturday, September 19 | 7:00 PM | Robin Roberts Stadium, Springfield, Illinois
+
+[Official match information](https://www.womensprobaseballleague.com/games/wpbl-championship-game-3/)
+
 
 ## Women's Super League
-
-### Brighton & Hove Albion vs. Arsenal
-
-Sunday, September 06 | 7:00 AM | Broadfield Stadium
-
-[Official match information](https://www.wslfootball.com/match/barclays-wsl/0312ae31cfc047378ec39fc20e195919/brighton-vs-arsenal/)
-
-### Tottenham Hotspur vs. West Ham United
-
-Sunday, September 06 | 7:00 AM | BetWright Stadium
-
-[Official match information](https://www.wslfootball.com/match/barclays-wsl/72090b8862974a82bf321b1887f960d9/spurs-vs-west-ham/)
-
-### Charlton Athletic vs. Liverpool
-
-Sunday, September 06 | 9:00 AM | The Valley
-
-[Official match information](https://www.wslfootball.com/match/barclays-wsl/7f4adbf487bc4d09a9416e08b3a112d8/charlton-vs-liverpool/)
-
-### Crystal Palace vs. Everton
-
-Sunday, September 06 | 9:00 AM | VBS Community Stadium
-
-[Official match information](https://www.wslfootball.com/match/barclays-wsl/3696616e181347aca770cd6e34a2ea7c/crystal-palace-vs-everton/)
-
-### Manchester City vs. Birmingham City
-
-Sunday, September 06 | 9:30 AM | Joie Stadium
-
-[Official match information](https://www.wslfootball.com/match/barclays-wsl/e8af306d026d4841ac254787a1f44c1f/man-city-vs-birmingham/)
 
 ### West Ham United vs. London City Lionesses
 
@@ -250,3 +232,27 @@ Saturday, September 19 | 7:30 AM | The Valley
 Saturday, September 19 | 7:45 AM | Stamford Bridge
 
 [Official match information](https://www.wslfootball.com/match/barclays-wsl/4f7de4e451d54c11b0e2ff8644855354/chelsea-vs-birmingham/)
+
+### Arsenal vs. Manchester United
+
+Saturday, September 19 | 12:30 PM | Emirates Stadium
+
+[Official match information](https://www.wslfootball.com/match/barclays-wsl/78822e157876488bbc6e4550ba5116d0/arsenal-vs-man-utd/)
+
+### Brighton & Hove Albion vs. Aston Villa
+
+Sunday, September 20 | 9:00 AM | American Express Stadium
+
+[Official match information](https://www.wslfootball.com/match/barclays-wsl/6f358d0ebcd3472d934d0cfea8a3a2a2/brighton-vs-aston-villa/)
+
+### Crystal Palace vs. Tottenham Hotspur
+
+Sunday, September 20 | 9:00 AM | Selhurst Park
+
+[Official match information](https://www.wslfootball.com/match/barclays-wsl/612d1f7a7a4944cbbe37c618c3e02819/crystal-palace-vs-spurs/)
+
+### West Ham United vs. Everton
+
+Sunday, September 20 | 9:00 AM | Chigwell Construction Stadium
+
+[Official match information](https://www.wslfootball.com/match/barclays-wsl/c45b5861aff54163b87b0fbcb6ecd941/west-ham-vs-everton/)
