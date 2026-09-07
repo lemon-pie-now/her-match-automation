@@ -1,25 +1,5 @@
 ## National Women’s Soccer League
 
-### ⚽️ Denver Summit FC vs Gotham FC
-
-Sunday, September 06 | 2:00 PM | Centennial Stadium, Centennial, Colorado
-
-### ⚽️ Chicago Stars FC vs North Carolina Courage
-
-Sunday, September 06 | 4:00 PM | Northwestern Medicine Field at Martin Stadium, Evanston, Illinois
-
-### ⚽️ Portland Thorns FC vs Washington Spirit
-
-Sunday, September 06 | 4:00 PM | Providence Park, Portland, Oregon
-
-### ⚽️ Orlando Pride vs Houston Dash
-
-Sunday, September 06 | 7:00 PM | Inter.co Stadium, Orlando, Florida
-
-### ⚽️ Seattle Reign FC vs San Diego Wave FC
-
-Sunday, September 06 | 9:00 PM | Seattle Stadium, Seattle, Washington
-
 ### ⚽️ Racing Louisville FC vs Gotham FC
 
 Friday, September 11 | 6:30 PM | Lynn Family Stadium, Louisville, Kentucky
@@ -76,16 +56,24 @@ Saturday, September 19 | 6:30 PM | First Horizon Stadium at WakeMed Soccer Park,
 
 Saturday, September 19 | 8:45 PM | Centennial Stadium, Centennial, Colorado
 
+### ⚽️ Boston Legacy FC vs Houston Dash
+
+Sunday, September 20 | 2:00 PM | Centreville Bank Stadium, Pawtucket, Rhode Island
+
+### ⚽️ Chicago Stars FC vs Washington Spirit
+
+Sunday, September 20 | 5:00 PM | Northwestern Medicine Field at Martin Stadium, Evanston, Illinois
+
+### ⚽️ Bay FC vs Racing Louisville FC
+
+Sunday, September 20 | 7:00 PM | PayPal Park, San Jose, California
+
+### ⚽️ Utah Royals FC vs Angel City FC
+
+Sunday, September 20 | 7:00 PM | America First Field, Sandy, Utah
+
 
 ## Northern Super League
-
-### Ottawa Rapid FC vs. Montreal Roses FC
-
-Sunday, September 06 | 12:00 PM | TD Place
-
-### AFC Toronto vs. Calgary Wild FC
-
-Sunday, September 06 | 2:00 PM | BMO Field
 
 ### Montreal Roses FC vs. AFC Toronto
 
@@ -107,14 +95,12 @@ Saturday, September 19 | 2:00 PM | Wanderers Grounds
 
 Saturday, September 19 | 5:00 PM | Swangard Stadium
 
+### Ottawa Rapid FC vs. Calgary Wild FC
+
+Sunday, September 20 | 7:00 PM | TD Place
+
 
 ## Women's Pro Baseball League
-
-### Boston vs San Francisco – Sep 6, 2026
-
-Sunday, September 06 | 7:30 PM | Robin Roberts Stadium, Springfield, Illinois
-
-[Official match information](https://www.womensprobaseballleague.com/games/boston-vs-san-francisco-sep-6-2026/)
 
 ### Semi-Final Series A Playoff Game #1
 
@@ -169,6 +155,12 @@ Thursday, September 17 | 7:00 PM | Robin Roberts Stadium, Springfield, Illinois
 Saturday, September 19 | 7:00 PM | Robin Roberts Stadium, Springfield, Illinois
 
 [Official match information](https://www.womensprobaseballleague.com/games/wpbl-championship-game-3/)
+
+### WPBL Championship Game #4, if needed
+
+Sunday, September 20 | 3:00 PM | Robin Roberts Stadium, Springfield, Illinois
+
+[Official match information](https://www.womensprobaseballleague.com/games/wpbl-championship-game-4-if-needed/)
 
 
 ## Women's Super League
