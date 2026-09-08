@@ -1740,3 +1740,19 @@ detected_at_utc,event_id,title,competition,change_type,changed_fields
 2026-09-05T13:52:08.615706+00:00,b20cdf2b750122e2472d2ec6,WPBL,"San Francisco vs New York – Sep 4, 2026",Women's Pro Baseball League,updated_event,description
 2026-09-06T14:12:17.137683+00:00,d93e6c215d92fed6bc626229,WPBL,"Los Angeles vs Boston – Sep 5, 2026",Women's Pro Baseball League,updated_event,description
 2026-09-07T16:28:46.664595+00:00,5564fafb87a8c55419e96b79,WPBL,"Boston vs San Francisco – Sep 6, 2026",Women's Pro Baseball League,updated_event,description
+2026-09-08T15:08:09.205321+00:00,d5f0d7a28ed4468d830bc007,WSL,Manchester United vs. Liverpool,Women's Super League,updated_event,"start_time_utc,end_time_utc"
+2026-09-08T15:08:09.205321+00:00,837106bb961a4050809db947,WSL,Tottenham Hotspur vs. London City Lionesses,Women's Super League,updated_event,"start_time_utc,end_time_utc"
+2026-09-08T15:08:09.205321+00:00,4a7dfe22c36bb1b7269073db,WSL,Manchester City vs. Arsenal,Women's Super League,updated_event,"start_time_utc,end_time_utc"
+2026-09-08T15:08:09.205321+00:00,44efedfc9c0a8b7902315264,WSL,Arsenal vs. Birmingham City,Women's Super League,updated_event,"start_time_utc,end_time_utc"
+2026-09-08T15:08:09.205321+00:00,860e0f408f7694bcedfe6696,WSL,Crystal Palace vs. West Ham United,Women's Super League,updated_event,"start_time_utc,end_time_utc"
+2026-09-08T15:08:09.205321+00:00,d84d7cfd1eb86d12c5ea9a08,WSL,Chelsea vs. Tottenham Hotspur,Women's Super League,updated_event,"start_time_utc,end_time_utc"
+2026-09-08T15:08:09.205321+00:00,8b5301518d6ea1825f72246e,WSL,Aston Villa vs. Liverpool,Women's Super League,updated_event,"start_time_utc,end_time_utc"
+2026-09-08T15:08:09.205321+00:00,f538fdda0be436d2b68065c9,WSL,Manchester City vs. Brighton & Hove Albion,Women's Super League,updated_event,"start_time_utc,end_time_utc"
+2026-09-08T15:08:09.205321+00:00,7153b97de4dfacbe2fdc630e,WSL,Tottenham Hotspur vs. Arsenal,Women's Super League,updated_event,"start_time_utc,end_time_utc"
+2026-09-08T15:08:09.205321+00:00,c94ca966e86ed0fe85e9ebee,WSL,Brighton & Hove Albion vs. West Ham United,Women's Super League,updated_event,"start_time_utc,end_time_utc"
+2026-09-08T15:08:09.205321+00:00,a9eeff368b48e86e738a6710,WSL,Crystal Palace vs. Chelsea,Women's Super League,updated_event,"start_time_utc,end_time_utc"
+2026-09-08T15:08:09.205321+00:00,ff4f378ccc7286a710cd79c1,WSL,Manchester United vs. Manchester City,Women's Super League,updated_event,"start_time_utc,end_time_utc"
+2026-09-08T15:08:09.205321+00:00,cc5c08884b1887de2d9d3075,WSL,Everton vs. Manchester United,Women's Super League,updated_event,"start_time_utc,end_time_utc"
+2026-09-08T15:08:09.205321+00:00,e6966030526ea98a9e31b784,WSL,London City Lionesses vs. Manchester City,Women's Super League,updated_event,"start_time_utc,end_time_utc"
+2026-09-08T15:08:09.205321+00:00,4da8768aa70994061217bb9e,WSL,Arsenal vs. Aston Villa,Women's Super League,updated_event,"start_time_utc,end_time_utc"
+2026-09-08T15:08:09.205321+00:00,6be1f803d7aaedb2c7ac98fd,WSL,Charlton Athletic vs. Chelsea,Women's Super League,updated_event,"start_time_utc,end_time_utc"
