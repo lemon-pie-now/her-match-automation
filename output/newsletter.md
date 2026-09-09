@@ -162,6 +162,12 @@ Sunday, September 20 | 3:00 PM | Robin Roberts Stadium, Springfield, Illinois
 
 [Official match information](https://www.womensprobaseballleague.com/games/wpbl-championship-game-4-if-needed/)
 
+### WPBL Championship Game #5, if needed
+
+Tuesday, September 22 | 7:00 PM | Robin Roberts Stadium, Springfield, Illinois
+
+[Official match information](https://www.womensprobaseballleague.com/games/wpbl-championship-game-5-if-needed/)
+
 
 ## Women's Super League
 
