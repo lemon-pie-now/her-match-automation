@@ -1,15 +1,5 @@
 window.HER_MATCH_EVENTS = [
   {
-    "id": "a9957bef93765529520899d1",
-    "title": "Semi-Final Series A Playoff Game #1",
-    "sport": "Baseball",
-    "competition": "Women's Pro Baseball League",
-    "start": "2026-09-09T23:00:00+00:00",
-    "end": "2026-09-10T02:00:00+00:00",
-    "location": "Robin Roberts Stadium, Springfield, Illinois",
-    "url": "https://www.womensprobaseballleague.com/games/semi-final-series-a-playoff-game-1/"
-  },
-  {
     "id": "4fa23ad763909733daa1e833",
     "title": "Semi-Final Series B Playoff Game #1",
     "sport": "Baseball",

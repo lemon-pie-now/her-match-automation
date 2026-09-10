@@ -102,12 +102,6 @@ Sunday, September 20 | 7:00 PM | TD Place
 
 ## Women's Pro Baseball League
 
-### Semi-Final Series A Playoff Game #1
-
-Wednesday, September 09 | 7:00 PM | Robin Roberts Stadium, Springfield, Illinois
-
-[Official match information](https://www.womensprobaseballleague.com/games/semi-final-series-a-playoff-game-1/)
-
 ### Semi-Final Series B Playoff Game #1
 
 Thursday, September 10 | 7:00 PM | Robin Roberts Stadium, Springfield, Illinois

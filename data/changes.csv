@@ -1756,3 +1756,4 @@ detected_at_utc,event_id,title,competition,change_type,changed_fields
 2026-09-08T15:08:09.205321+00:00,e6966030526ea98a9e31b784,WSL,London City Lionesses vs. Manchester City,Women's Super League,updated_event,"start_time_utc,end_time_utc"
 2026-09-08T15:08:09.205321+00:00,4da8768aa70994061217bb9e,WSL,Arsenal vs. Aston Villa,Women's Super League,updated_event,"start_time_utc,end_time_utc"
 2026-09-08T15:08:09.205321+00:00,6be1f803d7aaedb2c7ac98fd,WSL,Charlton Athletic vs. Chelsea,Women's Super League,updated_event,"start_time_utc,end_time_utc"
+2026-09-10T14:59:55.192620+00:00,a9957bef93765529520899d1,WPBL,Semi-Final Series A Playoff Game #1,Women's Pro Baseball League,updated_event,description
