@@ -75,10 +75,6 @@ Sunday, September 20 | 7:00 PM | America First Field, Sandy, Utah
 
 ## Northern Super League
 
-### Montreal Roses FC vs. AFC Toronto
-
-Thursday, September 10 | 7:00 PM | Stade Boréale
-
 ### Calgary Wild FC vs. Halifax Tides FC
 
 Saturday, September 12 | 2:00 PM | McMahon Stadium
@@ -102,31 +98,25 @@ Sunday, September 20 | 7:00 PM | TD Place
 
 ## Women's Pro Baseball League
 
-### Semi-Final Series B Playoff Game #1
-
-Thursday, September 10 | 7:00 PM | Robin Roberts Stadium, Springfield, Illinois
-
-[Official match information](https://www.womensprobaseballleague.com/games/semi-final-series-b-playoff-game-1/)
-
-### Semi-Final Series A Playoff Game #2
+### Semifinal A Game #2
 
 Friday, September 11 | 6:00 PM | Robin Roberts Stadium, Springfield, Illinois
 
 [Official match information](https://www.womensprobaseballleague.com/games/semi-final-series-a-playoff-game-2/)
 
-### Semi-Final Series B Playoff Game #2
+### Semifinal B Game #2
 
 Saturday, September 12 | 7:00 PM | Robin Roberts Stadium, Springfield, Illinois
 
 [Official match information](https://www.womensprobaseballleague.com/games/semi-final-series-b-playoff-game-2/)
 
-### Semi-Final Series A Playoff Game #3, if needed
+### Semifinal A Game #3 (if needed)
 
 Sunday, September 13 | 3:00 PM | Robin Roberts Stadium, Springfield, Illinois
 
 [Official match information](https://www.womensprobaseballleague.com/games/semi-final-series-a-playoff-game-3-if-needed/)
 
-### Semi-Final Series B Playoff Game #3, if needed
+### Semifinal B Game #3 (if needed)
 
 Monday, September 14 | 7:00 PM | Robin Roberts Stadium, Springfield, Illinois
 

@@ -1,27 +1,7 @@
 window.HER_MATCH_EVENTS = [
   {
-    "id": "4fa23ad763909733daa1e833",
-    "title": "Semi-Final Series B Playoff Game #1",
-    "sport": "Baseball",
-    "competition": "Women's Pro Baseball League",
-    "start": "2026-09-10T23:00:00+00:00",
-    "end": "2026-09-11T02:00:00+00:00",
-    "location": "Robin Roberts Stadium, Springfield, Illinois",
-    "url": "https://www.womensprobaseballleague.com/games/semi-final-series-b-playoff-game-1/"
-  },
-  {
-    "id": "42b9c9693a2ea56b485c0340",
-    "title": "Montreal Roses FC vs. AFC Toronto",
-    "sport": "Soccer",
-    "competition": "Northern Super League",
-    "start": "2026-09-10T23:00:00+00:00",
-    "end": "2026-09-11T01:00:00+00:00",
-    "location": "Stade Boréale",
-    "url": ""
-  },
-  {
     "id": "90789aaae708ccffb2af165c",
-    "title": "Semi-Final Series A Playoff Game #2",
+    "title": "Semifinal A Game #2",
     "sport": "Baseball",
     "competition": "Women's Pro Baseball League",
     "start": "2026-09-11T22:00:00+00:00",
@@ -91,7 +71,7 @@ window.HER_MATCH_EVENTS = [
   },
   {
     "id": "4cf08ae7a31a09f339f1faa9",
-    "title": "Semi-Final Series B Playoff Game #2",
+    "title": "Semifinal B Game #2",
     "sport": "Baseball",
     "competition": "Women's Pro Baseball League",
     "start": "2026-09-12T23:00:00+00:00",
@@ -191,7 +171,7 @@ window.HER_MATCH_EVENTS = [
   },
   {
     "id": "5b8e4fbef36b61efc428bb94",
-    "title": "Semi-Final Series A Playoff Game #3, if needed",
+    "title": "Semifinal A Game #3 (if needed)",
     "sport": "Baseball",
     "competition": "Women's Pro Baseball League",
     "start": "2026-09-13T19:00:00+00:00",
@@ -221,7 +201,7 @@ window.HER_MATCH_EVENTS = [
   },
   {
     "id": "687a479c009059fda6f31be0",
-    "title": "Semi-Final Series B Playoff Game #3, if needed",
+    "title": "Semifinal B Game #3 (if needed)",
     "sport": "Baseball",
     "competition": "Women's Pro Baseball League",
     "start": "2026-09-14T23:00:00+00:00",
