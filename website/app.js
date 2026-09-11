@@ -1,3 +1,6 @@
+// Build the application's working state from the generated event feed.
+// Filtering here prevents stale, already-started games from appearing when
+// events.js was generated earlier than the visitor's current page load.
 const state = {
   events: (window.HER_MATCH_EVENTS || []).filter(
     (event) => new Date(event.start) >= new Date(),
@@ -9,8 +12,11 @@ const state = {
 };
 
 const $ = (id) => document.getElementById(id);
+
+// Some calendar feeds include a soccer-ball prefix that the UI does not need.
 const clean = (text) => text.replace(/^⚽️?\s*/, "");
 
+// Escape all feed-provided text before inserting it into HTML templates.
 const escapeHtml = (value) =>
   String(value).replace(
     /[&<>"']/g,
@@ -26,6 +32,7 @@ const escapeHtml = (value) =>
 
 const leagues = [...new Set(state.events.map((event) => event.competition))];
 
+// Compact names are used in filters, badges, and the league-card icon.
 const shortLeague = (name) => {
   if (name === "Women's Pro Baseball League") return "WPBL";
   if (name.includes("National")) return "NWSL";
@@ -37,6 +44,7 @@ const shortLeague = (name) => {
 const displayLeague = (name) =>
   name === "Women's Pro Baseball League" ? "WPBL" : name;
 
+// Apply the selected league and free-text search to the current event set.
 function visible() {
   return state.events.filter(
     (event) =>
@@ -67,6 +75,7 @@ function renderFilters() {
   });
 }
 
+// Create one event row. Dates are formatted in the visitor's local timezone.
 function eventMarkup(event) {
   const date = new Date(event.start);
   const selected = state.selected.has(event.id) ? "checked" : "";
@@ -96,6 +105,8 @@ function eventMarkup(event) {
   </article>`;
 }
 
+// Refresh results, counts, pagination, and selection handlers together so the
+// interface stays consistent after any filter or search change.
 function render() {
   renderFilters();
   const events = visible();
@@ -116,6 +127,7 @@ function render() {
   });
 }
 
+// ICS text fields require escaping for slashes, separators, and newlines.
 function escapeIcs(value = "") {
   return value
     .replace(/\r/g, "")
@@ -125,6 +137,7 @@ function escapeIcs(value = "") {
     .replace(/\n/g, "\\n");
 }
 
+// Calendar files expect compact UTC timestamps such as 20260910T230000Z.
 function icsDate(value) {
   return new Date(value)
     .toISOString()
@@ -132,6 +145,7 @@ function icsDate(value) {
     .replace(/\.\d{3}/, "");
 }
 
+// Export selected games, or all currently visible games when none are selected.
 function download() {
   const chosen = state.selected.size
     ? state.events.filter((event) => state.selected.has(event.id))
@@ -169,6 +183,7 @@ function download() {
   URL.revokeObjectURL(link.href);
 }
 
+// Build the league overview using counts from the same filtered event state.
 function renderLeagues() {
   const cards = leagues
     .map((league) => {
@@ -197,6 +212,7 @@ function renderLeagues() {
     </article>`;
 }
 
+// Wire page controls after all helpers have been defined.
 $("search").oninput = (event) => {
   state.query = event.target.value;
   state.limit = 10;
@@ -217,5 +233,6 @@ $("loadMore").onclick = () => {
 
 $("downloadCalendar").onclick = download;
 
+// Perform the initial page render.
 render();
 renderLeagues();
