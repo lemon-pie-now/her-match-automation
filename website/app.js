@@ -1,5 +1,7 @@
 const state = {
-  events: window.HER_MATCH_EVENTS || [],
+  events: (window.HER_MATCH_EVENTS || []).filter(
+    (event) => new Date(event.start) >= new Date(),
+  ),
   league: "All",
   query: "",
   limit: 10,
