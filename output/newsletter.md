@@ -1,17 +1,5 @@
 ## National Women’s Soccer League
 
-### ⚽️ Racing Louisville FC vs Gotham FC
-
-Friday, September 11 | 6:30 PM | Lynn Family Stadium, Louisville, Kentucky
-
-### ⚽️ Kansas City Current vs Orlando Pride
-
-Friday, September 11 | 8:00 PM | CPKC Stadium, Kansas City, Missouri
-
-### ⚽️ Angel City FC vs Denver Summit FC
-
-Friday, September 11 | 10:00 PM | BMO Stadium, Los Angeles, California
-
 ### ⚽️ San Diego Wave FC vs North Carolina Courage
 
 Saturday, September 12 | 6:30 PM | Snapdragon Stadium, San Diego, California
@@ -72,6 +60,18 @@ Sunday, September 20 | 7:00 PM | PayPal Park, San Jose, California
 
 Sunday, September 20 | 7:00 PM | America First Field, Sandy, Utah
 
+### ⚽️ Racing Louisville FC vs San Diego Wave FC
+
+Friday, September 25 | 6:30 PM | Lynn Family Stadium, Louisville, Kentucky
+
+### ⚽️ Gotham FC vs Chicago Stars FC
+
+Friday, September 25 | 8:00 PM | Sports Illustrated Stadium, Harrison, New Jersey
+
+### ⚽️ Seattle Reign FC vs Boston Legacy FC
+
+Friday, September 25 | 8:30 PM | Seattle Stadium, Seattle, Washington
+
 
 ## Northern Super League
 
@@ -97,12 +97,6 @@ Sunday, September 20 | 7:00 PM | TD Place
 
 
 ## Women's Pro Baseball League
-
-### Semifinal A Game #2
-
-Friday, September 11 | 6:00 PM | Robin Roberts Stadium, Springfield, Illinois
-
-[Official match information](https://www.womensprobaseballleague.com/games/semi-final-series-a-playoff-game-2/)
 
 ### Semifinal B Game #2
 
@@ -154,12 +148,6 @@ Tuesday, September 22 | 7:00 PM | Robin Roberts Stadium, Springfield, Illinois
 
 
 ## Women's Super League
-
-### West Ham United vs. London City Lionesses
-
-Saturday, September 12 | 7:45 AM | Chigwell Construction Stadium
-
-[Official match information](https://www.wslfootball.com/match/barclays-wsl/17b69372c12543dfac1b88f4f6435f56/west-ham-vs-london-city/)
 
 ### Manchester United vs. Chelsea
 
@@ -238,3 +226,9 @@ Sunday, September 20 | 9:00 AM | Selhurst Park
 Sunday, September 20 | 9:00 AM | Chigwell Construction Stadium
 
 [Official match information](https://www.wslfootball.com/match/barclays-wsl/c45b5861aff54163b87b0fbcb6ecd941/west-ham-vs-everton/)
+
+### Charlton Athletic vs. Manchester City
+
+Saturday, September 26 | 8:30 AM | The Valley
+
+[Official match information](https://www.wslfootball.com/match/barclays-wsl/45fa16f02e3f44e0a6973826d4e9ed00/charlton-vs-man-city/)

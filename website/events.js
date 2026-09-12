@@ -1,55 +1,5 @@
 window.HER_MATCH_EVENTS = [
   {
-    "id": "90789aaae708ccffb2af165c",
-    "title": "Semifinal A Game #2",
-    "sport": "Baseball",
-    "competition": "Women's Pro Baseball League",
-    "start": "2026-09-11T22:00:00+00:00",
-    "end": "2026-09-12T01:00:00+00:00",
-    "location": "Robin Roberts Stadium, Springfield, Illinois",
-    "url": "https://www.womensprobaseballleague.com/games/semi-final-series-a-playoff-game-2/"
-  },
-  {
-    "id": "7e5837b3b1714975a8bdfd97",
-    "title": "⚽️ Racing Louisville FC vs Gotham FC",
-    "sport": "Soccer",
-    "competition": "National Women’s Soccer League",
-    "start": "2026-09-11T22:30:00+00:00",
-    "end": "2026-09-12T00:30:00+00:00",
-    "location": "Lynn Family Stadium, Louisville, Kentucky",
-    "url": ""
-  },
-  {
-    "id": "8b59d9aa058f56c7a74bd1be",
-    "title": "⚽️ Kansas City Current vs Orlando Pride",
-    "sport": "Soccer",
-    "competition": "National Women’s Soccer League",
-    "start": "2026-09-12T00:00:00+00:00",
-    "end": "2026-09-12T02:00:00+00:00",
-    "location": "CPKC Stadium, Kansas City, Missouri",
-    "url": ""
-  },
-  {
-    "id": "4ffa5b96817febcb3b30d075",
-    "title": "⚽️ Angel City FC vs Denver Summit FC",
-    "sport": "Soccer",
-    "competition": "National Women’s Soccer League",
-    "start": "2026-09-12T02:00:00+00:00",
-    "end": "2026-09-12T04:00:00+00:00",
-    "location": "BMO Stadium, Los Angeles, California",
-    "url": ""
-  },
-  {
-    "id": "0cbe08e07c5b4a030e09bcdb",
-    "title": "West Ham United vs. London City Lionesses",
-    "sport": "Soccer",
-    "competition": "Women's Super League",
-    "start": "2026-09-12T11:45:00+00:00",
-    "end": "2026-09-12T13:45:00+00:00",
-    "location": "Chigwell Construction Stadium",
-    "url": "https://www.wslfootball.com/match/barclays-wsl/17b69372c12543dfac1b88f4f6435f56/west-ham-vs-london-city/"
-  },
-  {
     "id": "9eaad51e08c1543d4ef3a52c",
     "title": "Calgary Wild FC vs. Halifax Tides FC",
     "sport": "Soccer",
