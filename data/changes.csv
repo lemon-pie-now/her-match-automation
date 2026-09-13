@@ -1781,3 +1781,5 @@ detected_at_utc,event_id,title,competition,change_type,changed_fields
 2026-09-12T14:10:03.412670+00:00,3c87d9909cda9dc17306535c,NWSL,⚽️ North Carolina Courage vs Angel City FC,National Women’s Soccer League,removed_event,
 2026-09-12T14:10:03.412670+00:00,3ce3b25648a9b06aaab378e5,NWSL,⚽️ Gotham FC vs Portland Thorns FC,National Women’s Soccer League,removed_event,
 2026-09-12T14:10:03.412670+00:00,5b28831c27b7f0ef3be775c1,NWSL,⚽️ San Diego Wave FC vs Racing Louisville FC,National Women’s Soccer League,removed_event,
+2026-09-13T14:55:39.648925+00:00,4cf08ae7a31a09f339f1faa9,WPBL,Semifinal B Game #2,Women's Pro Baseball League,updated_event,description
+2026-09-13T14:55:39.648925+00:00,5b8e4fbef36b61efc428bb94,WPBL,Semifinal A Game #3 (if needed),Women's Pro Baseball League,removed_event,

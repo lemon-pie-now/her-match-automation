@@ -1,17 +1,5 @@
 ## National Women’s Soccer League
 
-### ⚽️ San Diego Wave FC vs North Carolina Courage
-
-Saturday, September 12 | 6:30 PM | Snapdragon Stadium, San Diego, California
-
-### ⚽️ Seattle Reign FC vs Bay FC
-
-Saturday, September 12 | 8:00 PM | Seattle Stadium, Seattle, Washington
-
-### ⚽️ Houston Dash vs Utah Royals FC
-
-Saturday, September 12 | 8:45 PM | Shell Energy Stadium, Houston, Texas
-
 ### ⚽️ Washington Spirit vs Boston Legacy FC
 
 Sunday, September 13 | 1:00 PM | Audi Field, Washington, District of Columbia
@@ -72,12 +60,20 @@ Friday, September 25 | 8:00 PM | Sports Illustrated Stadium, Harrison, New Jerse
 
 Friday, September 25 | 8:30 PM | Seattle Stadium, Seattle, Washington
 
+### ⚽️ Kansas City Current vs Denver Summit FC
+
+Saturday, September 26 | 12:30 PM | CPKC Stadium, Kansas City, Missouri
+
+### ⚽️ Washington Spirit vs Angel City FC
+
+Saturday, September 26 | 6:30 PM | Audi Field, Washington, District of Columbia
+
+### ⚽️ Portland Thorns FC vs Houston Dash
+
+Saturday, September 26 | 8:45 PM | Providence Park, Portland, Oregon
+
 
 ## Northern Super League
-
-### Calgary Wild FC vs. Halifax Tides FC
-
-Saturday, September 12 | 2:00 PM | McMahon Stadium
 
 ### Vancouver Rise FC vs. Ottawa Rapid FC
 
@@ -95,20 +91,12 @@ Saturday, September 19 | 5:00 PM | Swangard Stadium
 
 Sunday, September 20 | 7:00 PM | TD Place
 
+### AFC Toronto vs. Ottawa Rapid FC
+
+Saturday, September 26 | 2:00 PM | York Lions Stadium
+
 
 ## Women's Pro Baseball League
-
-### Semifinal B Game #2
-
-Saturday, September 12 | 7:00 PM | Robin Roberts Stadium, Springfield, Illinois
-
-[Official match information](https://www.womensprobaseballleague.com/games/semi-final-series-b-playoff-game-2/)
-
-### Semifinal A Game #3 (if needed)
-
-Sunday, September 13 | 3:00 PM | Robin Roberts Stadium, Springfield, Illinois
-
-[Official match information](https://www.womensprobaseballleague.com/games/semi-final-series-a-playoff-game-3-if-needed/)
 
 ### Semifinal B Game #3 (if needed)
 
@@ -148,36 +136,6 @@ Tuesday, September 22 | 7:00 PM | Robin Roberts Stadium, Springfield, Illinois
 
 
 ## Women's Super League
-
-### Manchester United vs. Chelsea
-
-Sunday, September 13 | 7:00 AM | Progress with Unity Stadium
-
-[Official match information](https://www.wslfootball.com/match/barclays-wsl/c3fd4039b100435bb0bccaa40e870abe/man-utd-vs-chelsea/)
-
-### Birmingham City vs. Brighton & Hove Albion
-
-Sunday, September 13 | 9:00 AM | St. Andrew's @ Knighthead Park
-
-[Official match information](https://www.wslfootball.com/match/barclays-wsl/b95f88240acb44d39700abb73ff7bd9d/birmingham-vs-brighton/)
-
-### Everton vs. Charlton Athletic
-
-Sunday, September 13 | 9:00 AM | Goodison Park
-
-[Official match information](https://www.wslfootball.com/match/barclays-wsl/749701a2ff474fef8267f412eb96400d/everton-vs-charlton/)
-
-### Liverpool vs. Tottenham Hotspur
-
-Sunday, September 13 | 9:00 AM | BrewDog Stadium
-
-[Official match information](https://www.wslfootball.com/match/barclays-wsl/ca0d4c14b8c648e5a4275f019f8c935c/liverpool-vs-spurs/)
-
-### Arsenal vs. Crystal Palace
-
-Sunday, September 13 | 9:45 AM | Emirates Stadium
-
-[Official match information](https://www.wslfootball.com/match/barclays-wsl/6cfd6441fd864fdd935bb6cd3a362d25/arsenal-vs-crystal-palace/)
 
 ### Aston Villa vs. Manchester City
 
@@ -232,3 +190,33 @@ Sunday, September 20 | 9:00 AM | Chigwell Construction Stadium
 Saturday, September 26 | 8:30 AM | The Valley
 
 [Official match information](https://www.wslfootball.com/match/barclays-wsl/45fa16f02e3f44e0a6973826d4e9ed00/charlton-vs-man-city/)
+
+### London City Lionesses vs. Brighton & Hove Albion
+
+Saturday, September 26 | 12:00 PM | Copperjax Community Stadium
+
+[Official match information](https://www.wslfootball.com/match/barclays-wsl/38fffa5c79e44a84b70a0d188300b414/london-city-vs-brighton/)
+
+### Manchester United vs. West Ham United
+
+Sunday, September 27 | 8:00 AM | Progress with Unity Stadium
+
+[Official match information](https://www.wslfootball.com/match/barclays-wsl/e532f5703fed4cf785fdb10ea5aec6ed/man-utd-vs-west-ham/)
+
+### Birmingham City vs. Crystal Palace
+
+Sunday, September 27 | 9:00 AM | St. Andrew's @ Knighthead Park
+
+[Official match information](https://www.wslfootball.com/match/barclays-wsl/441e06b858aa4367894fb9c93131c22e/birmingham-vs-crystal-palace/)
+
+### Liverpool vs. Everton
+
+Sunday, September 27 | 9:00 AM | Anfield
+
+[Official match information](https://www.wslfootball.com/match/barclays-wsl/b508005aced84d6a87ad2dfbdc3c7a31/liverpool-vs-everton/)
+
+### Tottenham Hotspur vs. Aston Villa
+
+Sunday, September 27 | 9:00 AM | BetWright Stadium
+
+[Official match information](https://www.wslfootball.com/match/barclays-wsl/14547ff6e9cc4965bb506aa2c04e8b27/spurs-vs-aston-villa/)

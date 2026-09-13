@@ -1,105 +1,5 @@
 window.HER_MATCH_EVENTS = [
   {
-    "id": "9eaad51e08c1543d4ef3a52c",
-    "title": "Calgary Wild FC vs. Halifax Tides FC",
-    "sport": "Soccer",
-    "competition": "Northern Super League",
-    "start": "2026-09-12T18:00:00+00:00",
-    "end": "2026-09-12T20:00:00+00:00",
-    "location": "McMahon Stadium",
-    "url": ""
-  },
-  {
-    "id": "b4d2eab2fdba4f421fc06543",
-    "title": "⚽️ San Diego Wave FC vs North Carolina Courage",
-    "sport": "Soccer",
-    "competition": "National Women’s Soccer League",
-    "start": "2026-09-12T22:30:00+00:00",
-    "end": "2026-09-13T00:30:00+00:00",
-    "location": "Snapdragon Stadium, San Diego, California",
-    "url": ""
-  },
-  {
-    "id": "4cf08ae7a31a09f339f1faa9",
-    "title": "Semifinal B Game #2",
-    "sport": "Baseball",
-    "competition": "Women's Pro Baseball League",
-    "start": "2026-09-12T23:00:00+00:00",
-    "end": "2026-09-13T02:00:00+00:00",
-    "location": "Robin Roberts Stadium, Springfield, Illinois",
-    "url": "https://www.womensprobaseballleague.com/games/semi-final-series-b-playoff-game-2/"
-  },
-  {
-    "id": "d0a1c6e806c6fad06d626982",
-    "title": "⚽️ Seattle Reign FC vs Bay FC",
-    "sport": "Soccer",
-    "competition": "National Women’s Soccer League",
-    "start": "2026-09-13T00:00:00+00:00",
-    "end": "2026-09-13T02:00:00+00:00",
-    "location": "Seattle Stadium, Seattle, Washington",
-    "url": ""
-  },
-  {
-    "id": "ad2b338a2a5761fe393cb576",
-    "title": "⚽️ Houston Dash vs Utah Royals FC",
-    "sport": "Soccer",
-    "competition": "National Women’s Soccer League",
-    "start": "2026-09-13T00:45:00+00:00",
-    "end": "2026-09-13T02:45:00+00:00",
-    "location": "Shell Energy Stadium, Houston, Texas",
-    "url": ""
-  },
-  {
-    "id": "5dfad3987081235ac0c1d65c",
-    "title": "Manchester United vs. Chelsea",
-    "sport": "Soccer",
-    "competition": "Women's Super League",
-    "start": "2026-09-13T11:00:00+00:00",
-    "end": "2026-09-13T13:00:00+00:00",
-    "location": "Progress with Unity Stadium",
-    "url": "https://www.wslfootball.com/match/barclays-wsl/c3fd4039b100435bb0bccaa40e870abe/man-utd-vs-chelsea/"
-  },
-  {
-    "id": "9c44f255ead06b7630e081d5",
-    "title": "Birmingham City vs. Brighton & Hove Albion",
-    "sport": "Soccer",
-    "competition": "Women's Super League",
-    "start": "2026-09-13T13:00:00+00:00",
-    "end": "2026-09-13T15:00:00+00:00",
-    "location": "St. Andrew's @ Knighthead Park",
-    "url": "https://www.wslfootball.com/match/barclays-wsl/b95f88240acb44d39700abb73ff7bd9d/birmingham-vs-brighton/"
-  },
-  {
-    "id": "23fb17cbad437066f92e9d9d",
-    "title": "Everton vs. Charlton Athletic",
-    "sport": "Soccer",
-    "competition": "Women's Super League",
-    "start": "2026-09-13T13:00:00+00:00",
-    "end": "2026-09-13T15:00:00+00:00",
-    "location": "Goodison Park",
-    "url": "https://www.wslfootball.com/match/barclays-wsl/749701a2ff474fef8267f412eb96400d/everton-vs-charlton/"
-  },
-  {
-    "id": "0b6b25189f1c734c03978a79",
-    "title": "Liverpool vs. Tottenham Hotspur",
-    "sport": "Soccer",
-    "competition": "Women's Super League",
-    "start": "2026-09-13T13:00:00+00:00",
-    "end": "2026-09-13T15:00:00+00:00",
-    "location": "BrewDog Stadium",
-    "url": "https://www.wslfootball.com/match/barclays-wsl/ca0d4c14b8c648e5a4275f019f8c935c/liverpool-vs-spurs/"
-  },
-  {
-    "id": "672e96f728fcc93a35b810ce",
-    "title": "Arsenal vs. Crystal Palace",
-    "sport": "Soccer",
-    "competition": "Women's Super League",
-    "start": "2026-09-13T13:45:00+00:00",
-    "end": "2026-09-13T15:45:00+00:00",
-    "location": "Emirates Stadium",
-    "url": "https://www.wslfootball.com/match/barclays-wsl/6cfd6441fd864fdd935bb6cd3a362d25/arsenal-vs-crystal-palace/"
-  },
-  {
     "id": "014404dec37810ab26103178",
     "title": "⚽️ Washington Spirit vs Boston Legacy FC",
     "sport": "Soccer",
@@ -118,16 +18,6 @@ window.HER_MATCH_EVENTS = [
     "end": "2026-09-13T19:30:00+00:00",
     "location": "Villa Park",
     "url": "https://www.wslfootball.com/match/barclays-wsl/fa8b542859484d4d932096d59549aaed/aston-villa-vs-man-city/"
-  },
-  {
-    "id": "5b8e4fbef36b61efc428bb94",
-    "title": "Semifinal A Game #3 (if needed)",
-    "sport": "Baseball",
-    "competition": "Women's Pro Baseball League",
-    "start": "2026-09-13T19:00:00+00:00",
-    "end": "2026-09-13T22:00:00+00:00",
-    "location": "Robin Roberts Stadium, Springfield, Illinois",
-    "url": "https://www.womensprobaseballleague.com/games/semi-final-series-a-playoff-game-3-if-needed/"
   },
   {
     "id": "f9c12416aa2a9e9c4f9921f5",
