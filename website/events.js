@@ -1,45 +1,5 @@
 window.HER_MATCH_EVENTS = [
   {
-    "id": "014404dec37810ab26103178",
-    "title": "⚽️ Washington Spirit vs Boston Legacy FC",
-    "sport": "Soccer",
-    "competition": "National Women’s Soccer League",
-    "start": "2026-09-13T17:00:00+00:00",
-    "end": "2026-09-13T19:00:00+00:00",
-    "location": "Audi Field, Washington, District of Columbia",
-    "url": ""
-  },
-  {
-    "id": "131dc514bcc5234584b6adec",
-    "title": "Aston Villa vs. Manchester City",
-    "sport": "Soccer",
-    "competition": "Women's Super League",
-    "start": "2026-09-13T17:30:00+00:00",
-    "end": "2026-09-13T19:30:00+00:00",
-    "location": "Villa Park",
-    "url": "https://www.wslfootball.com/match/barclays-wsl/fa8b542859484d4d932096d59549aaed/aston-villa-vs-man-city/"
-  },
-  {
-    "id": "f9c12416aa2a9e9c4f9921f5",
-    "title": "Vancouver Rise FC vs. Ottawa Rapid FC",
-    "sport": "Soccer",
-    "competition": "Northern Super League",
-    "start": "2026-09-13T20:00:00+00:00",
-    "end": "2026-09-13T22:00:00+00:00",
-    "location": "Swangard Stadium",
-    "url": ""
-  },
-  {
-    "id": "e5c109f49729e6eac3ee6549",
-    "title": "⚽️ Portland Thorns FC vs Chicago Stars FC",
-    "sport": "Soccer",
-    "competition": "National Women’s Soccer League",
-    "start": "2026-09-13T23:00:00+00:00",
-    "end": "2026-09-14T01:00:00+00:00",
-    "location": "Providence Park, Portland, Oregon",
-    "url": ""
-  },
-  {
     "id": "687a479c009059fda6f31be0",
     "title": "Semifinal B Game #3 (if needed)",
     "sport": "Baseball",

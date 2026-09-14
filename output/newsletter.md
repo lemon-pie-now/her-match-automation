@@ -1,13 +1,5 @@
 ## National Women’s Soccer League
 
-### ⚽️ Washington Spirit vs Boston Legacy FC
-
-Sunday, September 13 | 1:00 PM | Audi Field, Washington, District of Columbia
-
-### ⚽️ Portland Thorns FC vs Chicago Stars FC
-
-Sunday, September 13 | 7:00 PM | Providence Park, Portland, Oregon
-
 ### ⚽️ Denver Summit FC vs Bay FC
 
 Wednesday, September 16 | 9:30 PM | Centennial Stadium, Centennial, Colorado
@@ -72,12 +64,16 @@ Saturday, September 26 | 6:30 PM | Audi Field, Washington, District of Columbia
 
 Saturday, September 26 | 8:45 PM | Providence Park, Portland, Oregon
 
+### ⚽️ Bay FC vs Orlando Pride
+
+Sunday, September 27 | 5:00 PM | PayPal Park, San Jose, California
+
+### ⚽️ Utah Royals FC vs North Carolina Courage
+
+Sunday, September 27 | 7:00 PM | America First Field, Sandy, Utah
+
 
 ## Northern Super League
-
-### Vancouver Rise FC vs. Ottawa Rapid FC
-
-Sunday, September 13 | 4:00 PM | Swangard Stadium
 
 ### Halifax Tides FC vs. AFC Toronto
 
@@ -94,6 +90,14 @@ Sunday, September 20 | 7:00 PM | TD Place
 ### AFC Toronto vs. Ottawa Rapid FC
 
 Saturday, September 26 | 2:00 PM | York Lions Stadium
+
+### Halifax Tides FC vs. Montreal Roses FC
+
+Sunday, September 27 | 12:00 PM | Wanderers Grounds
+
+### Calgary Wild FC vs. Vancouver Rise FC
+
+Sunday, September 27 | 4:00 PM | McMahon Stadium
 
 
 ## Women's Pro Baseball League
@@ -136,12 +140,6 @@ Tuesday, September 22 | 7:00 PM | Robin Roberts Stadium, Springfield, Illinois
 
 
 ## Women's Super League
-
-### Aston Villa vs. Manchester City
-
-Sunday, September 13 | 1:30 PM | Villa Park
-
-[Official match information](https://www.wslfootball.com/match/barclays-wsl/fa8b542859484d4d932096d59549aaed/aston-villa-vs-man-city/)
 
 ### Manchester City vs. Liverpool
 
@@ -220,3 +218,9 @@ Sunday, September 27 | 9:00 AM | Anfield
 Sunday, September 27 | 9:00 AM | BetWright Stadium
 
 [Official match information](https://www.wslfootball.com/match/barclays-wsl/14547ff6e9cc4965bb506aa2c04e8b27/spurs-vs-aston-villa/)
+
+### Chelsea vs. Arsenal
+
+Sunday, September 27 | 11:30 AM | Stamford Bridge
+
+[Official match information](https://www.wslfootball.com/match/barclays-wsl/e41e9112d45845d8906deb66c4b8cd73/chelsea-vs-arsenal/)
