@@ -1,4 +1,4 @@
-"""Build the small browser data file used by the static Her Match site."""
+"""Build the small browser data file used by the static Rally49 site."""
 import csv
 import json
 from datetime import datetime, timezone
@@ -25,7 +25,7 @@ def main() -> None:
             })
     events.sort(key=lambda event: event["start"])
     OUTPUT.write_text(
-        "window.HER_MATCH_EVENTS = "
+        "window.RALLY49_EVENTS = "
         + json.dumps(events, ensure_ascii=False, indent=2)
         + ";\n",
         encoding="utf-8",

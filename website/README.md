@@ -1,4 +1,4 @@
-# Her Match website
+# Rally49 website
 
 A dependency-free MVP for discovering professional women's sports schedules and exporting selected matches to Apple Calendar, Google Calendar, Outlook, or any other calendar that accepts `.ics` files.
 

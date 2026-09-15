@@ -1,4 +1,4 @@
-window.HER_MATCH_EVENTS = [
+window.RALLY49_EVENTS = [
   {
     "id": "7e5cbf63e2efc04a06561e90",
     "title": "WPBL Championship Game #1",

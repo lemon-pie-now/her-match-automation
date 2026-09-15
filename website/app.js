@@ -2,7 +2,7 @@
 // Filtering here prevents stale, already-started games from appearing when
 // events.js was generated earlier than the visitor's current page load.
 const state = {
-  events: (window.HER_MATCH_EVENTS || []).filter(
+  events: (window.RALLY49_EVENTS || []).filter(
     (event) => new Date(event.start) >= new Date(),
   ),
   league: "All",
@@ -170,7 +170,7 @@ function download() {
   const calendar =
     `BEGIN:VCALENDAR\r\n` +
     `VERSION:2.0\r\n` +
-    `PRODID:-//Her Match//Calendar//EN\r\n` +
+    `PRODID:-//Rally49//Calendar//EN\r\n` +
     `CALSCALE:GREGORIAN\r\n` +
     `${body}\r\n` +
     `END:VCALENDAR\r\n`;
@@ -178,7 +178,7 @@ function download() {
   const link = document.createElement("a");
 
   link.href = URL.createObjectURL(blob);
-  link.download = "her-match-calendar.ics";
+  link.download = "rally49-calendar.ics";
   link.click();
   URL.revokeObjectURL(link.href);
 }
