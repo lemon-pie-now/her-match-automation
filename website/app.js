@@ -32,17 +32,22 @@ const escapeHtml = (value) =>
 
 const leagues = [...new Set(state.events.map((event) => event.competition))];
 
-// Compact names are used in filters, badges, and the league-card icon.
-const shortLeague = (name) => {
-  if (name === "Women's Pro Baseball League") return "WPBL";
-  if (name.includes("National")) return "NWSL";
-  if (name.includes("Northern")) return "NSL";
-  if (name.includes("Super League")) return "WSL";
-  return name;
+// Explicit metadata avoids confusing similarly named competitions.
+const leagueDirectory = {
+  "National Women’s Soccer League": { short: "NWSL", name: "National Women’s Soccer League", sport: "Soccer", country: "United States" },
+  "Northern Super League": { short: "NSL", name: "Northern Super League", sport: "Soccer", country: "Canada" },
+  "Women's Super League": { short: "WSL", name: "Women’s Super League", sport: "Soccer", country: "England" },
+  "Women's Pro Baseball League": { short: "WPBL", name: "Women’s Pro Baseball League", sport: "Baseball", country: "United States" },
+  "WNBA": { short: "WNBA", name: "Women’s National Basketball Association", sport: "Basketball", country: "United States & Canada" },
 };
-
-const displayLeague = (name) =>
-  name === "Women's Pro Baseball League" ? "WPBL" : name;
+const leagueInfo = (name) => leagueDirectory[name] || {
+  short: name, name,
+  sport: state.events.find((event) => event.competition === name)?.sport || "Sport to be confirmed",
+  country: "Country to be confirmed",
+};
+const shortLeague = (name) => leagueInfo(name).short;
+const displayLeague = (name) => leagueInfo(name).name;
+const leagueDetails = (name) => `${leagueInfo(name).sport} · ${leagueInfo(name).country}`;
 
 // Apply the selected league and free-text search to the current event set.
 function visible() {
@@ -57,13 +62,15 @@ function visible() {
 
 function renderFilters() {
   $("leagueFilters").innerHTML = ["All", ...leagues]
-    .map(
-      (league) =>
-        `<button class="filter ${state.league === league ? "active" : ""}" ` +
-        `data-league="${escapeHtml(league)}">` +
-        `${escapeHtml(league === "All" ? "All leagues" : shortLeague(league))}` +
-        `</button>`,
-    )
+    .map((league, index) => {
+      const description = league === "All" ? "Browse every available league" : `${displayLeague(league)} · ${leagueDetails(league)}`;
+      return `<span class="league-filter-wrap">
+        <button class="filter" data-league="${escapeHtml(league)}" aria-describedby="league-tip-${index}">
+          ${escapeHtml(league === "All" ? "All leagues" : shortLeague(league))}
+        </button>
+        <span class="league-tooltip" role="tooltip" id="league-tip-${index}">${escapeHtml(description)}</span>
+      </span>`;
+    })
     .join("");
 
   document.querySelectorAll(".filter").forEach((button) => {
@@ -90,6 +97,7 @@ function eventMarkup(event) {
     </div>
     <div>
       <h3>${escapeHtml(clean(event.title))}</h3>
+      <span class="event-league">${escapeHtml(shortLeague(event.competition))} · ${escapeHtml(leagueDetails(event.competition))}</span>
       <span class="event-time">${date.toLocaleTimeString(undefined, {
         hour: "numeric",
         minute: "2-digit",
@@ -98,7 +106,6 @@ function eventMarkup(event) {
     <p class="event-location">${escapeHtml(
       event.location || "Location to be announced",
     )}</p>
-    <span class="league-label">${escapeHtml(shortLeague(event.competition))}</span>
     <input class="select-event" type="checkbox"
       aria-label="Select ${escapeHtml(clean(event.title))}"
       data-id="${escapeHtml(event.id)}" ${selected}>
@@ -132,7 +139,14 @@ function renderHero() {
 // Refresh results, counts, pagination, and selection handlers together so the
 // interface stays consistent after any filter or search change.
 function render() {
-  renderFilters();
+  document.querySelectorAll(".filter").forEach((button) => {
+    const active = button.dataset.league === state.league;
+    button.classList.toggle("active", active);
+    button.setAttribute("aria-pressed", String(active));
+  });
+  $("leagueSummary").textContent = state.league === "All"
+    ? "All leagues · Sport and country shown with each game"
+    : `${displayLeague(state.league)} · ${leagueDetails(state.league)}`;
   renderDownloadButton();
   const events = visible();
   const shown = events.slice(0, state.limit);
@@ -221,6 +235,7 @@ function renderLeagues() {
         <b>${escapeHtml(shortLeague(league))}</b>
         <div>
           <h3>${escapeHtml(displayLeague(league))}</h3>
+          <p class="league-details">${escapeHtml(leagueDetails(league))}</p>
           <p>${count} upcoming matches</p>
         </div>
       </article>`;
@@ -261,5 +276,6 @@ $("downloadCalendar").onclick = download;
 
 // Perform the initial page render.
 renderHero();
+renderFilters();
 render();
 renderLeagues();

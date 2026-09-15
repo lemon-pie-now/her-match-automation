@@ -34,3 +34,15 @@ footer p{color:var(--muted)}
 section[id]{scroll-margin-top:96px}
 @media(max-width:900px){.hero{grid-template-columns:1fr}.hero-copy{padding-bottom:32px}.hero-art{min-height:0;padding:24px 6vw 64px;justify-items:start}.feature-card{max-width:560px}.toolbar{grid-template-columns:1fr}.filter-group{grid-row:auto;grid-column:auto}.download-button{white-space:normal}}
 @media(max-width:560px){.hero-copy{padding:64px 24px 24px}h1{font-size:46px}.hero-art{padding:16px 24px 56px}.feature-card{padding:24px}.feature-card h2{font-size:26px}.filter{padding:10px 12px}.empty{padding:48px 20px}.results-meta{gap:12px}.event-time{display:block;margin-top:8px;line-height:1.5}}
+
+/* League identity is visible on every screen, with supplementary filter hints. */
+.league-filter-wrap{position:relative;display:inline-flex}
+.league-tooltip{display:none;position:absolute;top:100%;left:0;z-index:30;width:260px;max-width:70vw;padding:12px 14px;border:1px solid var(--line);border-radius:6px;background:#fff;color:var(--ink);box-shadow:0 6px 20px #19162214;font-size:13px;line-height:1.6}
+.league-filter-wrap:hover .league-tooltip,.league-filter-wrap:focus-within .league-tooltip{display:block}
+.filter-group{overflow:visible}
+.league-summary{font-size:14px;font-weight:600;color:var(--purple);margin:24px 0 0;line-height:1.6}
+.event-league{display:block;font-size:12px;color:var(--muted);line-height:1.6;margin:7px 0}
+.event{grid-template-columns:90px minmax(0,1fr) minmax(0,1fr) 38px}
+.league-card .league-details{color:var(--purple);line-height:1.6}
+@media(max-width:900px){.event{grid-template-columns:70px minmax(0,1fr) 30px}}
+@media(max-width:560px){.league-filter-wrap{position:static}.filter-group{position:relative}.league-tooltip{max-width:100%;width:100%;box-sizing:border-box}}
