@@ -3,10 +3,10 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Find and follow professional women's sports, all in one calendar.">
+  <meta name="description" content="Plan your week in women's sports. Browse upcoming games, choose your favourites, and download your picks to your calendar.">
   <meta name="referrer" content="strict-origin-when-cross-origin">
   <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data:; object-src 'none'; base-uri 'none'; form-action 'none'">
-  <title>Rally49 — Women's sports, on your calendar</title>
+  <title>Rally49 — Plan your week in women's sports</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@700;800&display=swap" rel="stylesheet">
@@ -26,19 +26,15 @@
   <main id="top">
     <section class="hero">
       <div class="hero-copy">
-        <p class="eyebrow"><span></span> THE WOMEN'S SPORTS CALENDAR</p>
-        <h1>Every match.<br><em>Right on time.</em></h1>
-        <p class="hero-intro">One place to discover professional women's sports and add the games you care about to your calendar.</p>
-        <a class="primary-button" href="#calendar">Explore the calendar <span>↘</span></a>
-        <div class="proof"><strong>117+</strong><span>upcoming matches<br>and counting</span></div>
+        <p class="eyebrow"><span></span> YOUR WEEK. YOUR GAMES.</p>
+        <h1>Make room for your<br><em>next favourite game.</em></h1>
+        <p class="hero-intro">Browse upcoming women's sports, choose your games, and add your picks to your calendar.</p>
+        <a class="primary-button" href="#calendar">Browse upcoming games <span>↘</span></a>
+        <div class="proof"><strong id="upcomingCount">—</strong><span>upcoming games<br>in the schedule</span></div>
       </div>
       <div class="hero-art" aria-label="Upcoming match preview">
-        <div class="orbit orbit-one"></div><div class="orbit orbit-two"></div>
-        <div class="hero-badge">UP NEXT</div>
-        <article class="feature-card">
-          <p>WED · AUG 19</p><span class="sport-icon">⚽</span>
-          <h2>Racing Louisville FC<br><small>vs</small><br>Seattle Reign FC</h2>
-          <div><span>6:30 PM</span><span>NWSL</span></div>
+        <article class="feature-card" id="featuredGame" aria-label="Next scheduled game">
+          <p>UP NEXT</p><h2>Finding your next game…</h2>
         </article>
       </div>
     </section>
@@ -49,16 +45,18 @@
 
     <section class="calendar-section" id="calendar">
       <div class="section-heading">
-        <div><p class="eyebrow dark"><span></span> DON'T MISS THE MOMENT</p><h2>Your week in<br>women's sports.</h2></div>
+        <div><p class="eyebrow dark"><span></span> MAKE A LITTLE TIME FOR GAME TIME</p><h2>Your week in<br>women's sports.</h2></div>
         <p>Browse upcoming matches, filter by league, and download exactly what you want to your calendar.</p>
       </div>
 
       <div class="toolbar">
         <label class="search"><span>⌕</span><input id="search" type="search" placeholder="Search teams or leagues" aria-label="Search teams or leagues"></label>
         <div class="filter-group" id="leagueFilters" aria-label="Filter by league"></div>
-        <button class="download-button" id="downloadCalendar" type="button">Add selected to calendar <span>↓</span></button>
+        <button class="download-button" id="downloadCalendar" type="button" aria-describedby="downloadHelp">Download calendar</button>
       </div>
 
+      <p class="calendar-note" id="downloadHelp">Download a one-time calendar file for Apple Calendar, Google Calendar, or Outlook. Imported games won’t update automatically when schedules change.</p>
+      <p class="calendar-note" id="timezoneNote"></p>
       <div class="results-meta"><p id="resultCount">Loading matches…</p><button id="clearFilters" type="button">Clear filters</button></div>
       <div class="event-list" id="eventList" aria-live="polite"></div>
       <button class="load-more" id="loadMore" type="button">Show more matches</button>
@@ -70,11 +68,11 @@
     </section>
 
     <section class="how-section" id="about">
-      <p class="eyebrow dark"><span></span> SIMPLE BY DESIGN</p><h2>Pick. Add. Never miss.</h2>
+      <p class="eyebrow dark"><span></span> SIMPLE BY DESIGN</p><h2>Find. Pick. Make plans.</h2>
       <div class="steps">
         <article><b>01</b><h3>Find your league</h3><p>Browse schedules from professional women's leagues in one clean place.</p></article>
         <article><b>02</b><h3>Choose your matches</h3><p>Search and filter to create a calendar that fits the sports you follow.</p></article>
-        <article><b>03</b><h3>Add to your calendar</h3><p>Download a calendar that works with Apple, Google, Outlook, and more.</p></article>
+        <article><b>03</b><h3>Add to your calendar</h3><p>Import your downloaded file into Apple Calendar, Google Calendar, or Outlook. Check back for schedule changes.</p></article>
       </div>
     </section>
   </main>

@@ -4,7 +4,7 @@
 const state = {
   events: (window.RALLY49_EVENTS || []).filter(
     (event) => new Date(event.start) >= new Date(),
-  ),
+  ).sort((a, b) => new Date(a.start) - new Date(b.start)),
   league: "All",
   query: "",
   limit: 10,
@@ -105,10 +105,35 @@ function eventMarkup(event) {
   </article>`;
 }
 
+function renderDownloadButton() {
+  const count = state.selected.size || visible().length;
+  $("downloadCalendar").textContent = state.selected.size
+    ? `Download ${count} selected game${count === 1 ? "" : "s"} ↓`
+    : `Download all ${count} matching games ↓`;
+  $("downloadCalendar").disabled = count === 0;
+}
+
+function renderHero() {
+  $("upcomingCount").textContent = state.events.length.toLocaleString();
+  const timezone = Intl.DateTimeFormat().resolvedOptions().timeZone;
+  $("timezoneNote").textContent = `All game times shown in your local timezone: ${timezone}.`;
+  const event = state.events[0];
+  if (!event) {
+    $("featuredGame").innerHTML = '<p>THE NEXT CHAPTER</p><h2>More games to look forward to.</h2><p>No upcoming games in the current schedule. Check back soon.</p>';
+    return;
+  }
+  const date = new Date(event.start);
+  $("featuredGame").innerHTML = `<p>UP NEXT · ${escapeHtml(shortLeague(event.competition))}</p>
+    <h2>${escapeHtml(clean(event.title))}</h2>
+    <p>${escapeHtml(date.toLocaleDateString(undefined, { weekday: "long", month: "short", day: "numeric", year: "numeric" }))}</p>
+    <div><span>${escapeHtml(date.toLocaleTimeString(undefined, { hour: "numeric", minute: "2-digit", timeZoneName: "short" }))}</span><a href="#calendar">Browse games ↘</a></div>`;
+}
+
 // Refresh results, counts, pagination, and selection handlers together so the
 // interface stays consistent after any filter or search change.
 function render() {
   renderFilters();
+  renderDownloadButton();
   const events = visible();
   const shown = events.slice(0, state.limit);
 
@@ -123,6 +148,7 @@ function render() {
     checkbox.onchange = () => {
       if (checkbox.checked) state.selected.add(checkbox.dataset.id);
       else state.selected.delete(checkbox.dataset.id);
+      renderDownloadButton();
     };
   });
 }
@@ -234,5 +260,6 @@ $("loadMore").onclick = () => {
 $("downloadCalendar").onclick = download;
 
 // Perform the initial page render.
+renderHero();
 render();
 renderLeagues();
