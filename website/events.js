@@ -1,15 +1,5 @@
 window.HER_MATCH_EVENTS = [
   {
-    "id": "687a479c009059fda6f31be0",
-    "title": "Semifinal B Game #3 (if needed)",
-    "sport": "Baseball",
-    "competition": "Women's Pro Baseball League",
-    "start": "2026-09-14T23:00:00+00:00",
-    "end": "2026-09-15T02:00:00+00:00",
-    "location": "Robin Roberts Stadium, Springfield, Illinois",
-    "url": "https://www.womensprobaseballleague.com/games/semi-final-series-b-playoff-game-3-if-needed/"
-  },
-  {
     "id": "7e5cbf63e2efc04a06561e90",
     "title": "WPBL Championship Game #1",
     "sport": "Baseball",

@@ -102,12 +102,6 @@ Sunday, September 27 | 4:00 PM | McMahon Stadium
 
 ## Women's Pro Baseball League
 
-### Semifinal B Game #3 (if needed)
-
-Monday, September 14 | 7:00 PM | Robin Roberts Stadium, Springfield, Illinois
-
-[Official match information](https://www.womensprobaseballleague.com/games/semi-final-series-b-playoff-game-3-if-needed/)
-
 ### WPBL Championship Game #1
 
 Wednesday, September 16 | 7:00 PM | Robin Roberts Stadium, Springfield, Illinois
