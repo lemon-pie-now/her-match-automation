@@ -1,0 +1,61 @@
+name: Sync Rally49 website schedule
+on:
+  workflow_run:
+    workflows: [Update Her Match Events]
+    types: [completed]
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: rally49-schedule-sync
+  cancel-in-progress: false
+jobs:
+  sync:
+    if: vars.WEBSITE_SYNC_ENABLED == 'true' && (github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Read latest successful generated data
+        uses: actions/checkout@v6
+        with:
+          ref: main
+          path: automation
+          persist-credentials: false
+      - name: Check out private website
+        uses: actions/checkout@v6
+        with:
+          repository: lemon-pie-now/rally49-website
+          ref: main
+          path: website-repo
+          ssh-key: ${{ secrets.WEBSITE_DEPLOY_KEY }}
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Transfer only public schedule data
+        run: cp automation/website/events.js website-repo/public/events.js
+      - name: Validate website and schedule
+        working-directory: website-repo
+        run: |
+          node --check public/events.js
+          node tests/website.cjs
+          python scripts/build.py
+      - name: Commit and push schedule
+        working-directory: website-repo
+        run: |
+          git config user.name 'Rally49 Schedule Bot'
+          git config user.email 'rally49-bot@users.noreply.github.com'
+          git add public/events.js
+          if git diff --cached --quiet; then
+            echo 'Schedule unchanged; no deployment needed.'
+            exit 0
+          fi
+          git commit -m 'Refresh public game schedule'
+          for attempt in 1 2 3; do
+            if git push origin HEAD:main; then exit 0; fi
+            git pull --rebase origin main || exit 1
+          done
+          echo 'Push failed. Rerun this workflow after resolving concurrent changes.'
+          exit 1

@@ -9,3 +9,6 @@ __pycache__/
 data/sources.csv
 data/sources.xlsx
 data/~$*.xlsx
+
+# Independent private website checkout (its own Git repository).
+/rally49-website/
