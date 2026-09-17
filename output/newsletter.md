@@ -1,13 +1,5 @@
 ## National Women’s Soccer League
 
-### ⚽️ Denver Summit FC vs Bay FC
-
-Wednesday, September 16 | 9:30 PM | Centennial Stadium, Centennial, Colorado
-
-### ⚽️ Angel City FC vs Seattle Reign FC
-
-Wednesday, September 16 | 10:00 PM | BMO Stadium, Los Angeles, California
-
 ### ⚽️ San Diego Wave FC vs Kansas City Current
 
 Friday, September 18 | 10:00 PM | Snapdragon Stadium, San Diego, California
@@ -101,12 +93,6 @@ Sunday, September 27 | 4:00 PM | McMahon Stadium
 
 
 ## Women's Pro Baseball League
-
-### WPBL Championship Game #1
-
-Wednesday, September 16 | 7:00 PM | Robin Roberts Stadium, Springfield, Illinois
-
-[Official match information](https://www.womensprobaseballleague.com/games/wpbl-championship-game-1/)
 
 ### WPBL Championship Game #2
 

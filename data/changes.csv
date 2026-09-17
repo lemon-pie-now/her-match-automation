@@ -1784,3 +1784,4 @@ detected_at_utc,event_id,title,competition,change_type,changed_fields
 2026-09-13T14:55:39.648925+00:00,4cf08ae7a31a09f339f1faa9,WPBL,Semifinal B Game #2,Women's Pro Baseball League,updated_event,description
 2026-09-13T14:55:39.648925+00:00,5b8e4fbef36b61efc428bb94,WPBL,Semifinal A Game #3 (if needed),Women's Pro Baseball League,removed_event,
 2026-09-15T15:34:30.346959+00:00,687a479c009059fda6f31be0,WPBL,Semifinal B Game #3 (if needed),Women's Pro Baseball League,updated_event,description
+2026-09-17T15:33:27.576691+00:00,7e5cbf63e2efc04a06561e90,WPBL,WPBL Championship Game #1,Women's Pro Baseball League,updated_event,description

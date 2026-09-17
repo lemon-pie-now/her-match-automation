@@ -1,35 +1,5 @@
 window.RALLY49_EVENTS = [
   {
-    "id": "7e5cbf63e2efc04a06561e90",
-    "title": "WPBL Championship Game #1",
-    "sport": "Baseball",
-    "competition": "Women's Pro Baseball League",
-    "start": "2026-09-16T23:00:00+00:00",
-    "end": "2026-09-17T02:00:00+00:00",
-    "location": "Robin Roberts Stadium, Springfield, Illinois",
-    "url": "https://www.womensprobaseballleague.com/games/wpbl-championship-game-1/"
-  },
-  {
-    "id": "7da61ef04442e1020c4ae8ab",
-    "title": "⚽️ Denver Summit FC vs Bay FC",
-    "sport": "Soccer",
-    "competition": "National Women’s Soccer League",
-    "start": "2026-09-17T01:30:00+00:00",
-    "end": "2026-09-17T03:30:00+00:00",
-    "location": "Centennial Stadium, Centennial, Colorado",
-    "url": ""
-  },
-  {
-    "id": "7365f9638f3d909a61fab866",
-    "title": "⚽️ Angel City FC vs Seattle Reign FC",
-    "sport": "Soccer",
-    "competition": "National Women’s Soccer League",
-    "start": "2026-09-17T02:00:00+00:00",
-    "end": "2026-09-17T04:00:00+00:00",
-    "location": "BMO Stadium, Los Angeles, California",
-    "url": ""
-  },
-  {
     "id": "617271f10c45f24657edb612",
     "title": "WPBL Championship Game #2",
     "sport": "Baseball",
