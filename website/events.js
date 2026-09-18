@@ -1,15 +1,5 @@
 window.RALLY49_EVENTS = [
   {
-    "id": "617271f10c45f24657edb612",
-    "title": "WPBL Championship Game #2",
-    "sport": "Baseball",
-    "competition": "Women's Pro Baseball League",
-    "start": "2026-09-17T23:00:00+00:00",
-    "end": "2026-09-18T02:00:00+00:00",
-    "location": "Robin Roberts Stadium, Springfield, Illinois",
-    "url": "https://www.womensprobaseballleague.com/games/wpbl-championship-game-2/"
-  },
-  {
     "id": "e3c1f55abce7588c6e2c73a5",
     "title": "Manchester City vs. Liverpool",
     "sport": "Soccer",

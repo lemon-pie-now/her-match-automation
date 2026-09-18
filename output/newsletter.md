@@ -94,12 +94,6 @@ Sunday, September 27 | 4:00 PM | McMahon Stadium
 
 ## Women's Pro Baseball League
 
-### WPBL Championship Game #2
-
-Thursday, September 17 | 7:00 PM | Robin Roberts Stadium, Springfield, Illinois
-
-[Official match information](https://www.womensprobaseballleague.com/games/wpbl-championship-game-2/)
-
 ### WPBL Championship Game #3
 
 Saturday, September 19 | 7:00 PM | Robin Roberts Stadium, Springfield, Illinois
