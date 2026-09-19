@@ -1,45 +1,5 @@
 window.RALLY49_EVENTS = [
   {
-    "id": "e3c1f55abce7588c6e2c73a5",
-    "title": "Manchester City vs. Liverpool",
-    "sport": "Soccer",
-    "competition": "Women's Super League",
-    "start": "2026-09-18T18:00:00+00:00",
-    "end": "2026-09-18T20:00:00+00:00",
-    "location": "Joie Stadium",
-    "url": "https://www.wslfootball.com/match/barclays-wsl/9c8826e6e4c64eda83f6ce0adc752e7a/man-city-vs-liverpool/"
-  },
-  {
-    "id": "dd9b37a8a857ce0a4a85e015",
-    "title": "⚽️ San Diego Wave FC vs Kansas City Current",
-    "sport": "Soccer",
-    "competition": "National Women’s Soccer League",
-    "start": "2026-09-19T02:00:00+00:00",
-    "end": "2026-09-19T04:00:00+00:00",
-    "location": "Snapdragon Stadium, San Diego, California",
-    "url": ""
-  },
-  {
-    "id": "ca847aa8c91990e904e496cb",
-    "title": "Charlton Athletic vs. London City Lionesses",
-    "sport": "Soccer",
-    "competition": "Women's Super League",
-    "start": "2026-09-19T11:30:00+00:00",
-    "end": "2026-09-19T13:30:00+00:00",
-    "location": "The Valley",
-    "url": "https://www.wslfootball.com/match/barclays-wsl/ef62c1e58fa2499c9b9f8b31d8377401/charlton-vs-london-city/"
-  },
-  {
-    "id": "2db22aa5da7040b2a0b5d6f3",
-    "title": "Chelsea vs. Birmingham City",
-    "sport": "Soccer",
-    "competition": "Women's Super League",
-    "start": "2026-09-19T11:45:00+00:00",
-    "end": "2026-09-19T13:45:00+00:00",
-    "location": "Stamford Bridge",
-    "url": "https://www.wslfootball.com/match/barclays-wsl/4f7de4e451d54c11b0e2ff8644855354/chelsea-vs-birmingham/"
-  },
-  {
     "id": "84d11922b91abeb664f35cb4",
     "title": "Arsenal vs. Manchester United",
     "sport": "Soccer",
@@ -944,8 +904,8 @@ window.RALLY49_EVENTS = [
     "title": "2026 Semi-Final A - Leg 1",
     "sport": "Soccer",
     "competition": "Northern Super League",
-    "start": "2026-10-31T19:00:00+00:00",
-    "end": "2026-10-31T21:00:00+00:00",
+    "start": "2026-10-31T18:00:00+00:00",
+    "end": "2026-10-31T20:00:00+00:00",
     "location": "TBD",
     "url": ""
   },
@@ -1014,8 +974,8 @@ window.RALLY49_EVENTS = [
     "title": "2026 Semi-Final B - Leg 1",
     "sport": "Soccer",
     "competition": "Northern Super League",
-    "start": "2026-11-01T20:00:00+00:00",
-    "end": "2026-11-01T22:00:00+00:00",
+    "start": "2026-11-01T21:00:00+00:00",
+    "end": "2026-11-01T23:00:00+00:00",
     "location": "TBD",
     "url": ""
   },
@@ -1154,8 +1114,8 @@ window.RALLY49_EVENTS = [
     "title": "2026 Semi-Final A - Leg 2",
     "sport": "Soccer",
     "competition": "Northern Super League",
-    "start": "2026-11-07T20:00:00+00:00",
-    "end": "2026-11-07T22:00:00+00:00",
+    "start": "2026-11-07T19:00:00+00:00",
+    "end": "2026-11-07T21:00:00+00:00",
     "location": "TBD",
     "url": ""
   },
@@ -1184,8 +1144,8 @@ window.RALLY49_EVENTS = [
     "title": "2026 Semi-Final B - Leg 2",
     "sport": "Soccer",
     "competition": "Northern Super League",
-    "start": "2026-11-08T20:00:00+00:00",
-    "end": "2026-11-08T22:00:00+00:00",
+    "start": "2026-11-08T21:00:00+00:00",
+    "end": "2026-11-08T23:00:00+00:00",
     "location": "TBD",
     "url": ""
   },

@@ -1,9 +1,5 @@
 ## National Women’s Soccer League
 
-### ⚽️ San Diego Wave FC vs Kansas City Current
-
-Friday, September 18 | 10:00 PM | Snapdragon Stadium, San Diego, California
-
 ### ⚽️ Orlando Pride vs Portland Thorns FC
 
 Saturday, September 19 | 4:00 PM | Inter.co Stadium, Orlando, Florida
@@ -64,6 +60,14 @@ Sunday, September 27 | 5:00 PM | PayPal Park, San Jose, California
 
 Sunday, September 27 | 7:00 PM | America First Field, Sandy, Utah
 
+### ⚽️ Orlando Pride vs San Diego Wave FC
+
+Friday, October 02 | 8:00 PM | Inter.co Stadium, Orlando, Florida
+
+### ⚽️ Seattle Reign FC vs North Carolina Courage
+
+Friday, October 02 | 10:00 PM | Seattle Stadium, Seattle, Washington
+
 
 ## Northern Super League
 
@@ -91,6 +95,10 @@ Sunday, September 27 | 12:00 PM | Wanderers Grounds
 
 Sunday, September 27 | 4:00 PM | McMahon Stadium
 
+### Montreal Roses FC vs. Ottawa Rapid FC
+
+Friday, October 02 | 7:00 PM | Stade Boréale
+
 
 ## Women's Pro Baseball League
 
@@ -114,24 +122,6 @@ Tuesday, September 22 | 7:00 PM | Robin Roberts Stadium, Springfield, Illinois
 
 
 ## Women's Super League
-
-### Manchester City vs. Liverpool
-
-Friday, September 18 | 2:00 PM | Joie Stadium
-
-[Official match information](https://www.wslfootball.com/match/barclays-wsl/9c8826e6e4c64eda83f6ce0adc752e7a/man-city-vs-liverpool/)
-
-### Charlton Athletic vs. London City Lionesses
-
-Saturday, September 19 | 7:30 AM | The Valley
-
-[Official match information](https://www.wslfootball.com/match/barclays-wsl/ef62c1e58fa2499c9b9f8b31d8377401/charlton-vs-london-city/)
-
-### Chelsea vs. Birmingham City
-
-Saturday, September 19 | 7:45 AM | Stamford Bridge
-
-[Official match information](https://www.wslfootball.com/match/barclays-wsl/4f7de4e451d54c11b0e2ff8644855354/chelsea-vs-birmingham/)
 
 ### Arsenal vs. Manchester United
 
@@ -198,3 +188,9 @@ Sunday, September 27 | 9:00 AM | BetWright Stadium
 Sunday, September 27 | 11:30 AM | Stamford Bridge
 
 [Official match information](https://www.wslfootball.com/match/barclays-wsl/e41e9112d45845d8906deb66c4b8cd73/chelsea-vs-arsenal/)
+
+### Manchester United vs. Liverpool
+
+Saturday, October 03 | 8:30 AM | Progress with Unity Stadium
+
+[Official match information](https://www.wslfootball.com/match/barclays-wsl/afab794465174afab54552809d76f5fb/man-utd-vs-liverpool/)

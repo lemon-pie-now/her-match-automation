@@ -1786,3 +1786,21 @@ detected_at_utc,event_id,title,competition,change_type,changed_fields
 2026-09-15T15:34:30.346959+00:00,687a479c009059fda6f31be0,WPBL,Semifinal B Game #3 (if needed),Women's Pro Baseball League,updated_event,description
 2026-09-17T15:33:27.576691+00:00,7e5cbf63e2efc04a06561e90,WPBL,WPBL Championship Game #1,Women's Pro Baseball League,updated_event,description
 2026-09-18T15:00:12.446590+00:00,617271f10c45f24657edb612,WPBL,WPBL Championship Game #2,Women's Pro Baseball League,updated_event,description
+2026-09-19T14:27:10.618645+00:00,5bc2075379856f2528755a34,nsl,2026 Semi-Final A - Leg 1,Northern Super League,updated_event,"start_time_utc,end_time_utc"
+2026-09-19T14:27:10.618645+00:00,91d14d1178456e33ef38ae3a,nsl,2026 Semi-Final A - Leg 2,Northern Super League,updated_event,"start_time_utc,end_time_utc"
+2026-09-19T14:27:10.618645+00:00,79a89d960f22e569d3cfbffe,nsl,Montreal Roses FC vs. Ottawa Rapid FC,Northern Super League,updated_event,description
+2026-09-19T14:27:10.618645+00:00,b66a1a915fb89086ac9aa7af,nsl,Montreal Roses FC vs. Ottawa Rapid FC,Northern Super League,updated_event,description
+2026-09-19T14:27:10.618645+00:00,79784df26dd60549373495a3,nsl,AFC Toronto vs. Halifax Tides FC,Northern Super League,updated_event,description
+2026-09-19T14:27:10.618645+00:00,1ebaaef1e311872902a5397a,nsl,2026 Semi-Final B - Leg 1,Northern Super League,updated_event,"start_time_utc,end_time_utc"
+2026-09-19T14:27:10.618645+00:00,96ba9a726ad4a56e3c899afe,nsl,2026 Semi-Final B - Leg 2,Northern Super League,updated_event,"start_time_utc,end_time_utc"
+2026-09-19T14:27:10.618645+00:00,0adad0b99755658a3e61cce3,nsl,Montreal Roses FC vs. Halifax Tides FC,Northern Super League,removed_event,
+2026-09-19T14:27:10.618645+00:00,c336ab238c1fb89e3962c379,nsl,Vancouver Rise FC vs. Calgary Wild FC,Northern Super League,removed_event,
+2026-09-19T14:27:10.618645+00:00,67cb39b8b9a97766a4e61912,NWSL,⚽️ Kansas City Current vs North Carolina Courage,National Women’s Soccer League,removed_event,
+2026-09-19T14:27:10.618645+00:00,d7fdfc4f4bda66275495c07c,NWSL,⚽️ Orlando Pride vs Utah Royals FC,National Women’s Soccer League,removed_event,
+2026-09-19T14:27:10.618645+00:00,bdfc8ca2ea62e9ef73cf7b3e,NWSL,⚽️ Denver Summit FC vs Chicago Stars FC,National Women’s Soccer League,removed_event,
+2026-09-19T14:27:10.618645+00:00,87d0f778aedf931010d458f8,NWSL,⚽️ Washington Spirit vs Bay FC,National Women’s Soccer League,removed_event,
+2026-09-19T14:27:10.618645+00:00,163726fa864780f7241d5293,nsl,AFC Toronto vs. Ottawa Rapid FC,Northern Super League,removed_event,
+2026-09-19T14:27:10.618645+00:00,a9e50aac65e5c78b2851cabd,NWSL,⚽️ Seattle Reign FC vs Houston Dash,National Women’s Soccer League,removed_event,
+2026-09-19T14:27:10.618645+00:00,04447129f06464c4eabe28d3,NWSL,⚽️ Boston Legacy FC vs Angel City FC,National Women’s Soccer League,removed_event,
+2026-09-19T14:27:10.618645+00:00,3eba407345680a8161bb4779,NWSL,⚽️ Utah Royals FC vs Boston Legacy FC,National Women’s Soccer League,removed_event,
+2026-09-19T14:27:10.618645+00:00,981f1f3f22e1a07ae84834c7,NWSL,⚽️ Bay FC vs Kansas City Current,National Women’s Soccer League,removed_event,
